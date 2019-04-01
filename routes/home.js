@@ -5,10 +5,10 @@ router.get('/', function(req, res, next)
 {
 	res.render( 'home', { title: 'Express' } );
 });
-							/* GET imagery page. */
-router.get('/imagery', function(req, res, next)
+							/* GET images page. */
+router.get('/images', function(req, res, next)
 {
-	res.render( 'imagery', { title: 'Imagery' } );
+	res.render( 'images', { title: 'Images' } );
 });
 
 module.exports = router;
