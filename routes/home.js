@@ -10,5 +10,10 @@ router.get('/images', function(req, res, next)
 {
 	res.render( 'images', { title: 'Images' } );
 });
+							/* GET music page. */
+router.get('/music', function(req, res, next)
+{
+	res.render( 'music', { title: 'Music' } );
+});
 
 module.exports = router;
