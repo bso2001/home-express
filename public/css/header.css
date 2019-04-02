@@ -20,6 +20,11 @@ header .title
 	margin-left: 4vw;
 }
 
+header .title a:visited
+{
+	color: #ffca45;
+}
+
 header .menu
 {
 	display: flex;
@@ -34,6 +39,11 @@ header .menu .menuitem
 	color: #e0e0e0;
 	padding: 10px 5x;
 	text-transform: uppercase;
+}
+
+header .menu .menuitem a:visited
+{
+	color: #e0e0e0;
 }
 
 header .menu .menuitem:hover

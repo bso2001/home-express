@@ -39,11 +39,6 @@ a
 	text-decoration: none;
 }
 
-a:visited
-{
-	color: inherit;
-}
-
 h1
 {
 	color: #444;
@@ -91,6 +86,28 @@ p
 	font-size: 15px;
 }
 
+.bso-credits-large
+{
+	color: #222;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 18px;
+}
+
+.bso-credits-medium
+{
+	color: #000;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.bso-credits-small
+{
+	color: #444;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 13px;
+}
+
 .bso-album-link
 {
 	color: #222;
@@ -103,6 +120,49 @@ p
 .bso-album-link:hover
 {
 	text-decoration: underline;
+}
+
+.bso-album-track
+{
+	color: #000;
+	float: left;
+	font-family: HelveticaNeue-UltraLight, sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 4px;
+}
+
+.bso-album-track:hover
+{
+	color: #e08030 !important;
+}
+
+.bso-album-track:visited
+{
+	color: #000 !important;
+}
+
+.bso-track-time
+{
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.bso-lyrics-link
+{
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 13px;
+	cursor: pointer;
+	margin-left: 6px;
+	margin-top: 5px;
+	color: #888440;
+	float: left;
+}
+
+.bso-lyrics-link:hover
+{
+	color: #404060;
 }
 
 .bso-box
@@ -234,4 +294,22 @@ p
 		height: 100%;
 		width: 50vw;
 	}
+}
+
+/*
+** pmits.ejs
+*/
+
+.pmits
+{
+	background-image: url(/images/pmits-cover0.jpeg);
+	background-size: cover;
+	height: 50vh;
+}
+
+.tree
+{
+	background-image: url(/images/back-tree.png);
+	background-size: cover;
+	height: 100vh;
 }

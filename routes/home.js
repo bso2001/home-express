@@ -15,5 +15,10 @@ router.get('/music', function(req, res, next)
 {
 	res.render( 'music', { title: 'Music' } );
 });
+							/* GET point-me-into-the-sky. */
+router.get('/point-me-into-the-sky', function(req, res, next)
+{
+	res.render( 'pmits', { title: 'Point Me Into the Sky' } );
+});
 
 module.exports = router;
