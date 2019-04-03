@@ -21,4 +21,10 @@ router.get('/point-me-into-the-sky', function(req, res, next)
 	res.render( 'pmits', { title: 'Point Me Into the Sky' } );
 });
 
+							/* GET last-summer. */
+router.get('/last-summer', function(req, res, next)
+{
+	res.render( 'bnml', { title: 'Last Summer' } );
+});
+
 module.exports = router;

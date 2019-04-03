@@ -169,7 +169,7 @@ p
 {
 	flex: 1;
 	color: #797979;
-	padding: 20px 24px 20px 24px;
+	padding: 20px 26px 20px 26px;
 	margin-right: 30px;
 	background-color: #dfdfdf;
 	border: 1px solid transparent;
@@ -273,6 +273,47 @@ p
 	color: #eee;
 }
 
+/*
+** pmits.ejs
+*/
+
+.pmits-image
+{
+	background-image: url(/images/pmits-cover0.jpeg);
+	background-size: cover;
+	height: 50vh;
+}
+
+.tree-image
+{
+	background-image: url(/images/back-tree.png);
+	background-size: cover;
+	height: 100vh;
+}
+
+/*
+** bnml.ejs
+*/
+
+.bnml-image
+{
+	background-image: url(/images/bnml-cover1-1.jpg);
+	background-size: cover;
+	height: 50vh;
+}
+
+.nicks-place
+{
+	margin: 0 auto;
+	background-image: url(/images/nicks.jpg);
+	background-size: cover;
+	width: 120vh;
+	height: 60vh;
+}
+
+
+
+
 
 @media (min-width: 1000px)
 {
@@ -294,22 +335,4 @@ p
 		height: 100%;
 		width: 50vw;
 	}
-}
-
-/*
-** pmits.ejs
-*/
-
-.pmits
-{
-	background-image: url(/images/pmits-cover0.jpeg);
-	background-size: cover;
-	height: 50vh;
-}
-
-.tree
-{
-	background-image: url(/images/back-tree.png);
-	background-size: cover;
-	height: 100vh;
 }
