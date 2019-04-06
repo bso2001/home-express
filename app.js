@@ -22,6 +22,7 @@ app.use('/images', homeRouter);
 app.use('/music', homeRouter);
 app.use('/point-me-into-the-sky', homeRouter);
 app.use('/last-summer', homeRouter);
+app.use('/cities', homeRouter);
 							// catch 404 and forward to error handler
 app.use(function(req, res, next)
 {
