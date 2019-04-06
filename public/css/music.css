@@ -1,0 +1,68 @@
+.box-image#sheet-music
+{
+	background-image: url(/images/music-1556158.jpg);
+}
+
+.box-image#grandin-studio
+{
+	background-image: url(/images/grand-studio-e1553487572313.jpg);
+	background-position-y: -60px;
+}
+
+#solo-recordings a
+{
+	line-height: 30px;
+}
+
+.box-image#gas-music
+{
+	background-image: url(/images/jupiter-juno.jpg);
+	height: 60vh;
+}
+
+.gmfj-titles
+{
+	position:relative;
+	margin-top: -9vh;
+}
+
+#gmfj
+{
+	width: 20vw;
+}
+
+.providence
+{
+	background-image: url(/images/tape1.jpg);
+	background-size: cover;
+	height: 30vh;
+	width: 80vw;
+	flex-basis: 25%;
+}
+
+.prov-titles
+{
+	position:relative;
+	margin-top: -18vh;
+	margin-left: 2vw;
+}
+
+.gmfj-titles a, .prov-titles a
+{
+	color: #eee;
+}
+
+@media (min-width: 1000px)
+{
+	.gas-music
+	{
+		height: 100%;
+		width: 40vw;
+	}
+
+	.providence
+	{
+		height: 100%;
+		width: 50vw;
+	}
+}

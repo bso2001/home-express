@@ -1,7 +1,3 @@
-/*
-** Global things
-*/
-
 section, article, aside, footer, header, nav
 {
 	display: block;
@@ -22,6 +18,16 @@ body
 section
 {
 	margin-top: 30px;
+}
+
+@media (min-width: 1000px)
+{
+	section
+	{
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
 }
 
 section:first-child
@@ -196,146 +202,4 @@ p
 .banner
 {
 	width: 100%;
-}
-
-/*
-** images.ejs
-*/
-
-#you-tube
-{
-	max-height: 20vh;
-}
-
-#you-tube .pic
-{
-	width: 100%;
-	height: 100%;
-}
-
-#you-tube .text
-{
-	position: relative;
-	margin-top: -8vh;
-	margin-left: 66vw;
-	color: #000;
-	font-size: 18px;
-	cursor: pointer;
-}
-
-/*
-** music.ejs
-*/
-
-.box-image#sheet-music
-{
-	background-image: url(/images/music-1556158.jpg);
-}
-
-.box-image#grandin-studio
-{
-	background-image: url(/images/grand-studio-e1553487572313.jpg);
-	background-position-y: -60px;
-}
-
-#solo-recordings a
-{
-	line-height: 30px;
-}
-
-.box-image#gas-music
-{
-	background-image: url(/images/jupiter-juno.jpg);
-	height: 60vh;
-}
-
-.gmfj-titles
-{
-	position:relative;
-	margin-top: -9vh;
-}
-
-#gmfj
-{
-	width: 20vw;
-}
-
-.providence
-{
-	background-image: url(/images/tape1.jpg);
-	background-size: cover;
-	height: 30vh;
-	width: 80vw;
-	flex-basis: 25%;
-}
-
-.prov-titles
-{
-	position:relative;
-	margin-top: -18vh;
-	margin-left: 2vw;
-}
-
-.gmfj-titles a, .prov-titles a
-{
-	color: #eee;
-}
-
-/*
-** pmits.ejs
-*/
-
-.box-image#pmits
-{
-	background-image: url(/images/pmits-cover0.jpeg);
-}
-
-.box-image#tree
-{
-	background-image: url(/images/back-tree.png);
-	height: 100vh;
-}
-
-/*
-** bnml.ejs
-*/
-
-.box-image#bnml
-{
-	background-image: url(/images/bnml-cover1-1.jpg);
-}
-
-.nicks-place
-{
-	margin: 0 auto;
-	background-image: url(/images/nicks.jpg);
-	background-size: cover;
-	width: 120vh;
-	height: 60vh;
-}
-
-
-
-
-
-@media (min-width: 1000px)
-{
-	section
-	{
-		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
-	}
-
-	.gas-music
-	{
-		height: 100%;
-		width: 40vw;
-	}
-
-	.providence
-	{
-		height: 100%;
-		width: 50vw;
-	}
 }

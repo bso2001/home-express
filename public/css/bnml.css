@@ -1,0 +1,13 @@
+.box-image#bnml
+{
+	background-image: url(/images/bnml-cover1-1.jpg);
+}
+
+.nicks-place
+{
+	margin: 0 auto;
+	background-image: url(/images/nicks.jpg);
+	background-size: cover;
+	width: 120vh;
+	height: 60vh;
+}

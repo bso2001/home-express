@@ -1,0 +1,11 @@
+.box-image#pmits
+{
+	background-image: url(/images/pmits-cover0.jpeg);
+}
+
+.box-image#tree
+{
+	background-image: url(/images/back-tree.png);
+	height: 100vh;
+}
+
