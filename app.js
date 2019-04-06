@@ -18,11 +18,14 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', homeRouter);
+app.use('/cities', homeRouter);
+app.use('/fun-with-light-and-heat', homeRouter);
 app.use('/images', homeRouter);
+app.use('/last-summer', homeRouter);
 app.use('/music', homeRouter);
 app.use('/point-me-into-the-sky', homeRouter);
-app.use('/last-summer', homeRouter);
-app.use('/cities', homeRouter);
+app.use('/songs-of-the-last-swan', homeRouter);
+
 							// catch 404 and forward to error handler
 app.use(function(req, res, next)
 {

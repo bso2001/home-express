@@ -1,0 +1,10 @@
+.box-image#swan
+{
+	background-image: url(/images/swan-cover.jpg);
+	height: 65vh;
+}
+
+.bso-banner#swan
+{
+	background-image: url(/images/tine-back.png);
+}
