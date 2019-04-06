@@ -127,6 +127,11 @@ p
 	text-decoration: underline;
 }
 
+.bso-album-link:visited
+{
+	color: #222;
+}
+
 .bso-album-track
 {
 	color: #000;
@@ -181,6 +186,13 @@ p
 	border-radius: 4px;
 }
 
+.box-image
+{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50vh;
+}
+
 .banner
 {
 	width: 100%;
@@ -215,20 +227,15 @@ p
 ** music.ejs
 */
 
-.sheet-music
+.box-image#sheet-music
 {
 	background-image: url(/images/music-1556158.jpg);
-	background-size: cover;
-	height: 50vh;
 }
 
-.grandin-studio
+.box-image#grandin-studio
 {
 	background-image: url(/images/grand-studio-e1553487572313.jpg);
-	background-size: cover;
 	background-position-y: -60px;
-	background-repeat: no-repeat;
-	height: 45vh;
 }
 
 #solo-recordings a
@@ -236,25 +243,21 @@ p
 	line-height: 30px;
 }
 
-.gas-music
+.box-image#gas-music
 {
 	background-image: url(/images/jupiter-juno.jpg);
-	background-size: cover;
-	height: 35vh;
-	width: 80vw;
-	flex-basis: 30%;
+	height: 60vh;
 }
 
 .gmfj-titles
 {
 	position:relative;
-	margin-top: -8vh;
-	margin-left: 18vw;
+	margin-top: -9vh;
 }
 
 #gmfj
 {
-	flex-basis: 30%;
+	width: 20vw;
 }
 
 .providence
@@ -282,17 +285,14 @@ p
 ** pmits.ejs
 */
 
-.pmits-image
+.box-image#pmits
 {
 	background-image: url(/images/pmits-cover0.jpeg);
-	background-size: cover;
-	height: 50vh;
 }
 
-.tree-image
+.box-image#tree
 {
 	background-image: url(/images/back-tree.png);
-	background-size: cover;
 	height: 100vh;
 }
 
@@ -300,11 +300,9 @@ p
 ** bnml.ejs
 */
 
-.bnml-image
+.box-image#bnml
 {
 	background-image: url(/images/bnml-cover1-1.jpg);
-	background-size: cover;
-	height: 50vh;
 }
 
 .nicks-place
