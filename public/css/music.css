@@ -1,3 +1,6 @@
+
+/* ============== main Music page  ============== */
+
 .box-image#sheet-music
 {
 	background-image: url(/images/music.jpg);
@@ -65,4 +68,63 @@
 		height: 100%;
 		width: 50vw;
 	}
+}
+
+/* ============== BNML ============== */
+
+.box-image#bnml
+{
+	background-image: url(/images/bnml-cover1-1.jpg);
+}
+
+.bso-banner#bnml
+{
+	background-image: url(/images/nicks.jpg);
+}
+
+/* ============== Cities ============== */
+
+.box-image#cities
+{
+	background-image: url(/images/cities-cover.jpg);
+	height: 65vh;
+}
+
+/* ============== FWLaH ============== */
+
+.box-image#fwlah
+{
+	background-image: url(/images/fwlah-cover.png);
+	height: 65vh;
+}
+
+.bso-banner#fwlah
+{
+	background-image: url(/images/fwlah-3w.png);
+}
+
+/* ============== PMItS ============== */
+
+.box-image#pmits
+{
+	background-image: url(/images/pmits-cover0.jpeg);
+}
+
+.box-image#tree
+{
+	background-image: url(/images/back-tree.png);
+	height: 100vh;
+}
+
+/* ============== SotLS ============== */
+
+.box-image#swan
+{
+	background-image: url(/images/swan-cover.jpg);
+	height: 65vh;
+}
+
+.bso-banner#swan
+{
+	background-image: url(/images/tine-back.png);
 }
