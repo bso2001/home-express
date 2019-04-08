@@ -11,6 +11,8 @@ router.get('/images', function(req, res, next) { res.render( 'images', { title: 
 
 router.get('/last-summer', function(req, res, next) { res.render( 'bnml', { title: 'Last Summer' } ); });
 
+router.get('/love-and-madness', function(req, res, next) { res.render( 'madness', { title: 'Love and Madness' } ); });
+
 router.get('/music', function(req, res, next) { res.render( 'music', { title: 'Music' } ); });
 
 router.get('/point-me-into-the-sky', function(req, res, next) { res.render( 'pmits', { title: 'Point Me Into the Sky' } ); });

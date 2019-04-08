@@ -22,6 +22,7 @@ app.use('/cities', homeRouter);
 app.use('/fun-with-light-and-heat', homeRouter);
 app.use('/images', homeRouter);
 app.use('/last-summer', homeRouter);
+app.use('/love-and-madness', homeRouter);
 app.use('/music', homeRouter);
 app.use('/point-me-into-the-sky', homeRouter);
 app.use('/songs-of-the-last-swan', homeRouter);
