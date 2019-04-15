@@ -27,6 +27,7 @@ app.use('/last-summer', homeRouter);
 app.use('/love-and-madness', homeRouter);
 app.use('/music', homeRouter);
 app.use('/point-me-into-the-sky', homeRouter);
+app.use('/providence', homeRouter);
 app.use('/songs-of-the-last-swan', homeRouter);
 
 							// catch 404 and forward to error handler

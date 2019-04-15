@@ -73,14 +73,6 @@
 	}
 }
 
-/* ============== Art Imitates Life  ============== */
-
-.box-image#ail
-{
-	background-image: url(/images/ail-cover.jpg);
-	height: 62vh;
-}
-
 /* ============== Big Frontier ============== */
 
 .box-image#bf-cover
@@ -122,6 +114,19 @@
 	background-image: url(/images/fwlah-3w.png);
 }
 
+/* ============== GMFJ  ============== */
+
+.box-image#ail
+{
+	background-image: url(/images/ail-cover.jpg);
+	height: 62vh;
+}
+
+.box-image#ttct
+{
+	background-image: url(/images/ttct-cover.png);
+}
+
 /* ============== Madness ============== */
 
 .box-image#lm-cover
@@ -150,6 +155,24 @@
 	height: 100vh;
 }
 
+/* ============== Providence ============== */
+
+.box-image#five-cover
+{
+	background-image: url(/images/five-cover.png);
+	background-size: 85%;
+}
+
+.box-image#questions-cover
+{
+	background-image: url(/images/questions.jpg);
+}
+
+.box-image#prophecies-cover
+{
+	background-image: url(/images/prophecies.jpg);
+}
+
 /* ============== SotLS ============== */
 
 .box-image#swan
@@ -162,11 +185,3 @@
 {
 	background-image: url(/images/tine-back.png);
 }
-
-/* ============== TtCT  ============== */
-
-.box-image#ttct
-{
-	background-image: url(/images/ttct-cover.png);
-}
-

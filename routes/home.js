@@ -21,6 +21,8 @@ router.get('/music', function(req, res, next) { res.render( 'music', { title: 'M
 
 router.get('/point-me-into-the-sky', function(req, res, next) { res.render( 'pmits', { title: 'Point Me Into the Sky' } ); });
 
+router.get('/providence', function(req, res, next) { res.render( 'providence', { title: 'Providence' } ); });
+
 router.get('/songs-of-the-last-swan', function(req, res, next) { res.render( 'swan', { title: 'Songs of the Last Swan' } ); });
 
 module.exports = router;
