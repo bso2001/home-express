@@ -18,6 +18,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', homeRouter);
+app.use('/big-frontier', homeRouter);
 app.use('/cities', homeRouter);
 app.use('/fun-with-light-and-heat', homeRouter);
 app.use('/images', homeRouter);

@@ -26,12 +26,8 @@
 .gmfj-titles
 {
 	position:relative;
-	margin-top: -9vh;
-}
-
-#gmfj
-{
-	width: 20vw;
+	margin-top: -7vh;
+	margin-left: 2vw;
 }
 
 .providence
@@ -68,6 +64,14 @@
 		height: 100%;
 		width: 50vw;
 	}
+}
+
+/* ============== Big Frontier ============== */
+
+.box-image#bf-cover
+{
+	background-image: url(/images/bf-cover.jpg);
+	height: 60vh;
 }
 
 /* ============== BNML ============== */

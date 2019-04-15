@@ -3,6 +3,8 @@ var router = express.Router();
 
 router.get('/', function(req, res, next) { res.render( 'home', { title: 'Express' } ); });
 
+router.get('/big-frontier', function(req, res, next) { res.render( 'frontier', { title: 'Big Frontier' } ); });
+
 router.get('/cities', function(req, res, next) { res.render( 'cities', { title: 'Cities' } ); });
 
 router.get('/fun-with-light-and-heat', function(req, res, next) { res.render( 'fwlah', { title: 'Fun With Light and Heat' } ); });

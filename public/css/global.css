@@ -107,18 +107,23 @@ p
 	flex: .7;
 }
 
-.bso-medium-text
+.bso-medium-text, .bso-large-text
 {
 	color: #444;
 	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 15px;
 }
 
+.bso-large-text
+{
+	font-size: 16px;
+}
+
 .bso-credits-large
 {
 	color: #222;
 	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .bso-credits-medium
