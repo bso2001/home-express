@@ -87,7 +87,24 @@ p
 	background-color: #808080;
 	width: calc(100vw - 120px);
 	margin: 0 auto;
-	padding: 30px 0px 30px 30px;
+	padding: 80px 0px 30px 30px;
+}
+
+.left-column, .right-column
+{
+	display: inherit;
+	align-items: center;
+	flex: .5;
+}
+
+.left-column.narrow, .right-column.narrow
+{
+	flex: .3;
+}
+
+.left-column.wide, .right-column.wide
+{
+	flex: .7;
 }
 
 .bso-medium-text
