@@ -103,6 +103,20 @@
 	background-image: url(/images/fwlah-3w.png);
 }
 
+/* ============== LaM ============== */
+
+.box-image#lm-cover
+{
+	background-image: url(/images/lm-cover.jpg);
+}
+
+.box-image#lm-back
+{
+	background-image: url(/images/lm-back.jpg);
+	height: 65vh;
+}
+
+
 /* ============== PMItS ============== */
 
 .box-image#pmits
