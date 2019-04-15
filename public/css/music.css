@@ -20,7 +20,8 @@
 .box-image#gas-music
 {
 	background-image: url(/images/jupiter-juno.jpg);
-	height: 60vh;
+	transform: scaleX(-1);
+	height: 55vh;
 }
 
 .gmfj-titles
@@ -41,7 +42,7 @@
 
 .prov-titles
 {
-	position:relative;
+	position: absolute;
 	margin-top: -18vh;
 	margin-left: 2vw;
 }
