@@ -25,8 +25,8 @@
 
 .gmfj-titles
 {
-	position:relative;
-	margin-top: -7vh;
+	position: absolute;
+	margin-top: -8vh;
 	margin-left: 2vw;
 }
 
@@ -51,6 +51,12 @@
 	color: #eee;
 }
 
+.gmfj-titles a:visited, .prov-titles a:visited
+{
+	color: #eee;
+	text-decoration: none;
+}
+
 @media (min-width: 1000px)
 {
 	.gas-music
@@ -64,6 +70,14 @@
 		height: 100%;
 		width: 50vw;
 	}
+}
+
+/* ============== Art Imitates Life  ============== */
+
+.box-image#ail
+{
+	background-image: url(/images/ail-cover.jpg);
+	height: 62vh;
 }
 
 /* ============== Big Frontier ============== */
@@ -107,11 +121,12 @@
 	background-image: url(/images/fwlah-3w.png);
 }
 
-/* ============== LaM ============== */
+/* ============== Madness ============== */
 
 .box-image#lm-cover
 {
 	background-image: url(/images/lm-cover.jpg);
+	height: 55vh;
 }
 
 .box-image#lm-back
@@ -146,3 +161,11 @@
 {
 	background-image: url(/images/tine-back.png);
 }
+
+/* ============== TtCT  ============== */
+
+.box-image#ttct
+{
+	background-image: url(/images/ttct-cover.png);
+}
+

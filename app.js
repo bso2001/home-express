@@ -21,6 +21,7 @@ app.use('/', homeRouter);
 app.use('/big-frontier', homeRouter);
 app.use('/cities', homeRouter);
 app.use('/fun-with-light-and-heat', homeRouter);
+app.use('/gmfj', homeRouter);
 app.use('/images', homeRouter);
 app.use('/last-summer', homeRouter);
 app.use('/love-and-madness', homeRouter);

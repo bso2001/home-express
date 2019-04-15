@@ -9,6 +9,8 @@ router.get('/cities', function(req, res, next) { res.render( 'cities', { title: 
 
 router.get('/fun-with-light-and-heat', function(req, res, next) { res.render( 'fwlah', { title: 'Fun With Light and Heat' } ); });
 
+router.get('/gmfj', function(req, res, next) { res.render( 'gmfj', { title: 'GMFJ' } ); });
+
 router.get('/images', function(req, res, next) { res.render( 'images', { title: 'Images' } ); });
 
 router.get('/last-summer', function(req, res, next) { res.render( 'bnml', { title: 'Last Summer' } ); });
