@@ -24,6 +24,7 @@ header .title
 header .title a:visited
 {
 	color: #ffca45;
+	text-decoration: none;
 }
 
 header .menu
@@ -45,6 +46,7 @@ header .menu .menuitem
 header .menu .menuitem a:visited
 {
 	color: #e0e0e0;
+	text-decoration: none;
 }
 
 header .menu .menuitem:hover

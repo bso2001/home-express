@@ -1,4 +1,4 @@
-cd /var/www/html/new-home
+cd /var/www/html/home
 DEBUG=home:*
 export DEBUG
 
