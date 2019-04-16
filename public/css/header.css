@@ -13,12 +13,19 @@ header
 header .title
 {
 	font-family: -apple-system, "Roboto", "Helvetica Neue", sans-serif;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 700;
 	color: #ffca45;
 	text-transform: uppercase;
-	width: 60%;
 	margin-left: 4vw;
+}
+
+@media (max-width: 1000px)
+{
+	header .title
+	{
+		font-size: 16px;
+	}
 }
 
 header .title a:visited
@@ -30,16 +37,18 @@ header .title a:visited
 header .menu
 {
 	display: flex;
-	justify-content: space-around;
-	width: 30%;
+	justify-content: space-evenly;
+	width: 75% !important;
 }
+
+
+
 
 header .menu .menuitem
 {
 	font: 13px "Open Sans", "HelveticaNeue-Medium", "Lucida Sans", Arial;
 	letter-spacing: 1px;
 	color: #e0e0e0;
-	padding: 10px 5x;
 	text-transform: uppercase;
 }
 
