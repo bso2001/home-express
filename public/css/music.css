@@ -1,6 +1,169 @@
 
 /* ============== main Music page  ============== */
 
+.bso-credits-large
+{
+	color: #222;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 16px;
+}
+
+.bso-credits-medium
+{
+	color: #000;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.bso-credits-small
+{
+	color: #444;
+	font-family: HelveticaNeue-Light, sans-serif;
+	font-size: 14px;
+}
+
+.bso-lyrics
+{
+	color: #222;
+	font-family: "Open Sans", sans-serif;
+	font-size: 13px;
+	padding: 40px;
+}
+
+.bso-lyric-title
+{
+	color: #444;
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 16px;
+}
+
+.bso-lyric-column
+{
+	white-space: pre;
+	float: left;
+	margin: 0 20px 40px 20px;
+}
+
+.bso-lyric-img
+{
+	width: 100%;
+	height: 100%;
+}
+
+.bso-album-link
+{
+	color: #222;
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 13px;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.bso-album-link:hover
+{
+	text-decoration: underline;
+}
+
+.bso-album-link:visited
+{
+	color: #222;
+	text-decoration: none;
+}
+
+.bso-album-track
+{
+	color: #000;
+	float: left;
+	font-family: HelveticaNeue-UltraLight, sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 4px;
+}
+
+.bso-album-track:hover
+{
+	color: #e08030 !important;
+}
+
+.bso-album-track:visited
+{
+	color: #000 !important;
+	text-decoration: none;
+}
+
+.bso-track-col-left
+{
+	margin-left: 14vw;
+}
+
+.bso-track-col-right
+{
+	margin-right: 14vw;
+}
+
+@media (max-width: 1000px)
+{
+	.bso-track-col-left, .bso-track-col-right
+	{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	.bso-track-col-right
+	{
+		margin-top: -42px;
+	}
+}
+
+.bso-track-time
+{
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.bso-lyrics-link, .bso-video-link
+{
+	font-size: 13px;
+	cursor: pointer;
+	margin-left: 6px;
+	margin-top: 6px;
+	float: left;
+}
+
+.bso-lyrics-link
+{
+	font-family: HelveticaNeue, sans-serif;
+	color: #888440;
+}
+
+.bso-lyrics-link:hover
+{
+	color: #404060;
+	text-decoration: underline;
+}
+
+.bso-video-link
+{
+	font-family: HelveticaNeue-Light, sans-serif;
+	color: #555111;
+}
+
+.bso-video-link:hover
+{
+	color: #444000;
+	text-decoration: underline;
+}
+
+.bso-video-link:visited
+{
+	color: #444000;
+	text-decoration: none;
+}
+
+/* ============== main Music page  ============== */
+
 .box-image#sheet-music
 {
 	background-image: url(/images/music.jpg);
@@ -106,7 +269,7 @@
 .box-image#fwlah
 {
 	background-image: url(/images/fwlah-cover.png);
-	height: 65vh;
+	height: 60vh;
 }
 
 .bso-banner#fwlah
@@ -146,7 +309,7 @@
 
 .box-image#pmits
 {
-	background-image: url(/images/pmits-cover0.jpeg);
+	background-image: url(/images/pmits-cover.jpg);
 }
 
 .box-image#tree
@@ -166,11 +329,14 @@
 .box-image#questions-cover
 {
 	background-image: url(/images/questions.jpg);
+	background-size: 85%;
+	height: 55vh;
 }
 
 .box-image#prophecies-cover
 {
 	background-image: url(/images/prophecies.jpg);
+	height: 60vh;
 }
 
 /* ============== SotLS ============== */

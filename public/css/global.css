@@ -28,6 +28,11 @@ section
 		justify-content: space-between;
 		flex-wrap: wrap;
 	}
+
+	.bso-box
+	{
+		border-radius: 4px;
+	}
 }
 
 section:first-child
@@ -119,135 +124,6 @@ p
 	font-size: 16px;
 }
 
-.bso-credits-large
-{
-	color: #222;
-	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 16px;
-}
-
-.bso-credits-medium
-{
-	color: #000;
-	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 15px;
-	line-height: 20px;
-}
-
-.bso-credits-small
-{
-	color: #444;
-	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 14px;
-}
-
-.bso-lyrics
-{
-	color: #222;
-	font-family: "Open Sans", sans-serif;
-	font-size: 13px;
-	padding: 40px;
-}
-
-.bso-lyric-title
-{
-	color: #444;
-	font-family: HelveticaNeue, sans-serif;
-	font-size: 16px;
-}
-
-.bso-lyric-column
-{
-	white-space: pre;
-	float: left;
-	margin: 0 20px 40px 20px;
-}
-
-.bso-lyric-img
-{
-	width: 100%;
-	height: 100%;
-}
-
-.bso-album-link
-{
-	color: #222;
-	font-family: HelveticaNeue, sans-serif;
-	font-size: 13px;
-	font-weight: 600;
-	cursor: pointer;
-}
-
-.bso-album-link:hover
-{
-	text-decoration: underline;
-}
-
-.bso-album-link:visited
-{
-	color: #222;
-}
-
-.bso-album-track
-{
-	color: #000;
-	float: left;
-	font-family: HelveticaNeue-UltraLight, sans-serif;
-	font-weight: 600;
-	font-size: 14px;
-	margin-top: 4px;
-}
-
-.bso-album-track:hover
-{
-	color: #e08030 !important;
-}
-
-.bso-album-track:visited
-{
-	color: #000 !important;
-}
-
-.bso-track-time
-{
-	font-family: HelveticaNeue, sans-serif;
-	font-size: 13px;
-	font-weight: 400;
-}
-
-.bso-lyrics-link
-{
-	font-family: HelveticaNeue, sans-serif;
-	font-size: 13px;
-	cursor: pointer;
-	margin-left: 6px;
-	margin-top: 5px;
-	color: #888440;
-	float: left;
-}
-
-.bso-lyrics-link:hover
-{
-	color: #404060;
-}
-
-.bso-video-link
-{
-	color: #000;
-	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 13px;
-	margin-left: 6px;
-	margin-top: 6px;
-	float: left;
-	cursor: pointer;
-}
-
-.bso-video-link:hover
-{
-	color: #000;
-	text-decoration: underline;
-}
-
 .bso-box
 {
 	flex: 1;
@@ -256,7 +132,6 @@ p
 	margin-right: 30px;
 	background-color: #dfdfdf;
 	border: 1px solid transparent;
-	border-radius: 4px;
 }
 
 .box-image
