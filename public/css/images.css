@@ -1,6 +1,6 @@
 #you-tube
 {
-	max-height: 20vh;
+	max-height: 30vh;
 }
 
 #you-tube .pic
@@ -11,10 +11,24 @@
 
 #you-tube .text
 {
-	position: relative;
-	margin-top: -8vh;
-	margin-left: 66vw;
+	position: absolute;
+	margin-top: -5vh;
+	margin-left: 70vw;
 	color: #000;
-	font-size: 18px;
+	font-size: 120%;
 	cursor: pointer;
+}
+
+@media (max-width: 1000px)
+{
+	#you-tube .text
+	{
+		margin-left: 60vw;
+	}
+}
+
+#you-tube a:visited
+{
+	color: #222;
+	text-decoration: none;
 }

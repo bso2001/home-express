@@ -13,7 +13,7 @@ header
 header .title
 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 20px;
+	font-size: 140%;
 	font-weight: 700;
 	color: #ffca45;
 	text-transform: uppercase;
@@ -24,7 +24,7 @@ header .title
 {
 	header .title
 	{
-		// font-size: 16px;
+		font-size: 160%;
 	}
 }
 
@@ -38,7 +38,7 @@ header .menu
 {
 	display: flex;
 	justify-content: space-evenly;
-	width: 75% !important;
+	width: 70% !important;
 }
 
 
@@ -46,7 +46,7 @@ header .menu
 
 header .menu .menuitem
 {
-	font: 13px "Open Sans", "HelveticaNeue-Medium", "Lucida Sans", Arial;
+	font: 90% "Open Sans", "HelveticaNeue-Medium", "Lucida Sans", Arial;
 	letter-spacing: 1px;
 	color: #e0e0e0;
 	text-transform: uppercase;

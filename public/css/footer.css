@@ -12,7 +12,7 @@ footer
 footer .text
 {
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
-	font-size: 12px;
-	font-weight: 600;
+	font-size: 95%;
+	font-weight: 500;
 	color: #ffca45;
 }

@@ -5,22 +5,23 @@
 {
 	color: #444;
 	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 14px;
+	font-size: 90%;
 	line-height: 20px;
+	margin-top: 20px;
 }
 
 .bso-credits-small
 {
 	color: #444;
 	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 1vw;
+	font-size: 80%;
 }
 
 .bso-lyrics
 {
 	color: #222;
 	font-family: "Open Sans", sans-serif;
-	font-size: 13px;
+	font-size: 85%;
 	padding: 40px;
 }
 
@@ -28,7 +29,6 @@
 {
 	color: #444;
 	font-family: HelveticaNeue, sans-serif;
-	font-size: 16px;
 }
 
 .bso-lyric-column
@@ -48,7 +48,7 @@
 {
 	color: #222;
 	font-family: HelveticaNeue, sans-serif;
-	font-size: 13px;
+	font-size: 80%;
 	font-weight: 600;
 	cursor: pointer;
 }
@@ -69,7 +69,7 @@
 	color: #222;
 	font-family: HelveticaNeue-UltraLight, sans-serif;
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 90%;
 	margin-top: 4px;
 }
 
@@ -111,13 +111,13 @@
 .bso-track-time
 {
 	font-family: HelveticaNeue, sans-serif;
-	font-size: 13px;
+	font-size: 90%;
 	font-weight: 400;
 }
 
 .bso-lyrics-link, .bso-video-link
 {
-	font-size: 13px;
+	font-size: 80%;
 	cursor: pointer;
 	margin-left: 6px;
 	margin-top: 6px;
@@ -163,7 +163,6 @@
 .box-image#grandin-studio
 {
 	background-image: url(/images/grand-studio.jpg);
-	background-position-y: -60px;
 }
 
 #solo-recordings a
