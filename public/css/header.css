@@ -1,13 +1,29 @@
 header
 {
+	padding: .5vh 0 .5vh 0;
+	height: 50px;
 	position: fixed;
 	display: flex !important;
 	align-items: center;
-	justify-content: flex-start;
 	width: 100%;
-	height: 50px;
 	z-index: 100;
 	background-color: #00699f;
+}
+
+@media (max-width: 1000px)
+{
+	header
+	{
+		padding: 1vh 0 1vh 0;
+	}
+}
+
+@media (max-width: 600px)
+{
+	header
+	{
+		padding: 2vh 0 2vh 0;
+	}
 }
 
 header .title
@@ -18,13 +34,14 @@ header .title
 	color: #ffca45;
 	text-transform: uppercase;
 	margin-left: 4vw;
+	flex: 1;
 }
 
 @media (max-width: 1000px)
 {
 	header .title
 	{
-		font-size: 160%;
+		font-size: 200%;
 	}
 }
 
@@ -37,12 +54,10 @@ header .title a:visited
 header .menu
 {
 	display: flex;
-	justify-content: space-evenly;
-	width: 70% !important;
+	justify-content: space-around;
+	padding-right: 5vw;
+	flex: 1;
 }
-
-
-
 
 header .menu .menuitem
 {
@@ -50,6 +65,14 @@ header .menu .menuitem
 	letter-spacing: 1px;
 	color: #e0e0e0;
 	text-transform: uppercase;
+}
+
+@media (max-width: 1000px)
+{
+	header .menu .menuitem
+	{
+		font-size: 150%;
+	}
 }
 
 header .menu .menuitem a:visited

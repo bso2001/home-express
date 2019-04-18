@@ -4,8 +4,7 @@
 .bso-credits-medium
 {
 	color: #444;
-	font-family: HelveticaNeue-Light, sans-serif;
-	font-size: 90%;
+	font-size: 85%;
 	line-height: 20px;
 	margin-top: 20px;
 }
@@ -13,7 +12,6 @@
 .bso-credits-small
 {
 	color: #444;
-	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 80%;
 }
 
@@ -125,7 +123,6 @@
 
 .bso-lyrics-link
 {
-	font-family: HelveticaNeue, sans-serif;
 	color: #888440;
 }
 
@@ -137,7 +134,6 @@
 
 .bso-video-link
 {
-	font-family: HelveticaNeue-Light, sans-serif;
 	color: #555111;
 }
 

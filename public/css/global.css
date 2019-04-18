@@ -190,3 +190,11 @@ p
 {
 	background-image: url(/images/gts-180312b.png);
 }
+
+@media (min-width: 1000px)
+{
+	.bso-box#ebay
+	{
+		max-width: 62%;
+	}
+}
