@@ -14,7 +14,7 @@ body
 	font: 16px/20px HelveticaNeue-Light, Arial, sans-serif;
 	font-weight: 300;
 	color: #686868;
-	background-color: #444;
+	background-color: #bbbbbb;
 }
 
 @media (max-width: 1000px)
@@ -121,7 +121,7 @@ p
 
 .content
 {
-	background-color: #808080;
+	background-color: #bbbbbb;
 	width: calc(100vw - 120px);
 	margin: 0 auto;
 	padding: 80px 0px 30px 30px;
@@ -184,17 +184,4 @@ p
 	background-size: cover;
 	width: 100%;
 	height: 60vh;
-}
-
-.bso-banner#home
-{
-	background-image: url(/images/gts-180312b.png);
-}
-
-@media (min-width: 1000px)
-{
-	.bso-box#ebay
-	{
-		max-width: 62%;
-	}
 }
