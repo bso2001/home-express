@@ -1,0 +1,17 @@
+.bso-banner#home
+{
+	background-image: url(/images/gts-180312b.png);
+}
+
+.bso-box#go-to-music, .bso-box#go-to-images, .bso-box#go-to-tech
+{
+	cursor: pointer;
+}
+
+@media (min-width: 1000px)
+{
+	.bso-box#ebay
+	{
+		max-width: 62%;
+	}
+}
