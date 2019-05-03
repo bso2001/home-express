@@ -2,14 +2,15 @@
 <html>
 
 <head>
-	<title>Images</title>
 	<% include std-assets.ejs %>
 	<link rel="stylesheet" href="/css/images.css" />
 	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" />
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+	<title> Images </title>
 </head>
 
 <body>
+<% include std-tagmgr.ejs %>
 <div class="page">
 
 <% include header.ejs %>
@@ -31,6 +32,7 @@
 			     data-transition="crossfade"
 			     data-fit="cover"
 			     data-keyboard="true"
+			     data-nav="false"
 			     data-transitionduration="1200"
 			     data-autoplay="8000"
 			     data-loop="true" >
@@ -57,6 +59,7 @@
 			     data-transition="crossfade"
 			     data-fit="cover"
 			     data-keyboard="true"
+			     data-nav="false"
 			     data-transitionduration="1200"
 			     data-autoplay="10000"
 			     data-loop="true" >
