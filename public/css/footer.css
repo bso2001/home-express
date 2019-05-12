@@ -12,7 +12,7 @@ footer
 footer .text
 {
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
-	font-size: 95%;
+	font-size: 80%;
 	font-weight: 500;
 	color: #ffca45;
 }
@@ -21,6 +21,6 @@ footer .text
 {
 	footer .text
 	{
-		font-size: 180%;
+		font-size: 170%;
 	}
 }
