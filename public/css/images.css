@@ -1,3 +1,16 @@
+.fotorama__caption__wrap
+{
+	background-color: #ddd !important;
+	display: none !important;	// until it looks better ....
+}
+
+.fotorama__caption
+{
+	position: relative !important;
+	float: right !important;
+	font-size: 12px !important;
+}
+
 #you-tube
 {
 	max-height: 30vh;
