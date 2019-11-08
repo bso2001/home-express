@@ -144,13 +144,24 @@ p
 	flex: .7;
 }
 
-.bso-box
+.bso-content-box, .bso-image-box
 {
 	flex: 1;
-	padding: 10px 20px;
-	margin-right: 30px;
+	margin-right: 20px;
 	background-color: #dfdfdf;
+	padding: 2px;
 	border: 1px solid transparent;
+}
+
+.bso-content-box
+{
+	cursor: pointer;
+	padding: 10px 20px;
+}
+
+.bso-image-box
+{
+	text-align: center;
 }
 
 @media (min-width: 1000px)
@@ -172,6 +183,7 @@ p
 .image-caption
 {
 	margin-top: 20px;
+	margin-left
 	color: #585858;
 	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 90%;

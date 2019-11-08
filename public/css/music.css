@@ -159,6 +159,14 @@
 .box-image#grandin-studio
 {
 	background-image: url(/images/grand-studio.jpg);
+	max-width: 80%;
+}
+
+.image-caption#grandin-studio
+{
+	margin-top: -30px;
+	margin-left: 40px;
+	color: #ccc;
 }
 
 #solo-recordings a

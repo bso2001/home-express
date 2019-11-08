@@ -3,14 +3,15 @@
 	background-image: url(/images/gts-180312b.png);
 }
 
-.bso-box#home, .bso-box#ebay
+.bso-content-box#ebay
 {
-	padding: 1px !important;
+	text-align: center;
 }
 
-.bso-box#go-to-music, .bso-box#go-to-images, .bso-box#go-to-tech
+.bso-content-box#ebay
 {
-	cursor: pointer;
+	flex: .5;
+	margin-right: 0px;
 }
 
 @media (min-width: 1000px)
