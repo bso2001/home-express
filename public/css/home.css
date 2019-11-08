@@ -3,6 +3,11 @@
 	background-image: url(/images/gts-180312b.png);
 }
 
+.bso-box#home, .bso-box#ebay
+{
+	padding: 1px !important;
+}
+
 .bso-box#go-to-music, .bso-box#go-to-images, .bso-box#go-to-tech
 {
 	cursor: pointer;

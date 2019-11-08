@@ -34,7 +34,6 @@ $( document ).ready( function()
 
 	$( '.bso-box#go-to-tech' ).click( function()
 	{
-		top.location = '/images';
 		window.open( 'http://olsson.tech', '_new' );
 	});
 });

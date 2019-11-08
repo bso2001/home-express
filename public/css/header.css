@@ -30,8 +30,8 @@ header
 header .title
 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 140%;
-	font-weight: 700;
+	font-size: 150%;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 	margin-left: 4vw;
 	flex: 1;
