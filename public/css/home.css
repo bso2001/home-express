@@ -1,18 +1,17 @@
-.bso-banner#home
+.image#home
 {
-	background-image: url(/images/gts-180312b.png);
+	background-image: url(/images/gtnpcr-09242015.jpg);
+	height: 600px;
+	filter: brightness(1.5);
 }
 
-.bso-image-box#ebay
+img#ebay
 {
-	flex: .6px;
-	background-color: #bbbbbb;
+	max-width: 100%;
 }
 
-@media (min-width: 1000px)
+.home.content.column
 {
-	.bso-box#ebay
-	{
-		max-width: 62%;
-	}
+	max-width: 24%;
+	cursor: pointer;
 }

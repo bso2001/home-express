@@ -1,7 +1,7 @@
 
-/* ============== main Music page  ============== */
+				/* Global music CSS  */
 
-.bso-credits-medium
+.credits-medium
 {
 	color: #444;
 	font-size: 85%;
@@ -9,13 +9,13 @@
 	margin-top: 20px;
 }
 
-.bso-credits-small
+.credits-small
 {
 	color: #444;
 	font-size: 80%;
 }
 
-.bso-lyrics
+.lyrics
 {
 	color: #222;
 	font-family: "Open Sans", sans-serif;
@@ -23,26 +23,26 @@
 	padding: 40px;
 }
 
-.bso-lyric-title
+.lyric-title
 {
 	color: #444;
 	font-family: HelveticaNeue, sans-serif;
 }
 
-.bso-lyric-column
+.lyric-column
 {
 	white-space: pre;
 	float: left;
 	margin: 0 20px 40px 20px;
 }
 
-.bso-lyric-img
+.lyric-img
 {
 	width: 100%;
 	height: 100%;
 }
 
-.bso-album-link
+.album-link
 {
 	color: #222;
 	font-family: HelveticaNeue, sans-serif;
@@ -51,18 +51,18 @@
 	cursor: pointer;
 }
 
-.bso-album-link:hover
+.album-link:hover
 {
 	text-decoration: underline;
 }
 
-.bso-album-link:visited
+.album-link:visited
 {
 	color: #222;
 	text-decoration: none;
 }
 
-.bso-album-track
+.album-track
 {
 	color: #222;
 	font-family: HelveticaNeue-UltraLight, sans-serif;
@@ -71,49 +71,49 @@
 	margin-top: 4px;
 }
 
-.bso-album-track:hover
+.album-track:hover
 {
 	color: #e08030 !important;
 }
 
-.bso-album-track:visited
+.album-track:visited
 {
 	color: #222 !important;
 	text-decoration: none;
 }
 
-.bso-track-col-left
+.track-col-left
 {
 	margin-left: 14vw;
 }
 
-.bso-track-col-right
+.track-col-right
 {
 	margin-right: 14vw;
 }
 
 @media (max-width: 1000px)
 {
-	.bso-track-col-left, .bso-track-col-right
+	.track-col-left, .track-col-right
 	{
 		margin-left: 0;
 		margin-right: 0;
 	}
 	
-	.bso-track-col-right
+	.track-col-right
 	{
 		margin-top: -42px;
 	}
 }
 
-.bso-track-time
+.track-time
 {
 	font-family: HelveticaNeue, sans-serif;
 	font-size: 90%;
 	font-weight: 400;
 }
 
-.bso-lyrics-link, .bso-video-link
+.lyrics-link, .video-link
 {
 	font-size: 80%;
 	cursor: pointer;
@@ -121,227 +121,196 @@
 	margin-top: 6px;
 }
 
-.bso-lyrics-link
+.lyrics-link
 {
 	color: #888440;
 }
 
-.bso-lyrics-link:hover
+.lyrics-link:hover
 {
 	color: #404060;
 	text-decoration: underline;
 }
 
-.bso-video-link
+.video-link
 {
 	color: #555111;
 }
 
-.bso-video-link:hover
+.video-link:hover
 {
 	color: #444000;
 	text-decoration: underline;
 }
 
-.bso-video-link:visited
+.video-link:visited
 {
 	color: #444000;
 	text-decoration: none;
 }
 
-/* ============== main Music page  ============== */
+		/* Main music page  */
 
-.box-image#sheet-music
-{
-	background-image: url(/images/music.jpg);
-}
+#solo-recordings a { line-height: 30px; }
 
-.box-image#grandin-studio
-{
-	background-image: url(/images/grand-studio.jpg);
-	max-width: 80%;
-}
+.image#sheet-music { background-image: url(/images/sheet-music-165.jpg); }
 
-.image-caption#grandin-studio
-{
-	margin-top: -30px;
-	margin-left: 40px;
-	color: #ccc;
-}
+.image#abstract-speaker { background-image: url(/images/music.jpg); }
 
-#solo-recordings a
-{
-	line-height: 30px;
-}
+.image#grandin-studio { background-image: url(/images/grand-studio.jpg); }
 
-.box-image#gas-music
-{
-	background-image: url(/images/jupiter-juno.jpg);
-	transform: scaleX(-1);
-	height: 55vh;
-}
-
-.gmfj-titles
-{
-	position: absolute;
-	margin-top: -8vh;
-	margin-left: 2vw;
-}
-
-.providence
+.image#providence
 {
 	background-image: url(/images/tape1.jpg);
-	background-size: cover;
-	height: 30vh;
-	width: 80vw;
-	flex-basis: 25%;
+	align-items: flex-start;
+	padding-bottom: 10px;
 }
 
-.prov-titles
+.image#gas-music
 {
-	position: absolute;
-	margin-top: -18vh;
-	margin-left: 2vw;
+	background-image: url(/images/jupiter-juno.jpg);
+	padding-bottom: 10px;
 }
 
-.gmfj-titles a, .prov-titles a
-{
-	color: #eee;
-}
+.prov-titles { margin-left: 20px; }
 
-.gmfj-titles a:visited, .prov-titles a:visited
-{
-	color: #eee;
-	text-decoration: none;
-}
+.gmfj-titles { margin-right: 20px; }
+.gmfj-titles a, .prov-titles a { color: #eee; }
+.gmfj-titles a:visited, .prov-titles a:visited { color: #eee; text-decoration: none; }
 
-@media (min-width: 1000px)
-{
-	.gas-music
-	{
-		height: 100%;
-		width: 40vw;
-	}
+		/* Big Frontier */
 
-	.providence
-	{
-		height: 100%;
-		width: 50vw;
-	}
-}
-
-/* ============== Big Frontier ============== */
-
-.box-image#bf-cover
+.image#bf-cover
 {
 	background-image: url(/images/bf-cover.jpg);
-	height: 60vh;
 }
 
-/* ============== BNML ============== */
+		/* BNML */
 
-.box-image#bnml
+.image#bnml-title
 {
-	background-image: url(/images/bnml-cover1-1.jpg);
+	background-image: url(/images/bnml-abs.jpg);
 }
 
-.bso-banner#bnml
+.image#bnml-cover
+{
+	background-image: url(/images/bnml-cover1.jpg);
+}
+
+.image#nicks
 {
 	background-image: url(/images/nicks.jpg);
+	height: 460px;
 }
 
-/* ============== Cities ============== */
+.caption#nicks
+{
+	margin-right: 370px;
+	color: #000;
+}
 
-.box-image#cities
+		/* Cities */
+
+.image#cities-title
+{
+	background-image: url(/images/cities-title.png);
+}
+
+.image#cities-cover
 {
 	background-image: url(/images/cities-cover.jpg);
-	height: 65vh;
 }
 
-/* ============== FWLaH ============== */
+		/* Fun w/ Light & Heat */
 
-.box-image#fwlah
+.image#fwlah
 {
 	background-image: url(/images/fwlah-cover.png);
-	height: 60vh;
 }
 
-.bso-banner#fwlah
+.image#fwlah-title
 {
 	background-image: url(/images/fwlah-3w.png);
 }
 
-/* ============== GMFJ  ============== */
+		/* Gas Music  */
 
-.box-image#ail
+.image#ail-title
 {
 	background-image: url(/images/ail-cover.jpg);
-	height: 62vh;
 }
 
-.box-image#ttct
+.image#ail
+{
+	background-image: url(/images/ail-cover.jpg);
+}
+
+.image#ttct-title
 {
 	background-image: url(/images/ttct-cover.png);
 }
 
-/* ============== Madness ============== */
-
-.box-image#lm-cover
+.image#ttct
 {
-	background-image: url(/images/lm-cover.jpg);
-	height: 55vh;
+	background-image: url(/images/ttct-cover.png);
 }
 
-.box-image#lm-back
+		/* Love & Madness */
+
+.image#lm-title
 {
 	background-image: url(/images/lm-back.jpg);
-	height: 65vh;
 }
 
+.image#lm-cover
+{
+	background-image: url(/images/lm-cover.jpg);
+}
 
-/* ============== PMItS ============== */
+		/* Point Me Into the Sky */
 
-.box-image#pmits
+.image#pmits-title
+{
+	background-image: url(/images/back-tree.png);
+	background-position: unset;
+}
+
+.image#pmits
 {
 	background-image: url(/images/pmits-cover.jpg);
 }
 
-.box-image#tree
+		/* Providence */
+
+.image#five-title
 {
-	background-image: url(/images/back-tree.png);
-	height: 100vh;
+	background-image: url(/images/five-cover.png);
 }
 
-/* ============== Providence ============== */
-
-.box-image#five-cover
+.image#five-cover
 {
 	background-image: url(/images/five-cover.png);
 	background-size: 85%;
 }
 
-.box-image#questions-cover
+.image#questions-cover
 {
 	background-image: url(/images/questions.jpg);
-	background-size: 85%;
-	height: 55vh;
 }
 
-.box-image#prophecies-cover
+.image#prophecies-cover
 {
 	background-image: url(/images/prophecies.jpg);
-	height: 60vh;
 }
 
-/* ============== SotLS ============== */
+		/* Swan Songs */
 
-.box-image#swan
+.image#swan
 {
 	background-image: url(/images/swan-cover.jpg);
-	height: 65vh;
 }
 
-.bso-banner#swan
+.banner#swan
 {
 	background-image: url(/images/tine-back.png);
 }

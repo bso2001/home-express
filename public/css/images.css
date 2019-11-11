@@ -11,37 +11,15 @@
 	font-size: 12px !important;
 }
 
-#you-tube
+.image.column#youtube
 {
-	max-height: 30vh;
+	background-image: url(/images/vcam-lens-6.png);
+	height: 300px;
 }
 
-#you-tube .pic
+.image.column#youtube .caption
 {
-	width: 100%;
-	height: 100%;
-}
-
-#you-tube .text
-{
-	position: absolute;
-	margin-top: -5vh;
-	margin-left: 70vw;
-	color: #000;
-	font-size: 120%;
-	cursor: pointer;
-}
-
-@media (max-width: 1000px)
-{
-	#you-tube .text
-	{
-		margin-left: 60vw;
-	}
-}
-
-#you-tube a:visited
-{
-	color: #222;
-	text-decoration: none;
+	color: #000000;
+	font-family: HelveticaNeue-Medium, sans-serif;
+	font-size: 92%;
 }

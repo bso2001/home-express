@@ -1,11 +1,10 @@
+
+
+	/* Global HTML refinements */
+
 section, article, aside, footer, header, nav
 {
 	display: block;
-}
-
-page
-{
-	width: 1280px;
 }
 
 body
@@ -26,30 +25,9 @@ body
 	}
 }
 
-section
-{
-	margin-top: 30px;
-}
-
-@media (min-width: 1000px)
-{
-	section
-	{
-		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
-	}
-}
-
-section:first-child
-{
-	margin-top: 0px;
-}
-
-section.center
-{
-	justify-content: center;
-}
+section			{ margin-top: 30px; }
+section:first-child	{ margin-top: 0px; }
+section.center		{ justify-content: center; }
 
 a
 {
@@ -119,6 +97,14 @@ p
 	}
 }
 
+
+	/* Layout: page, content, rows, columns */
+
+.page
+{
+	width: 100%;
+}
+
 .content
 {
 	background-color: #bbbbbb;
@@ -127,73 +113,69 @@ p
 	padding: 80px 0px 30px 30px;
 }
 
-.left-column, .right-column
-{
-	display: inherit;
-	align-items: center;
-	flex: .5;
+.row
+{ 
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
 }
 
-.left-column.narrow, .right-column.narrow
+.column, .double.column
 {
-	flex: .3;
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
 }
 
-.left-column.wide, .right-column.wide
+@media screen and (min-width: 800px)		/* only flex columns if there's enuf width */
 {
-	flex: .7;
+        .column { flex: 1; }
+        .double.column { flex: 2; }
+	.wide.column { flex: 1.5; }
+	.wider.column { flex: 1.8; }
 }
 
-.bso-content-box, .bso-image-box
+
+/* Global "application" CSS */
+
+.content.column
 {
-	flex: 1;
-	margin-right: 20px;
 	background-color: #dfdfdf;
-	padding: 2px;
-	border: 1px solid transparent;
-}
-
-.bso-content-box
-{
-	cursor: pointer;
 	padding: 10px 20px;
 }
 
-.bso-image-box
-{
-	text-align: center;
-}
-
-@media (min-width: 1000px)
-{
-	.bso-box
-	{
-		border-radius: 1px;
-	}
-}
-
-.box-image
+.image.column
 {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 50vh;
+	justify-content: flex-end;
+	align-items: flex-end;
 }
 
-.image-caption
+.centered.image.column
 {
-	margin-top: 20px;
-	margin-left
-	color: #585858;
+	align-items: center;
+}
+
+.text.column
+{
+	padding: 24px 48px;
+}
+
+.caption
+{
+	margin-right: 10px;
+	color: #e8e8e8;
 	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 90%;
-	text-align: center;
 }
 
-.bso-banner
+.banner
 {
 	margin: 0 auto;
 	background-size: cover;
 	width: 100%;
-	height: 60vh;
+	height: 100%;
 }
