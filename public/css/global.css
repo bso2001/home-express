@@ -167,7 +167,8 @@ p
 .caption
 {
 	margin-right: 10px;
-	color: #e8e8e8;
+	color: #efefef;
+	text-shadow: 1px 1px 1px #000000;
 	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 90%;
 }

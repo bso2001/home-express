@@ -157,7 +157,11 @@
 
 .image#abstract-speaker { background-image: url(/images/music.jpg); }
 
-.image#grandin-studio { background-image: url(/images/grand-studio.jpg); }
+.image#grandin-studio
+{
+	background-image: url(/images/grand-studio.jpg);
+	background-position: top;
+}
 
 .image#providence
 {
@@ -180,6 +184,11 @@
 
 		/* Big Frontier */
 
+.image#bf-title
+{
+	background-image: url(/images/skyisland.jpg);
+}
+
 .image#bf-cover
 {
 	background-image: url(/images/bf-cover.jpg);
@@ -200,13 +209,14 @@
 .image#nicks
 {
 	background-image: url(/images/nicks.jpg);
+	background-position: top;
 	height: 460px;
 }
 
 .caption#nicks
 {
-	margin-right: 370px;
-	color: #000;
+	margin-right: 480px;
+	margin-bottom: 10px;
 }
 
 		/* Cities */
@@ -305,12 +315,26 @@
 
 		/* Swan Songs */
 
-.image#swan
+.image#swan-title
+{
+	background-image: url(/images/swan-title.jpg);
+}
+
+.image#swan-cover
 {
 	background-image: url(/images/swan-cover.jpg);
 }
 
-.banner#swan
+.image#tine-back
 {
 	background-image: url(/images/tine-back.png);
+	height: 630px;
+}
+
+.caption#tine-back
+{
+	color: #000;
+	margin-right: 20px;
+	text-shadow: 1px 1px 1px #bbb;
+	margin-bottom: 8px;
 }
