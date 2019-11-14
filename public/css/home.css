@@ -1,8 +1,8 @@
 .image#home
 {
 	background-image: url(/images/gtnpcr-09242015b.jpg);
-	height: 600px;
-	filter: brightness(1.5);
+	background-size: contain;
+	height: 192px;
 }
 
 img#ebay

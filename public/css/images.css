@@ -19,7 +19,8 @@
 
 .image.column#youtube .caption
 {
-	color: #000000;
+	color: #444;
 	font-family: HelveticaNeue-Medium, sans-serif;
+	text-shadow: .1px .1px .1px #000000;
 	font-size: 92%;
 }
