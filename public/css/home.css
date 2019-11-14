@@ -5,13 +5,7 @@
 	height: 192px;
 }
 
-img#ebay
-{
-	max-width: 100%;
-}
-
 .home.content.column
 {
-	max-width: 24%;
 	cursor: pointer;
 }
