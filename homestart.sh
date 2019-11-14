@@ -1,6 +1,12 @@
 #!/bin/sh
 
-cd /var/www/html/home
+if [ -z "$HOMEDIR" ]
+then
+	HOMEDIR=/var/www/html/home
+fi
+
+cd $HOMEDIR
+
 DEBUG=home:*
 export DEBUG
 
