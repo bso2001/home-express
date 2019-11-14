@@ -1,3 +1,12 @@
+#!/bin/sh
+
+if [ -z "$HOMEDIR" ]
+then
+	HOMEDIR=/var/www/html/home
+fi
+
+cd $HOMEDIR
+
 pidfile=.home.pid
 
 if [ -f $pidfile ]
