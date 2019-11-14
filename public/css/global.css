@@ -139,6 +139,7 @@ p
 {
         .column { flex: 1; }
         .double.column { flex: 2; }
+	.narrow.column { flex: .8; }
 	.wide.column { flex: 1.5; }
 	.wider.column { flex: 1.8; }
 }
@@ -154,6 +155,7 @@ p
 
 .image.column
 {
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	justify-content: flex-end;

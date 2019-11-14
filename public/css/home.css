@@ -1,3 +1,4 @@
+
 .image#home
 {
 	background-image: url(/images/gtnpcr-09242015b.jpg);
@@ -5,7 +6,29 @@
 	height: 192px;
 }
 
+.home.row
+{
+	margin-bottom: 20px;
+}
+
 .home.content.column
 {
 	cursor: pointer;
+	padding-left: 60px;
 }
+
+.image#home-music
+{
+	background-image: url(/images/piano-keys.jpg);
+}
+
+.image#home-images
+{
+	background-image: url(/images/lens.png);
+}
+
+.image#home-tech
+{
+	background-image: url(/images/tech.png);
+}
+
