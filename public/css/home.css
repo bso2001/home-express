@@ -19,7 +19,7 @@
 
 .image#home-music
 {
-	background-image: url(/images/piano-keys.jpg);
+	background-image: url(/images/studio-1.jpg);
 }
 
 .image#home-images
@@ -32,3 +32,7 @@
 	background-image: url(/images/tech.png);
 }
 
+img#ebay
+{
+	height: 100px;
+}
