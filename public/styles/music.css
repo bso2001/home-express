@@ -1,0 +1,336 @@
+
+				/* Global music CSS  */
+
+.credits-medium
+{
+	color: #444;
+	font-size: 85%;
+	line-height: 20px;
+	margin-top: 20px;
+}
+
+.credits-small
+{
+	color: #444;
+	font-size: 80%;
+}
+
+.lyrics
+{
+	color: #222;
+	font-family: "Open Sans", sans-serif;
+	font-size: 85%;
+	padding: 40px;
+}
+
+.lyric-title
+{
+	color: #444;
+	font-family: HelveticaNeue, sans-serif;
+}
+
+.lyric-column
+{
+	white-space: pre;
+	float: left;
+	margin: 0 20px 40px 20px;
+}
+
+.lyric-img
+{
+	width: 100%;
+	height: 100%;
+}
+
+.album-link
+{
+	color: #222;
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 80%;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.album-link:hover
+{
+	text-decoration: underline;
+}
+
+.album-link:visited
+{
+	color: #222;
+	text-decoration: none;
+}
+
+.album-track
+{
+	color: #222;
+	font-family: HelveticaNeue-UltraLight, sans-serif;
+	font-weight: 600;
+	font-size: 90%;
+	margin-top: 4px;
+}
+
+.album-track:hover
+{
+	color: #e08030 !important;
+}
+
+.album-track:visited
+{
+	color: #222 !important;
+	text-decoration: none;
+}
+
+.track-col-left
+{
+	margin-left: 14vw;
+}
+
+.track-col-right
+{
+	margin-right: 14vw;
+}
+
+.track-time
+{
+	font-family: HelveticaNeue, sans-serif;
+	font-size: 90%;
+	font-weight: 400;
+}
+
+.lyrics-link, .video-link
+{
+	font-size: 80%;
+	cursor: pointer;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+
+.lyrics-link
+{
+	color: #888440;
+}
+
+.lyrics-link:hover
+{
+	color: #404060;
+	text-decoration: underline;
+}
+
+.video-link
+{
+	color: #555111;
+}
+
+.video-link:hover
+{
+	color: #444000;
+	text-decoration: underline;
+}
+
+.video-link:visited
+{
+	color: #444000;
+	text-decoration: none;
+}
+
+				/* Main music page  */
+#solo-recordings a
+{
+	line-height: 30px;
+}
+
+.image#sheet-music
+{
+	background-image: url(/images/sheet-music-165.jpg);
+	background-size: cover;
+}
+
+.image#abstract-speaker
+{
+	background-image: url(/images/music.jpg);
+}
+
+.image#grandin-studio
+{
+	background-image: url(/images/grand-studio.jpg);
+	background-position: top;
+	background-size: cover;
+}
+
+.image#providence
+{
+	background-image: url(/images/tape1.jpg);
+	align-items: flex-start;
+	padding-bottom: 10px;
+}
+
+.image#gas-music
+{
+	background-image: url(/images/jupiter-juno.jpg);
+	padding-bottom: 10px;
+}
+
+.prov-titles { margin-left: 20px; }
+
+.gmfj-titles { margin-right: 20px; }
+.gmfj-titles a, .prov-titles a { color: #eee; }
+.gmfj-titles a:visited, .prov-titles a:visited { color: #eee; text-decoration: none; }
+
+		/* Big Frontier */
+
+.image#bf-title
+{
+	background-image: url(/images/skyisland.jpg);
+}
+
+.image#bf-cover
+{
+	background-image: url(/images/bf-cover.jpg);
+}
+
+		/* BNML */
+
+.image#bnml-title
+{
+	background-image: url(/images/bnml-abs.jpg);
+}
+
+.image#bnml-cover
+{
+	background-image: url(/images/bnml-cover1.jpg);
+}
+
+.image#nicks
+{
+	background-image: url(/images/nicks.jpg);
+	background-position: top;
+	height: 460px;
+}
+
+.caption#nicks
+{
+	margin-right: 480px;
+	margin-bottom: 10px;
+}
+
+		/* Cities */
+
+.image#cities-title
+{
+	background-image: url(/images/cities-title.png);
+}
+
+.image#cities-cover
+{
+	background-image: url(/images/cities-cover.jpg);
+}
+
+		/* Fun w/ Light & Heat */
+
+.image#fwlah
+{
+	background-image: url(/images/fwlah-cover.png);
+}
+
+.image#fwlah-title
+{
+	background-image: url(/images/fwlah-3w.png);
+}
+
+		/* Gas Music  */
+
+.image#ail-title
+{
+	background-image: url(/images/ail-cover.jpg);
+}
+
+.image#ail
+{
+	background-image: url(/images/ail-cover.jpg);
+}
+
+.image#ttct-title
+{
+	background-image: url(/images/ttct-cover.png);
+}
+
+.image#ttct
+{
+	background-image: url(/images/ttct-cover.png);
+}
+
+		/* Love & Madness */
+
+.image#lm-title
+{
+	background-image: url(/images/lm-back.jpg);
+}
+
+.image#lm-cover
+{
+	background-image: url(/images/lm-cover.jpg);
+}
+
+		/* Point Me Into the Sky */
+
+.image#pmits-title
+{
+	background-image: url(/images/back-tree.png);
+	background-position: unset;
+}
+
+.image#pmits
+{
+	background-image: url(/images/pmits-cover.jpg);
+}
+
+		/* Providence */
+
+.image#five-title
+{
+	background-image: url(/images/five-cover.png);
+}
+
+.image#five-cover
+{
+	background-image: url(/images/five-cover.png);
+	background-size: 85%;
+}
+
+.image#questions-cover
+{
+	background-image: url(/images/questions.jpg);
+}
+
+.image#prophecies-cover
+{
+	background-image: url(/images/prophecies.jpg);
+}
+
+		/* Swan Songs */
+
+.image#swan-title
+{
+	background-image: url(/images/swan-title.jpg);
+}
+
+.image#swan-cover
+{
+	background-image: url(/images/swan-cover.jpg);
+}
+
+.image#tine-back
+{
+	background-image: url(/images/tine-back.png);
+	height: 630px;
+}
+
+.caption#tine-back
+{
+	color: #000;
+	margin-right: 20px;
+	text-shadow: 1px 1px 1px #bbb;
+	margin-bottom: 8px;
+}

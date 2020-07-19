@@ -1,0 +1,113 @@
+header
+{
+	padding: .5vh 0 .5vh 0;
+	height: 40px;
+	position: fixed;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	z-index: 100;
+	background-color: #00699f;
+}
+
+header .title
+{
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 2rem;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	flex: 1;
+}
+
+header .title a
+{
+	color: #ffca45;
+}
+
+a:visited
+{
+	color: #ffca45;
+}
+
+#burger-box
+{
+	cursor: pointer;
+	flex: 1;
+}
+
+#trigger, #burger, #burger:before, #burger:after
+{
+	position: absolute;
+	top: 10px;
+	right: 25px;
+	background: #ffca45;
+	width: 30px;
+	height: 2px;
+	transition: .2s ease;
+	cursor: pointer;
+	z-index: 1;
+}
+
+#trigger
+{
+	height: 25px;
+	background: none;
+}
+
+#burger:before, #burger:after
+{
+	content: " ";
+	top: 10px;
+	left: 0;
+}
+
+#burger:after { top: 20px; }
+
+#menu
+{
+	position: absolute;
+	top: 7px;
+	right: 0px;
+	margin: 0; padding: 0;
+	width: 230px;
+	height: 255px;
+}
+
+#menu-toggle:checked + #trigger ~ #menu > li, a
+{
+	display: block;
+}
+
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked
+{
+	display: none;
+}
+
+#menu > li, #menu > a
+{
+	margin: 40px 0 -40px 0;
+	color: #ffca45;
+	font: 13pt "HelveticaNeue-Light", sans-serif;
+	line-height: 2.5;
+	text-decoration: none;
+	text-transform: none;
+	list-style: none;
+	background-color: #00699f;
+	outline: 0;
+	display: none;
+}
+
+#menu > li
+{
+	width: 230px;
+	text-indent: 56px;
+}
+
+#menu > a:hover
+{
+	display: block;
+	color: #333;
+	background-color: #eee;
+	transition: all .5s;
+}
