@@ -1,20 +1,10 @@
 
 .image#home
 {
-	background-image: url(/images/gtnpcr-09242015b.jpg);
-	background-size: contain;
-	height: 192px;
-}
-
-.home.row
-{
-	margin-bottom: 20px;
-}
-
-.home.content.column
-{
-	cursor: pointer;
-	padding-left: 60px;
+	background-image: url(/images/lakemcd-07232015.png);
+	background-position-y: 70%;
+	background-size: 100%;
+	height: 16vh;
 }
 
 .image#home-music
@@ -32,7 +22,12 @@
 	background-image: url(/images/tech.png);
 }
 
-img#ebay
+.image#home-ebay
 {
-	height: 100px;
+	background-image: url(/images/my-ebay.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-positions: 50%;
+	height: 90px;
+	cursor: pointer;
 }

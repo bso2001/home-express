@@ -4,18 +4,9 @@ var createError = require('http-errors')
 var homeRouter = require('./routes/home')
 var logger = require('morgan')
 var path = require('path')
-var sass = require('node-sass-middleware')
 
 var app = express()
 
-app.use( sass
-({
-	src: __dirname + '/sass',			// input .sass files
-	dest: __dirname + '/public/styles',		// output CSS
-	debug: true,
-	sourceMap: true,
-	outputStyle: 'compressed'
-}))
 							// view engine setup
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'ejs')

@@ -1,17 +1,16 @@
 footer
 {
-	display: flex !important;
-	align-items: center;
-	justify-content: center;
-	padding: .8vh;
 	width: 100%;
+	text-align: center;
+	padding: .6vh 0;
 	z-index: 100;
 	background-color: #00699f;
+	box-sizing: border-box;
 }
 
 footer .text
 {
-	font-family: "Open Sans", "Helvetica Neue", sans-serif;
-	font-size: 1.4rem;
+	font-family: "Helvetica Neue-Light", sans-serif;
+	font-size: 1.8rem;
 	color: #ffca45;
 }

@@ -22,17 +22,17 @@ $( document ).ready( function()
 		modal.close();
 	});
 
-	$( '.content#go-to-music' ).click( function()				// click handlers for home page boxes
+	$( '.card#go-to-music' ).click( function()				// click handlers for home page boxes
 	{
 		top.location = '/music';
 	});
 
-	$( '.content#go-to-images' ).click( function()
+	$( '.card#go-to-images' ).click( function()
 	{
 		top.location = '/images';
 	});
 
-	$( '.content#go-to-tech' ).click( function()
+	$( '.card#go-to-tech' ).click( function()
 	{
 		window.open( 'http://olsson.tech', '_new' );
 	});

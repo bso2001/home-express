@@ -2,28 +2,19 @@
 
 	/* Global HTML refinements */
 
-section, article, aside, footer, header, nav
-{
-	display: block;
-}
-
 html
 {
 	font-family: HelveticaNeue-Light, Arial, sans-serif;
-        font-size: calc( (1vh + 1vw) / 2);
+        font-size: calc( 1vh + (100vw / 60) / 10 );
 }
 
 body
 {
 	margin: 0;
-        height: 100vh;
+        height: 100%;
 	color: #686868;
 	background-color: #bbbbbb;
 }
-
-section			{ margin-top: 20px; }
-section:first-child	{ margin-top: 0px; }
-section.center		{ justify-content: center; }
 
 a
 {
@@ -58,18 +49,12 @@ h3
 	font-weight: 400;
 }
 
-p
-{
-	margin-top: 8px;
-	margin-bottom: 4px;
-}
-
 	/* Layout: page, content, rows, columns */
 
 .page
 {
 	height: 100vh;
-	width: 100vw;
+	width: 100%;
 	display: flex;
 	flex-flow: column;
 }
@@ -77,10 +62,12 @@ p
 .content
 {
 	flex: 1;
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
 	font-size: 2rem;
 	background-color: #bbbbbb;
-	margin: 0 auto;
-	padding: 66px 0px 30px 0px;
+	padding: 6vh 2vw 6vh 2vw;
 }
 
 .row
@@ -89,38 +76,50 @@ p
 	width: 80vw;
 }
 
-.column, .double.column
-{
-        display: flex;
-        flex-direction: column;
-        flex-basis: 100%;
-}
-
 /* Global "application" CSS */
 
-.content.column
+.content .card
 {
 	background-color: #dfdfdf;
-	padding: 10px 20px;
+	cursor: pointer;
 }
 
-.image.column
+.card .image
 {
+	float: left;
+	width: 59%;
+	height: 18vh;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	justify-content: flex-end;
-	align-items: flex-end;
 }
 
-.centered.image.column
+.card .textbox
 {
+	float: left;
+	width: 39%;
+	height: 60%;
+	margin-top: 4vh;
+	display: flex;
+	flex-flow: column;
 	align-items: center;
+	box-sizing: border-box;
 }
 
-.text.column
+.card .title
 {
-	padding: 24px 48px;
+	height: 50%;
+	color: #444;
+	font-family: HelveticaNeue-Medium, Impact, sans-serif;
+	font-size: 3.2rem;
+}
+
+.card .description
+{
+	color: #666;
+	font-weight: 400;
+	font-size: 2rem;
+	text-align: center;
 }
 
 .caption
