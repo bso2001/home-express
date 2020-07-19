@@ -2,7 +2,7 @@
 
 if [ -z "$HOMEDIR" ]
 then
-	HOMEDIR=/var/www/html/home-prod
+	HOMEDIR=/var/www/html/home-dev
 fi
 
 cd $HOMEDIR

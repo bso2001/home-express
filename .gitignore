@@ -1,3 +1,6 @@
 .home.pid
 .home.log
 node_modules
+homepage.service
+homestart.sh
+homestop.sh

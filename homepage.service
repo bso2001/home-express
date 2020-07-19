@@ -1,8 +1,8 @@
 [Unit]
-Description=bertolsson.com
+Description=dev.bertolsson.com
 
 [Service]
-ExecStart=/var/www/html/home-prod/homestart.sh
+ExecStart=/var/www/html/home-dev/homestart.sh
 
 [Install]
 WantedBy=multi-user.target
