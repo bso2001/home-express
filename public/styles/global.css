@@ -5,7 +5,7 @@
 html
 {
 	font-family: HelveticaNeue-Light, Arial, sans-serif;
-        font-size: calc( 1vh + (100vw / 60) / 10 );
+        font-size: calc( .9vh + (90vw / 90) / 10 );
 }
 
 body
@@ -37,6 +37,7 @@ h1
 h2
 {
 	color: #666;
+	font-family: HelveticaNeue, sans-serif;
 	font-weight: 400;
 	font-size: 2rem;
 }
@@ -67,7 +68,7 @@ h3
 	justify-content: space-between;
 	font-size: 2rem;
 	background-color: #bbbbbb;
-	padding: 6vh 2vw 6vh 2vw;
+	padding: 8vh 10vw 2vh 10vw;
 }
 
 .row
