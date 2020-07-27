@@ -5,7 +5,7 @@
 html
 {
 	font-family: HelveticaNeue-Light, Arial, sans-serif;
-        font-size: calc( .9vh + (90vw / 90) / 10 );
+        font-size: calc( .8vh + (100vw / 60) / 10 );
 }
 
 body
@@ -85,11 +85,13 @@ h3
 	cursor: pointer;
 }
 
+/* Note: card details on the home page are a bit different */
+
 .card .image
 {
-	float: left;
-	width: 59%;
-	height: 18vh;
+	float: right;
+	width: 33%;
+	height: 16vh;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -98,9 +100,9 @@ h3
 .card .textbox
 {
 	float: left;
-	width: 39%;
-	height: 60%;
-	margin-top: 4vh;
+	width: 62%;
+	height: 40%;
+	margin: 2vh 1vw 2vh 1vw;
 	display: flex;
 	flex-flow: column;
 	align-items: center;
@@ -109,18 +111,29 @@ h3
 
 .card .title
 {
-	height: 50%;
-	color: #444;
+	color: #171717;
+	font-size: 2.8rem;
 	font-family: HelveticaNeue-Medium, Impact, sans-serif;
-	font-size: 3.2rem;
+}
+
+.card .title.small
+{
+	font-family: HelveticaNeue, Impact, sans-serif;
+	font-size: 2.2rem;
 }
 
 .card .description
 {
 	color: #666;
-	font-weight: 400;
 	font-size: 2rem;
+	line-height: 2.8rem;
+	margin-top: .8vh;
 	text-align: center;
+}
+
+.card .description.small
+{
+	font-size: 1.8rem;
 }
 
 .caption
