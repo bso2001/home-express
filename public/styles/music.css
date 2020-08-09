@@ -141,7 +141,7 @@
 	line-height: 30px;
 }
 
-.image#sheet-music
+#music-header-image
 {
 	background-image: url(/images/sheet-music-165.jpg);
 	background-size: cover;

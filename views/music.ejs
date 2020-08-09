@@ -14,102 +14,42 @@
 <% include header.ejs %>
 
 <div class="content">
-	<div class="card">
-		<div class="textbox">
-			<div class="title"> My Music </div>
-			<div class="description"> Sounds I was somewhat responsible for producing </div>
-		</div>
-		<div class="image" id="sheet-music"></div>
+	<div class="vertical-card">
+		<div class="image" id="music-header-image"></div>
+		<div class="description">Music for which I was at least partially culpable.</div>
 	</div>
 
-	<div class="card">
+	<div class="card" id="go-to-c21">
 		<div class="image" id="abstract-speaker"></div>
 		<div class="textbox">
-			<div class="title small"> RnO </div>
-			<div class="description small"> Robinson and Olsson; me writing music, Rick adding lyrics and melody. </div>
-			<a href="/point-me-into-the-sky" class="album-link"> Point Me Into the Sky <span style="font-weight: 400;">(2010)</span></a>
-
-			<div class="title small"> BNML </div>
-			<div class="description small"> Band rehearsal improvs, with Mike and Lester, all at Nick's place. </div>
-			<a href="/last-summer" class="album-link"> Last Summer <span style="font-weight: 400;">(2013)</span></a>
-
-			<div class="title small"> Olsson &amp; Romond </div>
-			<div class="description small"> Frank wrote a bunch of impressive drumbox parts, then I added music. </div>
-			<a href="/cities" class="album-link"> Cities <span style="font-weight: 400;">(1988)</span></a>
-		</div>
-	</div>
-	
-	<div class="card">
-		<div class="textbox" id="solo-recordings">
-			<div class="title small"> Solo Recordings </div>
-			<div class="description small">Music made mostly by myself, in various home studios. Once two tracks on analog tape, now as many digital tracks as one wants.</div>
-			<a href="/songs-of-the-last-swan" class="album-link"> Songs of the Last Swan <span style="font-weight: 400;">(2008)</span></a>
-			<a href="/fun-with-light-and-heat" class="album-link"> Fun With Light and Heat <span style="font-weight: 400;">(2008)</span></a>
-			<a href="/love-and-madness" class="album-link"> Love and Madness <span style="font-weight: 400;">(2004)</span></a>
-			<a href="#" class="album-link"> Now What? <span style="font-weight: 400;">(1998)</span></a>
-			<a href="#" class="album-link"> The Jovian Conspiracy <span style="font-weight: 200; font-style: italic;">(lost album from the 90's)</span></a>
-			<a href="/big-frontier" class="album-link"> Big Frontier <span style="font-weight: 400;">(1987)</span></a>
-		</div>
-
-		<div class="image column" id="grandin-studio">
-			<div class="caption" id="grandin-studio"> My studio at Grandin, circa 2002 </div>
+			<div class="title">Century 21 Music</div>
+			<div class="description">A celebration of Y2K survival.</div>
 		</div>
 	</div>
 
-	<div class="card">
-		<div class="image column" id="providence">
-			<span class="prov-titles">
-				<a href="/providence" class="album-link"> Five <span style="font-weight: 400;">(1984)</span></a> <br />
-				<a href="/providence#questions" class="album-link"> Questions of Perspective
-											<span style="font-weight: 400;">(1983)</span></a> <br />
-				<a href="/providence#prophecies" class="album-link"> Prophecies <span style="font-weight: 400;">(1983)</span></a> <br />
-				<a href="/providence#two" class="album-link"> Providence II <span style="font-weight: 400;">(1981)</span></a> <br />
-				<a href="/providence#one" class="album-link"> Providence I <span style="font-weight: 400;">(1980)</span></a>
-			</span>
-		</div>
-
+	<div class="card" id="go-to-images">
 		<div class="textbox">
-			<div class="title small"> Providence </div>
-			<div class="description small">
-				I met Ray Nering in grade school when we were 12 or 14 or like that.
-				Soon thereafter, we were trying to make music.
-				Not many years later, we met drummer Frank Romond, and by the mid-to-late 70's, we were a band we called <i>Providence</i>.
-			</div>
-			<div class="description small">
-				Mark Dobry soon joined as the bass player.
-				Ansel Spada became the singer.
-				Dana Vagovsky and Dean Rubine played keyboards on some projects.
-			</div>
-			<div class="description small">
-				For ten years or so, we recorded lots of originals, all of them on analog tape.
-				And all these guys were a big part of my life through all those years.
-			</div>
+			<div class="title">Images</div>
+			<div class="description">Pictures, some that move.</div>
 		</div>
+		<div class="image" id="home-images"></div>
 	</div>
 
-	<div class="card">
+	<div class="card" id="go-to-tech">
+		<div class="image" id="home-tech"></div>
 		<div class="textbox">
-			<div class="title small"> Gas Music From Jupiter </div>
-			<div class="description small">
-				Beginning in the late 70's, a series of rather insane improvisations took place.
-				Initially, these were perpetrated by Ray Nering and myself. Frank Romond and Lee Walsh would ultimately become complicit as well.
-				Many others wandered in at one time or another, lending both spiritual and musical support.
-			</div>
-			<div class="description small">
-				Early on, Ray termed these sessions "Gas Music from Jupiter" (from the Firesign Theatre album <i>Everything You Know is Wrong</i>).
-				Gas Music gatherings were a fairly regular thing throughout the 80's.
-			</div>
-			<div class="description small"> There have been some 20 GMFJ meetings. An attempt will be made to document as many as possible. </div>
-		</div>
-
-		<div class="image column" id="gas-music">
-			<span class="gmfj-titles">
-				<a href="/gmfj" class="album-link"> Art Imitates Life <span style="font-weight: 400;">(1989)</span></a> <br />
-				<a href="/gmfj#through-the-comets-tail" class="album-link">
-								Through the Comet's Tail <span style="font-weight: 400;">(1987)</span></a>
-			</span>
+			<div class="title">Technology</div>
+			<div class="description">That what pays the bills.</div>
 		</div>
 	</div>
+
+<!--
+	<a target="_new" href= "https://www.ebay.com/sch/i.html?_saslop=1&_sasl=bso2001">
+		<div class="image" id="home-ebay"></div>
+	</a>
+-->
+
+</div>
 </div>
 
 <% include footer.ejs %>

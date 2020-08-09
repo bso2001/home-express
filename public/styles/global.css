@@ -4,7 +4,7 @@
 
 html
 {
-	font-family: HelveticaNeue-Light, Arial, sans-serif;
+	font-family: HelveticaNeue, Arial, sans-serif;
         font-size: calc( .8vh + (100vw / 60) / 10 );
 }
 
@@ -51,7 +51,6 @@ h3
 }
 
 	/* Layout: page, content, rows, columns */
-
 .page
 {
 	height: 100vh;
@@ -68,7 +67,7 @@ h3
 	justify-content: space-between;
 	font-size: 2rem;
 	background-color: #bbbbbb;
-	padding: 8vh 10vw 2vh 10vw;
+	padding: 8vh 4vw 2vh 4vw;
 }
 
 .row
@@ -79,29 +78,55 @@ h3
 
 /* Global "application" CSS */
 
-.content .card
+.content .card, .content .vertical-card
 {
 	background-color: #dfdfdf;
 	cursor: pointer;
+	height: 12vh;
 }
 
-/* Note: card details on the home page are a bit different */
+.content .vertical-card
+{
+	height: 16vh;
+}
 
+.image
+{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.title
+{
+	color: #171717;
+	font-family: HelveticaNeue-Medium, Impact, sans-serif;
+}
+
+.description
+{
+	color: #666;
+	text-align: center;
+	font-family: HelveticaNeue, Impact, sans-serif;
+}
+						/* Note: card details for the home page are altered a bit in home.css */
 .card .image
 {
 	float: right;
 	width: 33%;
-	height: 16vh;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
+}
+
+.vertical-card .image
+{
+	width: 100%;
+	height: 72%;
 }
 
 .card .textbox
 {
 	float: left;
 	width: 62%;
-	height: 40%;
 	margin: 2vh 1vw 2vh 1vw;
 	display: flex;
 	flex-flow: column;
@@ -111,14 +136,18 @@ h3
 
 .card .title
 {
-	color: #171717;
 	font-size: 2.8rem;
-	font-family: HelveticaNeue-Medium, Impact, sans-serif;
+}
+
+.vertical-card .title
+{
+	width: 100%;
+	text-align: center;
+	font-size: 3rem;
 }
 
 .card .title.small
 {
-	font-family: HelveticaNeue, Impact, sans-serif;
 	font-size: 2.2rem;
 }
 
@@ -129,6 +158,13 @@ h3
 	line-height: 2.8rem;
 	margin-top: .8vh;
 	text-align: center;
+}
+
+.vertical-card .description
+{
+	font-family: HelveticaNeue-Medium, sans-serif;
+	font-size: 2.2rem;
+	padding: 1vh 4vw 1vh 4vw;
 }
 
 .card .description.small
@@ -143,12 +179,4 @@ h3
 	text-shadow: 1px 1px 1px #000000;
 	font-family: HelveticaNeue-Light, sans-serif;
 	font-size: 90%;
-}
-
-.banner
-{
-	margin: 0 auto;
-	background-size: cover;
-	width: 100%;
-	height: 100%;
 }
