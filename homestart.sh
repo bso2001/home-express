@@ -7,8 +7,8 @@ fi
 
 cd $HOMEDIR
 
-DEBUG=home:*
-export DEBUG
+export DEBUG=home:*
+export HOMEPORT=8027
 
 nohup node www.js $* > .home.log 2>&1 &
 

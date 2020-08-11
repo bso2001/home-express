@@ -1,6 +1,6 @@
 header
 {
-	padding: 1vh 2vw 1vh 2vw;
+	padding: 2rem 0 2rem 4rem;
 	position: fixed;
 	display: flex;
 	flex-flow: row;
@@ -15,9 +15,10 @@ header
 header .title
 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 2.5rem;
+	font-size: 3rem;
 	text-transform: uppercase;
-	flex: 1;
+	white-space: nowrap;
+	flex: 2;
 }
 
 header .title a
@@ -38,11 +39,11 @@ a:visited
 #trigger, #burger, #burger:before, #burger:after
 {
 	position: absolute;
-	top: 10px;
-	right: 25px;
+	top: 2.4rem;
+	right: 2rem;
 	background: #ffca45;
-	width: 30px;
-	height: 4px;
+	width: 5rem;
+	height: .5rem;
 	transition: .2s ease;
 	cursor: pointer;
 	z-index: 1;
@@ -50,27 +51,27 @@ a:visited
 
 #trigger
 {
-	height: 25px;
+	height: 4rem;
 	background: none;
 }
 
 #burger:before, #burger:after
 {
 	content: " ";
-	top: 10px;
+	top: 20px;
 	left: 0;
 }
 
-#burger:after { top: 20px; }
+#burger:after { top: 40px; }
 
 #menu
 {
 	position: absolute;
-	top: 7px;
-	right: 0px;
+	top: 7.5rem;
+	right: 0;
 	margin: 0; padding: 0;
-	width: 230px;
-	height: 255px;
+	width: 30rem;
+	height: fit-content;
 }
 
 #menu-toggle:checked + #trigger ~ #menu > li, a
@@ -85,28 +86,26 @@ a:visited
 
 #menu > li, #menu > a
 {
-	margin: 40px 0 -40px 0;
-	color: #ffca45;
-	font: 13pt "HelveticaNeue-Light", sans-serif;
-	line-height: 2.5;
-	text-decoration: none;
-	text-transform: none;
+	color: #ffca45 !important;
+	font: 2.2rem "HelveticaNeue-Light", sans-serif;
+	line-height: 6rem;
+	text-decoration: none !important;
+	text-transform: uppercase;
 	list-style: none;
-	background-color: #00699f;
+	background-color: #252d41;
 	outline: 0;
 	display: none;
 }
 
 #menu > li
 {
-	width: 230px;
-	text-indent: 56px;
+	width: 30rem;
+	text-align: center;
 }
 
-#menu > a:hover
+#menu > li:hover
 {
 	display: block;
-	color: #333;
-	background-color: #eee;
+	background-color: #454d61;
 	transition: all .5s;
 }
