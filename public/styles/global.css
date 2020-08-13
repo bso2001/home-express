@@ -90,6 +90,7 @@ h3
 .content .vertical-card
 {
 	height: 16vh;
+	cursor: default;
 }
 
 .image
@@ -149,7 +150,7 @@ h3
 .description
 {
 	color: #666;
-	font-family: HelveticaNeue-Medium, sans-serif;
+	font-family: HelveticaNeue, sans-serif;
 	font-size: 2.2rem;
 	line-height: 2.8rem;
 	text-align: center;
@@ -162,8 +163,10 @@ h3
 
 .vertical-card .description
 {
-	margin-top: 1.2rem;
+	margin-top: 1rem;
 	text-transform: uppercase;
+	font-size: 2rem;
+	font-family: HelveticaNeue-Medium, sans-serif;
 }
 
 .card .description.small
