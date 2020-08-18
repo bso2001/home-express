@@ -1,2 +1,1 @@
-The bertolsson.com home page.
-It uses the Node.js Express framework.
+The previous incarnation of bertolsson.com -- it used Node/Express.
