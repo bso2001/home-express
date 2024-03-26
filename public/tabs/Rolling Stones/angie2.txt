@@ -1,0 +1,398 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+From: cscsj@lux.latrobe.edu.au (   Junacko)
+subject: Rolling Stones - Angie
+
+ANGIE by Rolling stones. Any correction is appriciated.
+
+
+
+intro:
+
+Harmonics  Am                      E
+
+|--------|--0---0---3^0----------|--------0-----------------------|
+
+|--------|--1---1---1------------|------0---0--------0------------|
+
+|--------|--2---2---2------------|----1-------1---1--1------------|
+
+|--------|--2---2---2------------|--------------2-2---------------|
+
+|--12----|-----------------------|--------------------------------|
+
+|--------|-----------------------|-0------------------------------|
+
+
+
+  G                 F              F               C
+
+|---------3---------1-1----------|-1---------1--------------------|
+
+|-------3---3-------1-1----------|---1----------------------------|
+
+|-----5-------5-----3-2----------|--------2----------0-0----------|
+
+|-5-------------5---3-3----------|------3------------3-2----------|
+
+|--------------------------------|-----------------3--------------|
+
+|--------------------------------|--------------------------------|
+
+
+
+  Em7           Am
+
+|--------------------------------|--------------------------------|
+
+|-------0-------0^1--------------|--------------------------------|
+
+|---------0-----2----------------|--------------------------------|
+
+|----0----------2----------------|--------------------------------|
+
+|--2------------0----------------|--------------------------------|
+
+|--------------------------------|--------------------------------|
+
+
+
+
+
+ANGIE  Stones  
+
+[lyrics from ftp.uwp.edu]
+
+
+
+Am     E7
+
+Angie, Angie
+
+G?              F? F      F C G C
+
+When will those clouds all disappear?
+
+Am     E7
+
+Angie, Angie
+
+G?              F? F      F C G C
+
+Where were the ladies from here?
+
+
+
+	G
+
+With no loving in our souls
+
+       Dm               Am
+
+and no money in our coats
+
+C               F                 G
+
+(( Oh you can't say we're satisfied ))
+
+
+
+Am     E7
+
+Angie, Angie
+
+G?              F? F      F C G C
+
+(( Oh you can't say we never tried ))
+
+
+
+Uh Angie, you're beautiful...yes
+
+(( but ain't it time we said goodbye ))
+
+Angie, I still love you
+
+Remember all those nights we cried
+
+
+
+(( All the dreams we held so close
+
+Seem to all go up in smoke
+
+Oh let me whisper in your ear ))
+
+
+
+Angie, Angie        { <<< whisper }
+
+Where were the ladies from here?
+
+
+
+{ piano solo }
+
+
+
+Oh Angie don't you weep
+
+All your kisses still taste sweet
+
+I hate that sadness in your eyes
+
+
+
+but Angie, Angie
+
+Ain't it time we said goodbye...ya
+
+
+
+{ strings }
+
+
+
+(( With no loving in our souls
+
+and no money in our coats
+
+Oh you can't say we're satisfied ))
+
+
+
+Dm                              Am
+
+but Angie, I still love you baby
+
+Dm                              Am
+
+Every where I look I see your eyes
+
+Dm                              Am
+
+There ain't a woman that comes close to you
+
+  C             F       G
+
+Come on baby dry your eyes
+
+
+
+Angie, Angie
+
+Ain't it good to be alive
+
+Angie, Angie
+
+They can't say we never tried
+
+
+
+{ END }
+
+
+
+  Am   G  G? F  F? C  Dm
+
+|------3-----1--1------1---------|
+
+|--1------3--1--1--1---3---------|
+
+|--2---------2--3------2---------|
+
+|--2---------3--3--2-------------|
+
+|------2--2--------3-------------|
+
+|------3--3--------3-------------|
+
+
+-----------------------------------------------------------------------------
+
+From: matthew.gates@escape.brisnet.org.au (Matthew Gates)
+
+{title:ANGIE}
+{st:Rolling Stones}
+
+[Am]  [E7]
+Angie,Angie
+
+[G]             [F]	       [A# F GCG]		
+When will those dark clouds all disappear?
+
+[Am]   [E]  
+Angie, Angie
+
+[G]           [F]         [A#FGC ]
+Where will it lead us from here? With no
+
+[G]
+loving in our souls and no
+
+[Dm]         [Am]
+money in our coats
+
+[C]       [F]		[G]  
+  You can't say we're satisfied
+ 
+[Am]   [E]		
+Angie, Angie
+
+[G]	  [F]	       [A#FGCE7]	
+You can't say we never tried 
+                        D.S.al Coda
+
+
+CODA:
+[Dm]                      [Am]
+Angie, I still love you baby
+
+[Dm]                       [Am]
+Ev'ry where I look I see your eyes
+
+[Dm]                           [Am]                        
+There ain't a woman that comes close to you
+
+[C]      [F]           [G]
+Come on baby dry your eyes  But
+
+[Am]        [E7]
+Angie______ An-gie
+
+[G]        [F]    
+  Ain't it good to be alive
+
+
+1.
+[A# F G C E7]
+
+2.
+[A# F G C (held)]
+
+
+Angie you're beautiful but ain't it time we said goodbye
+Angie I still love you remember all those nights we cried
+All the dreams we held so close seemed to all go up in smoke
+Let me whisper in your ear Angie, Angie where will it lead us from here
+Angie, where will it lead us from here.
+
+_Instrumental_
+Oh Angie don't you weep all your kisses still taste sweet
+I hate that sadness in your eyes but
+Angie, Angie ain't it time we said goodbye
+
+_Instrumental_
+With no loving in our souls and no money in our coats
+You can't say we're satisfied
+But Angie, Angie, I still love you baby.
+---------------------------Cut Here------------------------------------------
+Anybody written a program that makes entering TAB easy? POST IT!!
+
+matthew.gates@escape.brisnet.org.au
+
+
+
+From: graeberd@student.msu.edu  (Mr. G.)
+Subject: Angie: The Rolling Stones
+
+Nobody requested this, but I kind of wanted to show off Ofir Zwebner's TAB
+master program and I really like the song too....
+
+Angie:
+       Am                       Emaj7                       G
+e:-----0--0--0--0--3^0--------0-----------0-----------0----------------3-----|
+B:-----1--1--1--1--1-------1-----------0-----0-----0-----1----------3-----3--|
+G:-----2--2--2--2--2----2-----------1-----------1--1-------------4-----------|
+D:-----2--2--2--2--2-------------------------------2----------5--------------|
+A:!12!------------------------------------------------------5----------------|
+E:-------------------------------0-------------------------------------------|
+           F                                      Em7         Am
+e:---------1--1--1-----------1--------0-----0----------------------0--0--0--0|
+B:---------1--1-----1--------------------------1--------0-----0^1--1--1------|
+G:4--------3--2-----------2--------0-----------------------0--2----2--2------|
+D:---5-----3--3--------3--------2--------------------0--------2----2--2------|
+A:------5--------------------------------3--------2-----------0--------------|
+E:---------------------------------------------------------------------------|
+                                                              "Angie..."
+e:--0--0--0--0--0--------------------------------------------|
+B:-----------------3--1--------------------------------------|
+G:-----------------------------------------------------------|
+D:-----------------------------------------------------------|
+A:-----------------------------------------------------------|
+E:-----------------------------------------------------------|
+                         (repeats and alters during the song)
+The Words:
+Am         E7
+Angie...Angie
+G	F	E7		Am				
+When will those clouds all disappear
+Am	E7
+Angie...Angie
+G	 F	E7	 Am	
+Where will it lead us from here
+G
+With no loving in our souls
+Dm			Am
+and no money in our coats
+C      F          G   	
+You can't say we're satisfied
+Am	E7
+Angie...Angie
+G       F        Em7	Am
+You can't say we never tried
+Am		E7
+Angie...you're beautiful..yeah
+G              F       Em7     Am
+but aint it time we said goodbye
+Am		E7
+Angie, I still love you
+G           F         Em7	  Am
+Remember all those nights we cried
+G
+All the dreams we held so close
+ Dm			Am
+Seemed to all go up in smoke
+C	F		G
+Let me whisper in your ear
+Am		E7
+Angie...Angie {whispered...[duh?]}
+G	F	Em7	Am
+Where will it lead us to here
+{piano solo}  [Do the Am, E7, G, F, Em7, Am thing]
+	G
+Oh Angie don't you weep
+Dm			Am
+All your kisses still taste sweet
+C	F		G
+I hate that sadness in your eyes
+Am		E7	
+but Angie....Angie
+G 	F		Em7	 Am   
+Aint it time we said goodye...angie
+{string}  [Again with the Am, E7, G,F, Em7, Am thing]
+		G
+With no loving in our souls
+Dm			Am
+And no money in our coats
+C	F		G	
+You can't say we're satisifed
+Dm			Am
+But Angie, I still love you baby
+Dm			Am
+Everywhere I look, I see your eyes
+Dm				Am
+There aint a woman that comes close to you
+  C	F		G
+Come on baby dry your eyes
+Am	E7
+Angie...Angie
+G	  F    Em7    Am	
+Aint it good to be alive
+Am	E7
+Angie...Angie
+G	F     Em7   Am
+They can't say we never tried

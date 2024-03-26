@@ -1,0 +1,209 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA19064>; Sun, 8 Aug 1993 17:13:11 -0700
+Received: from cory.EECS.Berkeley.EDU by animal-farm.nevada.edu id <AA04085@animal-farm.nevada.edu>; Sun, 8 Aug 1993 17:13:10 -0700
+Received: from localhost (rsn@localhost) by cory.EECS.Berkeley.EDU (ALPHA-6.56/6.31) id RAA11529; Sun, 8 Aug 1993 17:13:08 -0700
+Date: Sun, 8 Aug 1993 17:13:08 -0700
+From: Sekhar Narayanaswami <rsn@cory.EECS.Berkeley.EDU>
+Message-Id: <199308090013.RAA11529@cory.EECS.Berkeley.EDU>
+To: jamesb@animal-farm.nevada.edu
+Subject: CRD (and some tab): 29 Palms (Robert Plant)
+
+
+Here's 29 Palms, the latest by Robert Plant (or at least
+as much of it as I could figure out).
+
+29 PALMS - Robert Plant
+-----------------------
+
+The signature riff played throughout the verse:
+
+E ----------------|
+B ----------------|
+G ----------------|
+D -----2---0h2----|
+A -0h2---2--------|
+E ----------------|
+   ^ . ^ . ^ . ^ . 
+
+It's played in each bar over the verse...  what I do for the verse
+is usually play the riff and then play the appropriate chord for the
+rest of the bar... (the riff starts at the place where  I've listed the
+chord)...
+
+          Em
+A Fool in Love
+          Em
+A Crazy Situation
+          D
+Her velvet glove
+                      Em
+Knocks(?) me down and down and down and down
+
+(3 quick staccato strums of an Em)
+          Em
+A kiss of fire
+            Em
+A loaded invitation
+           D
+Inside her smile
+                      Em
+She takes me down and down and down and down
+
+(no riff through this part - starts again at the Em)
+C
+Ahhh ahh ahh
+C
+Ahhh ahh ahh
+C
+Ahhh ahh ahh
+C                 Em  
+Her moves looked good
+               Em
+A touch of desperation
+             D
+>From where I stood
+                 Em
+She turned my head around and round and round
+
+C
+Ahhh ahh ahh
+C
+Ahhh ahh ahh
+C                            G
+Ahhh ahh ahh ahh ahh ahh ahh ahh
+
+Chorus:
+G          D
+Comes down hard
+       G                      C
+When I hear your voice on the radio
+G                         D
+Leading me back down that road
+              Em          C
+Leads back to you
+G    D
+  29 Palms
+  G                     C
+I feel the heat of your desert heart
+G                         D
+Leading me back down that road
+                  Em       C
+Leads back to you
+
+          Em
+A burnin' love
+              Em
+Strange infatuation 
+                D
+White cold cold touch
+                   Em
+What must I do and do and do and do
+                 Em
+The heat and the dust
+                 Em
+Increased my desolation
+            D
+and got me trapped
+                   Em
+Always for you and you and you and you
+
+C
+Ahhh ahh ahh
+C
+Ahhh ahh ahh
+C                            G
+Ahhh ahh ahh ahh ahh ahh ahh ahh
+
+Chorus:
+Chorus:
+G          D
+Comes down hard
+       G                      C
+When I hear your voice on the radio
+G                         D
+Leading me back down that road
+              Em          C
+Leads back to you
+G    D
+  29 Palms
+  G                     C
+I feel the heat of your desert heart
+G                         D
+Leading me back down that road
+                  Em       C
+Leads back to you
+
+
+Solo: (or at least as much as I could get) ( over chords of chorus)
+
+
+E -----7---------------|----------------|
+B -------10p8----10----|----------------|
+G ------------11----7-4h5---4h5---4h5-7-|
+D ---------------------|----------------|
+A ---------------------|----------------|
+E ---------------------|----------------|
+  ^ .  ^ .    ^  .  ^ . ^ . ^ . ^ . ^ .  
+
+
+E -----7---------------|----------------|
+B -------10p8----10----|----------------|
+G ------------11----7-4p2-----2h4-2-0h2-|
+D ---------------------|----------------|
+A ---------------------|----------------|
+E ---------------------|----------------|
+  ^ .  ^ .    ^  .  ^ . ^ . ^ . ^ . ^ .  
+
+
+E -----7---------------|----------------|
+B -------10p8----10----|----------------|
+G 0-----------11----7-4h5---4h5---4h5-7-|
+D ---------------------|----------------|
+A ---------------------|----------------|
+E ---------------------|----------------|
+  ^ .  ^ .    ^  .  ^ . ^ . ^ . ^ . ^ .  
+
+(1 bar of background)
+
+Chorus:
+G          D
+Comes down hard
+       G                      C
+When I hear your voice on the radio
+G                         D
+Leading me back down that road
+              Em          C
+Leads back to you
+G    D
+  29 Palms
+  G                     C
+I feel the heat of your desert heart
+G                         D
+Leading me back down that road
+                  Em       C
+Leads back to you
+
+repeat the G-D-G-C-G-D-Em-C pattern, and repeat the solo also, 
+and fade...
+
+Chords:
+Em:	022000
+D:	xx0232
+C:	x32010
+G:	320003
+
+
+
+Sekhar
+-----------------------------------------------------------------
+Sekhar Narayanaswami                        rsn@cory.berkeley.edu
+
+"I wanna find myself a girl
+Who can show me what laughter means
+And we'll fill in the missing colors
+In each other's paint-by-number dreams"		-- Jackson Browne
+-----------------------------------------------------------------

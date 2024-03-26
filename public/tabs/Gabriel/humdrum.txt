@@ -1,0 +1,108 @@
+Humdrum 
+-------
+
+Written by Peter Gabriel
+From album: Peter Gabriel 1 (Car), 1977
+
+Transcribed by Hisao Chida
+(mailto:hchida@be.mbn.or.jp for comments or corrections. 
+For the latest update and the other songs, visit: 
+http://plaza20.mbn.or.jp/~hisao_chida/pg/chords.html)
+
+Key: G-flat major, Time: 4/4, Tempo: 100
+
+Verse 1: {With electric piano only}
+~~~~~~~~
+|4/4 Db7                |Gbsus4/Db |
+        I saw the man at J.F.K
+|Db7                    |Gbsus4/Db 
+     He took your ticket yesterday
+      ||3/4 B   Gb  |Ebm  Bmb
+In the      hum-drum 
+      ||4/4 B   Gb   Bbm/F Gb|
+In the      hum-drum
+
+
+[Verse 2 & 3] (0:15-)
+
+ I ride tandem with a random
+ Things don't run (in) the way I planned them
+ In the humdrum
+ In the humdrum
+
+ Hey Valentina, do you want me to beg?
+ You got me cooking I'm a hard boiled egg
+ In the humdrum
+ In the humdrum
+
+
+Chorus: (0:46-)
+~~~~~~~
+|3/4 Ebm  Bbm  Ebm  Bbm   |Bbm  F    F7 ||4/4 
+     Emp- ty   my   mind - I    find it         
+|4/4 Gbmaj7       ||3/4
+     hard to cope
+
+|3/4 Ebm  Bbm    Ebm  Bbm    |Bbm   F    F7/A ||4/4 
+     Lis- ten to my   heart - don't need no         
+|4/4 Bb         |     ||
+     stethoscope
+
+
+Interlude: (1:00-) {Enter key, bass & drums, tempo:114}
+~~~~~~~~~~
+|:Db7     |Gbsus4/Db :| (x 2)
+
+{Enters flute}
+||C#m7   || (x 8 bars)
+
+
+[Verse 4] (1:25-) {Enter percussions}
+
+ Seem to me that television
+ She come to cut me a deep incision 
+ In the humdrum
+ In the humdrum
+
+
+(Chorus) (1:39-)
+
+
+Coda: (1:52-) {Enter strings synth & snare drum}
+~~~~
+|:B/D#     |        |Esus2   |       :| (x 2)
+
+|Absus4/Eb |Gbsus2  |Db/F    |       ||
+
+
+|B/D#            |                       |
+     Out of woman come the man, spend the
+|Esus2                   |                 |
+ rest of his life getting back where he can
+|B/D#            |       |Esus2         |     |
+     As a bow, so a dove, as below, so a-bove
+|Absus4/Eb                     |
+           From the black hole, 
+|Gbsus2                        |
+          come the tadpole
+|Db/F                     |                  ||
+     With the dark soul in coal she burn, she 
+
+|B/D#            |            |
+ burn; as I drove into the sun, 
+|Esus2                 |           |
+ Didn't dare look where I had begun
+|B/D#                |                |
+ Lost among echoes of things not there,
+|Esus2                     |                 |
+ Watching the sound forming shapes in the air
+|Absus4/Eb                     |
+          From the white star, 
+|Gbsus2                        |
+          come the bright scar
+|Db/F           |               |G    |    ||
+     Our amoeba, my little liebe schon_____
+
+||B    || (x 4 bars, tempo rubato)
+
+

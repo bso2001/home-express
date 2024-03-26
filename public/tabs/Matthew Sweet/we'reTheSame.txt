@@ -1,0 +1,162 @@
+were_the_same.crd#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+# For the latest collection of Matthew Sweet chords, go to
+# http://www.uark.edu/~cbray/sweet/
+#
+# If you have any corrections or additions to this file, please email them
+# to cbray@comp.uark.edu
+#
+
+WE'RE THE SAME (Version 1)
+
+Chords by:  Courtney Carney  (Courtney_Carney@baylor.edu)
+Corrections by: Bradley T. Heim
+
+Intro:  | G | C | D | Em | G | C | D | D |
+
+
+G               C               D             Am
+I don't have to speak,  and you know what I'm thinking
+G                 C           D
+You don't need to hear what I say,
+G               C                   D              Am
+I don't have to ask,  'cause you'll guess what I'm seeking
+G                 C               D
+You don't need to hide   what you know
+
+
+Em             C             G                    D
+Baby we're the same, when we fall in each other's eyes
+Em             C            G             Em
+Baby we're the same, so you should not be suprised
+Em                      Am    G     G/B      C       C   C/B   D
+When I swear to you, I never told you what to do
+                C   C/B   D
+Maybe it's me.                Maybe it's you.
+
+
+G               C              D             Am
+I don't have to act, so you'll know what I'm feeling
+G                 C        D
+You don't need to see to believe
+
+
+Em             C             G                     D
+Baby we're the same, when we shine in each other's sky
+Em             C            G             Em
+Baby we're the same, wo you should not be suprised
+Em                      Am    G     G/B      C       C   C/B   D
+When I swear to you, I never told you what to do
+                   C   C/B   D
+Sometimes it's me.              Sometimes it's you.
+
+
+SOLO
+
+
+Em             C             G                    D
+Baby we're the same, when we fall in each other's eyes
+Em             C            G             Em
+Baby we're the same, so you should not be suprised
+Em                      Am    G     G/B      C       C   C/B   D
+When I swear to you, I never told you what to do
+               C  C/B  D               C   C/B   D                  G
+Maybe it's me.           Maybe it's you.           Maybe it's you.
+
+
+
+
+-----
+WE'RE THE SAME (Version 2)
+
+From: presente@mckinley.bu.edu (Henry Presente)
+
+G - 320003, 355xxx
+C - 032010, x355xx
+D - 000232, x577xx (only use the power chords if you're gonna use
+Em- 022000, 022xxx  distortion + make the whole song sound harder)
+
+INTRO: G C D Em
+       G C D
+       meanwhile, the lead guitar starts off what sounds like picking the G
+       power chord, a few octaves up, then the C power chord octaves up,
+       but then it loses that pattern and just starts going up and down hthe
+       appropriate scales; you should make up your own intro to this song
+
+VERSE:
+
+    G               C              D             Em
+  e-------------------------------------------------------
+  B---------------0-1--------------3-------------3-3-1-0-- (you can choose
+  G-0---------0-2----------------------------------------2  either octave)
+  D-------------------------------------------------------
+  A-------------0-2-3--------------5-------------5-5-3-2-0
+  E-3---------3-------------------------------------------
+    i don't have to speak, and you know what i'm thinking
+    G               C              D
+  e-------------------------------------------------------
+  B---------------0-1--------------3----------------------
+  G-0---------0-2-----------------------------------------
+  D-------------------------------------------------------
+  A-------------0-2-3--------------5----------------------
+  E-3---------3-------------------------------------------
+    you don't need to hear, what i say
+
+    i don't have to ask, cause you'll guess, what i'm seeking
+    you don't need to hide, what you know
+
+1st HALF CHORUS:
+ Em                   C             G                     D
+ baby, baby we're the same, when we fail in each other's  eyes
+                                   (shine in each other's sky)
+ baby, baby we're the same, so  you should  not  be surpriesed when i swear
+                                                                  to you
+2nd HALF CHORUS:
+ Em       G        C     ***
+ i never  told you what to do
+
+ maybe it's me
+ (sometimes it's me)
+
+ maybe it's you
+ (sometimes it's you)
+
+*** the chords sound alright, although in the 'maybe it's me' parts, you
+    have to fool around with the rhythms, but it sounds better if you play
+    a combination of the Em and G chords and/or then add-to/replace them
+    with the following:
+
+     e--10--8--7--5--3--2--
+     B--0---0--0--0--0--0--
+     G---------------------
+     D---------------------
+     A---------------------
+     E---------------------
+
+    if you have more than one guitar playing, you don't need to play the
+    B string at all
+
+2nd VERSE:
+
+   i don't have to act, so you'll know, what i'm feeling
+   you don't need to see, to believe
+
+CHORUS
+
+SOLO:
+   pick your own picking rhythm (or listen to the record) - i didn't
+   include the number of times to hit each note, but the notes sound right
+
+   e--------------------------------------------------------------
+   B--------------------------------------------------------------
+   G--------------------------------------------------------------
+   D---5--7--9--4--5--4--2--0--2--5--4--5--4s-0-------------------
+   A---------------------------------------------3--2-----0--2--5-
+   E---------------------------------------------------3----------
+
+CHORUS
+

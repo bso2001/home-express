@@ -1,0 +1,452 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+
+From rkamath@hammerhead.cs.indiana.edu (rajesh kamath)
+Subject: Suite: Judy Blue Eyes....
+Date: 18 Dec 92 17:26:21 GMT
+
+
+                SUITE: JUDY BLUE EYES
+                                - Crosby, Stills, Nash and Young
+-----------------------------------------------------------------------
+
+     D               Gsus4               D       A
+It's get-ting to the point, where I'm no fun any-more
+     G     (G->C back to G)
+I am sor-ry.
+     D       Gsus4              D           A
+Sometimes it hurts so bad-ly I must cry out loud,
+     G     (G->C back to G)
+I am lone-ly.
+             D              A             G             G7sus4
+        I am yours, you are mine, you are what you are,
+                    D          G
+        You make it ha-a-a-ard.
+
+Remember what we've said, and done, and felt about each other;
+Oh babe, have mercy.
+Don't let the past re-mind us of what we are not now;
+I am not drea-ming
+        I am yours.....hard.
+              G                      D            A
+Tear-ing your-self ____ away from me now, you are free-ee
+         G
+and I am cry-ing.
+              G                           D          A
+This does not me-ean, I don't love you; I do. That's for-ev-er;
+             G
+yes, and for al-ways..
+        I am yours.....hard.
+
+(....same tune as verses 1 and 2....)
+Some-thing in-side is telling me that I--'ve got your secret;
+Are you still lis-t'ning?
+Fear is the lock and laugh-ter the key to your heart;
+and I love you -
+        I am yours you.....hard, and you make it ha-a-rd.
+
+                (Bass -> A B D B->A D...repeat on A and D strings)
+D                                 G             G7sus4
+Fri-day evening____Sun-day in the af-ter-noon;
+                      D
+what have you got to lose?
+D                                       G               G7sus4
+Tuesday morning____please, be gone, I'm tired of you...
+                     D
+what have you got to lose?
+              C                      G                 {a really strange chord}
+        Can I tell it like it is?____Listen to me ba-by.
+        C                                           G
+        It's my hea--rt that's a-suf-f'rin'; it's a dy-in'
+                                     D
+        and that's what  I__ have to lose.
+
+(....same as Friday evening....)
+I___'ve got an an-swer; I'm going to fly a-way;
+what have I got to lose?
+Will you come see__ me, Thurs-days and Sat-ur-days (ays, ays),
+what have you got to lose?
+
+                (Bass: A->B A A->B A A->B A A->B A -- on A string)
+C/D               D      C/D            D
+Chest-brown ca-na-ry,___ru-by throa-ted spar-row,
+C/D                                              D
+sing a song,___ don't be long,__thrill me to the mar-row.
+
+Voi-ces of the an-gels,___ ring a-round the moon-light;
+Ask-ng me, said she's so free, how can you catch the spar-row.
+
+La-cy lil-ting ly-ric,___los-ing love la-ment-ing;
+Change my life,___make it right,____be my la-dy.
+G           Am  Em   C      D
+Du du du du du, du du du du du du,
+G           Am  Em   C   D
+Du du du du du, du du___ du du;
+
+(Repeat...interspersed with some junk that goes like "Dabadee,da durebedooba")
+
+However, the current tab doesn't include the Spanish words at the end
+of the song.  Everyone thinks it's just a bunch of "dabadee" nonsense
+but it is not.  As far as I can understand them, these are the words:
+
+  Que linda me triaga Cuba
+  La reina de la mar Caribe
+  Cielo sol no tiene sangre alli
+  y que triste (o lastima) que no puedo va ya.
+
+Which sounds like this:
+
+  Kay Linda mey try-aga Kooba
+  La rey-een-a day la mar Car-ee-bey
+  See-ay-lo sole no tee-en-ay san-grey ay-yee
+  ee kay tree-stay (last-ee-ma) kay no poo-ey-do   vahy-ya
+
+Which means:
+
+How I love to go to Cuba,
+the crown of the Caribean.
+The sky has no blood,
+And how sad it is that I cannot go there.
+If you have any corrections, email: Ken_loves_his_mother@yahoo.com
+
+---------------------
+Gsus4                           G7sus4
+E A D G B E                     E A D G B E
+3 x 0 0 1 3                     3 x 0 0 1 1
+
+C may sound better than Gsus4...
+
+Have fun!
+
+Rajesh
+
+
+
+From: Harlan L Thompson <harlant@uhunix.uhcc.Hawaii.Edu>
+
+SUITE: JUDY BLUE EYES- Crosby, Stills and Nash
+
+TUNING: E E E E B E  (D D D D A D also works)
+
+INTRO: (strum the whole thing, check record for the timing)
+   E                     E(no5)   E(no3)    E(no5)E(no3)    
+E -7-7-7-7-7-7-7-7-7-6-5--4--0-4--0-0-0-0-0---4-0-0-0-0-0------
+B -9-9-9-9-9-9-9-9-9-8-7--5--0-5--0-2p0-2p0---5-0-2p0-2p0------
+E -0-0-0-0-0-0-0-0-0-0-0--0--0-0--0-0-0-0-0---0-0-0-0-0-0-0-0-- (repeat)
+E -0-0-0-0-0-0-0-0-0-0-0--0--0-0--0-0-0-0-0---0-0-0-0-0-0-0-0--
+E -------------------------------------------------------------
+E -------------------------------------------------------------
+
+PART 1:
+     E(no5)           Asus2            E(no3)   B(no3)*     Asus2 A7sus4
+It's getting to the point, where I'm no fun anymore, I am sorry
+     E(no3)   Asus2           E(no3)       B(no3)*      Asus2 A7sus4
+Sometimes it hurts so badly I must cry out loud, I am lonely
+     E(no3)         B(no3)        Asus2       A7sus4          E(no3) Asus2
+I am yours, you are mine, you are what you are,   you make it hard
+
+   E(no5)            Asus2              E(no3)           B(no3)*          
+Asus2 A7sus4
+Remember what we've said, and done, and felt about each other, oh babe, 
+have mercy
+ E(no3)        Asus2              E(no3)         B(no3)*         Asus2 A7sus4
+Don't let the past remind us of what we are not now, I am not dreaming
+       E(no3)        B(no3)         Asus2    A7sus4           REPEAT INTRO
+I am yours, you are mine, you are what you are,    you make it hard
+
+ E(no5)     Asus2              E(no3)       B(no3)        Asus2 
+Tearing yourself away from me now, you are free and I am crying
+ E(no3)        Asus2                   E(no3)     B(no3)             
+Asus2 A7sus4
+This does not mean I don't love you, I do, that's forever, yes and for always
+        E(no3)       B(no3)         Asus2     A7sus4         E(no3) Asus2
+I am yours, you are mine, you are what you are,   you make it hard
+
+   E(no5)   Asus2                    E(no3)         B(no3)*           
+Asus2 A7sus4
+Something inside is telling me that I've got your secret, are you still 
+listening?
+  E(no3)     Asus2                 E(no3)      B(no3)*      Asus2 A7sus4
+Fear is the lock and laughter the key to your heart, and I love you 
+       E(no3)        B(no3)         Asus2   A7sus4             E(no3)  Asus2
+I am yours, you are mine, you are what you are,   you make it hard 
+                E(no3) Asus2           E(no3) Asus2               E(no3)
+And you make it hard,   and you make it hard,    and you make it hard
+
+PART 2:
+ E*=                           RIFF=
+   <harmonics>
+E -----<12>---5-5--4-5------   --5-3-------------
+B -----<12>---5-5--5-5------   ------5-3---------
+E -----<12>---0-0--0-0------   ----------5-4-0---
+E --------------------------   ------------------
+E --------------------------   ------------------
+E -0-0------0---------------   ------------------
+
+E*  E*
+
+E*           E*                    Asus2 A7sus4  RIFF                  E* E*
+Friday evening, Sunday in the afternoon,        what have you got to lose?
+E*            E*                        Asus2   A7sus4  
+RIFF                  E* E*
+Tuesday morning please, be gone, I'm tired of you,     what have you got 
+to lose?
+
+       D6(no3)                Asus2                 
+Can I tell it like it is? Listen to me baby 
+D6(no3)                                   
+Asus2                            E* E*
+It's my heart that's a-sufferin', it's a dyin' and that's what I have to 
+lose 
+
+  E*              E*                Asus2 A7sus4  RIFF                E* E*
+I've got an answer, I'm going to fly away,       what have I got to lose?
+ E*                E*                    Asus2 A7sus4  
+RIFF                  E* E*
+Will you come see me, Thursdays and Saturdays,        what have you got 
+to lose?
+
+(SOLO- play notes on first string while simultaneously hitting 6th string 
+for rhythm)
+
+PART 3:
+  D(no5)    E(no5) D(no5)          E(no5)
+Chestbrown canary, ruby throated sparrow
+ Esus2       A/E           E7(no3)           D(no5) C#m(no5)
+Sing a song, don't be long, thrill me to the marrow---
+(SHORT SOLO)
+
+Voices of the angels, ring around the moonlight
+Askng me, said she's so free, how can you catch the sparrow 
+(SHORT SOLO)
+
+Lacy lilting lady, losing love lamenting
+Change my life, make it right, be my lady 
+
+D/E  C#m/E  D/E  C#m/E  D/E  C#m/E  D/E C#m/E D/E C#m/E C#m/E2 Bm/E
+
+PART 4:
+A(no3)   Bm(no3) F#m(no3) D(no3)2       E(no3)2  
+Du du du du du,     du      du    du du du du
+A(no3)  Bm(no3) F#m(no3) D(no3)2  E(no3)2
+Du du du du du,  du      du     du du
+(REPEAT SEVEN TIMES)
+    
+
+
+CHORDS:
+    E    Esus2 E(no5) E(no3) Asus2 B(no3) B6(no3) A7sus4 Esus4  D6(no3) 
+D(no5)  A/E
+E --7-- --5--- --4--- --0--- --0--- --7--- --7--- --3--- --5--- --0--- 
+--2--- --9---
+B --9-- --7--- --5--- --0--- --0--- --7--- --9--- --3--- --5--- --0--- 
+--3--- --10--
+E --0-- --0--- --0--- --0--- --0--- --7--- --7--- --0--- --0--- --0--- 
+--0--- --0---
+E --0-- --0--- --0--- --0--- --0--- --7--- --7--- --0--- --0--- --0--- 
+--0--- --0---
+E --0-- --0--- --0--- --0--- --5--- --7--- --7--- --5--- --0--- --10-- 
+------ ------
+E --0-- --0--- --0--- --0--- --5--- --7--- --7--- --5--- --0--- --10-- 
+------ ------
+
+  E7(no3)C#m(no3) D/E  C#m(no3)C#m(no3)2 A(no3) Bm(no3) F#m(no3) D(no3)2 
+E(no3)2
+E --10-- --0---  --14--  --12-- --9---   --5--- --7---  --14---  --10--- 
+--12----  
+B --12-- --1---  --10--  --9--- --9---   --5--- --7---  --14---  --10--- 
+--12----
+E --0--- --0---  --10--  --9--- --12--   --5--- --7---  --14---  --10--- 
+--12----
+E --0--- --0---  --0---  --0--- --0---   --5--- --7---  --14---  --10--- 
+--12----
+E ------ ------  ------  ------ ------   --5--- --7---  --14---  --10--- 
+--12----
+E ------ ------  ------  ------ ------   --5--- --7---  --14---  --10--- 
+--12----
+
+NOTES:
+B(no3)* means alternate between B(no3) and B6(no3) like a blues rhythm 
+pattern
+E(no5) can substitute E(no3) since they are so similar. Asus2 can be 
+played with all the strings barred at the 5th fret for a fuller sound.
+I also like to play all the 12th string harmonics each time after he says 
+"I am yours".
+
+
+(from Crosby, Stills and Nash, 1969)
+(sent by Harlan at harlant@hawaii.edu)
+
+
+Date: Thu, 15 May 1997 15:17:01 -0700
+From: John Blair <jwblair@ix.netcom.com>
+Subject: CRD: Suite-Judy Blue Eyes (Updates)
+
+Dear OLGA,
+I posted the modal tuning version a
+while back. Since then I've watched the
+Warfield concert video again and noted
+a couple of mistakes in my original post:
+
+1) The tuning is actually DADDAd, and *not* DDDDAd
+as I originally thought. This might seem like a major
+change, but in fact it's hard to tell the difference. All of
+the chord fingerings remain the same. The only way
+I determined the 5th string was an A was that Stills plays
+a brief riff on the top three strings during his solo.
+
+2) I originally indicated chord (3) as the second chord
+in the first set of verses (e.g., on the word "point" in
+"It's getting to the point..."). Careful viewing/listening
+to the video made me change this to chord (8). It doesn't
+seem to go as well with the melody note, but that's what
+Stills seems to be playing.
+
+Here it is again with the corrections added.
+-jb
+
+-----------------------------------------
+
+Suite: Judy Blue Eyes
+(Solo guitar acoustic version)
+Words and music: Stephen Stills
+
+Miscellaneous gossip: Judy supposedly refers to Judy Collins
+
+Chords from the 1991 San Francisco Warfield Theatre
+concert video: "Crosby, Stills & Nash, Acoustic".
+
+Here's my best shot at the chords after repeated viewings
+of the video. Some of the fingerings aren't very visible in
+the video so there are undoubtedly some mistakes below.
+Corrections are welcome.
+
+Guitar: Modal D tuning (DADDAd)
+Note: the original recording was in modal E tuning (EBEEBe)
+      which uses the same fingerings but sounds in E.
+      (Note that the two versions differ a bit musically.)
+
+
+
+Modal
+Chords  D  A  D  D  A  d   (These chord names are
+------  +  +  +  +  +  +    obviously approximations)
+ (1) =  0  0  0  0  9  7    D
+ (2) =  0  0  0  0  8  6    Db
+ (3) =  0  0  0  0  7  5    C
+ (4) =  0  0  0  0  5  4    D
+ (5) =  0  0  0  0  0  0    D
+ (6) =  0  0  0  0  2  0    G
+ (7) =  7  0  0  7  0  0    A
+ (8) =  5  0  0  5  0  0    G
+ (9) =  5  5  0  0  3  3    G7 (Stills fingers TT00ii)
+(10) =  2  x  x  x  x  x    E bass
+(11) = 10  0  0 10  0  0    C
+(12) =  0  0  0  0  0  5    C
+(13) =  0  0  0  0  0  4    B
+(14) =  0  0  0  0  3  2    C
+(15) =  0  0  0  0  2  0    G
+(16) =  0  0  0 10 10 10    C
+(17) =  0  0  0 10 10 14    Em
+(18) =  0  0  0  9  9 12    D
+(19) =  0  0  0  9  9  9    B
+(20) =  0  0  0  7  7  7    A
+(21) = 14  0  0 14  0  0    Em
+(22) = 10  0  0 10  0  0    C
+(23) = 12  0  0 12  0  0    D
+(24) =  x  x  x  x  x <12>  D harmonic
+(25) =  0  0  0  0 12 10    F
+(26) =  3  0  0  3  0  0    F
+(27) =  0  0  0 10 10 13    E?
+(nc) = no chord strumming, let the previous one ring
+
+Sorry about using numbers (n) to refer to chords,
+but I found it the easiest way since there are
+multiple fingerings used for the same chords
+throughout the song.
+
+Stills plays some sections with a flat pick,
+some with hand strumming.
+
+(Intro with flat pick = 1 2 3 4 5 6 5 6 5 4 5 6 5 6 5, twice)
+
+(now hand strum...)
+(4)It's getting to the (8)point where I'm no (4)fun any(7)more
+And I am (8)sorry (9)
+(4)Sometimes it (8)hurts so badly I (4)must cry out (7)loud
+That I am (8)lonely (9)
+I am (4)yours, you are (7)mine, you are (8)what you are (9)
+You make it (4)hard (10 slides to 8)
+
+(4)Remember what we've (8)said, and done
+And (4)felt about each (7)other
+Oh babe, have (8)mercy (9)
+(4)Don't let the (8)past remind us of (4)what we are not (7)now
+I am not (8)dreaming (9)
+I am (4)yours, you are (7)mine, you are (8)what you are (9)
+You make it (intro riff, still hand strum)hard
+(In the original recording he throws a 1 25 into the middle of
+the riff)
+
+(4)Tearing your(8)self away from me (4)now you are (7)free
+And I am (8)sorry (9)
+(4)This does not (8)mean that I don't love you
+I (4)do, that's (7)forever
+Yes, and for (8)always (9)
+I am (4)yours, you are (7)mine, you are (8)what you are (9)
+You make it (4)hard (10 slides to 8)
+
+(4)Something (8)inside is telling me
+That (4)I've got your (7)secret
+Are you still (8)listening? (9)
+(4)Fear is the (8)lock
+And laughter the (4)key to your (7)heart
+Yes, and I (8)love you (quickgrabaflatpickand 9)
+I am (4)yours, you are (7)mine, you are (8)what you are (9)
+You make it (4)hard (10 slides to 8)
+And you make it (4)hard (10 slides to 8)
+Oh, and you make it (4)hard (10 slides to 8)
+Yes, and you make it (4)hard
+
+(12 13 12 5 24, five times)
+(nc)Friday evening(12 13 12 5 24)
+(nc)Sunday in the (8)afternoon (9)
+(nc)What have you got to (5)lose?
+(24 12 13 12 5 24 12 13 12 5 24)
+(nc)Tuesday morning (12 13 12 5 24)
+(nc)Please be gone I'm (8)tired of you(9)
+(nc)What have you got to (5)lose? (24 12 13 12 5 24)
+
+Can I (11)tell it like it is?  (8)Listen to me baby
+(11)It's my heart that's (7)suffering, it's (8)dying
+And that's what I've (26)got to (5)lose
+(12 13 12 5 24 12 13 12 5 24)
+
+(nc)I've got an answer (12 13 12 5 24)
+(nc)I'm going to (8)fly away (9)
+(nc)What have I got to (5)lose? (24 12 13 12 5 24, twice)
+(nc)Will you come see me(12 13 12 5 24)
+(nc)Thursdays and (8)Saturdays? (9)
+(nc)What have I got to (5)lose? (24)
+
+--------
+Lead solo-sorry, my fingers don't do leads :(
+--------
+
+(17 18 17 18)  (note: sometimes 17-27-18 rather than 17-18)
+(14)Chestnut brown (4)canary, (15)ruby throated (4)sparrow
+(3)Sing a song, (1)don't be long
+(16)Thrill me to the (17)marrow (18)
+(17 18 17 18)
+(14)Voices of the (4)angels, (15)ring around the (4)moonlight
+(3)Asking me, said (1)she so free
+(16)How can you catch the (17)sparrow? (18)
+(17 18 17 18)
+(14)Lacy lilting (4)lyrics, (15)losing love (4)lamenting
+(3)Change my life, (1)make it right, (16)be my (17)lady (18)
+(Ending = 17 18 17 18 17 18 17 18 17 18 19 20
+ then 8 7 21 22 23 repeats with doo doo doo doot doo etc)
+

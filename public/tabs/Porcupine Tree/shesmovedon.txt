@@ -1,0 +1,59 @@
+Title:         Shesmovedon
+Album:         Porcupine Tree - Lightbulb Sun
+Author:        Steven Wilson
+Transcription: Giancarlo Erra <rofus@mindless.com>
+               Modified by Mark Botta
+
+NOTE: Acoustic guitar.  There is also an electric rhythm guitar with wah that
+      follows more or less the same path of the acoustic part.
+
+"/"=bend up to                                
+"\"=bend down to
+"^"=hammer on, pull off
+"="=gliss
+
+      EADGBe
+A     x02220
+C     x32010
+Cmaj7 x32030
+D     x00323
+D#    668886
+Em    022000
+G     355433
+
+Used chords (D and E also in second position with barre')
+
+
+Main melody
+
+|-------------------------------------------------------------------------|
+|-------------------------------------------------------------------------|
+|-----------------------------------------------4---4---------------------|
+|------4---4^5----2---2-----------4---4^5----2----------------------------|
+|-------------------------------------------------------------------------|
+|-0-----------0---------------0----------0--------------------------------|
+
+|-------------------------------------------------------------------------|
+|-------------------------------------------------------------------------|
+|-----------------------------------------------4---2-------------0---0---|
+|------4---4^5----2---2-----------4---4^5----2--------5-4---0-0^1---1---1-|
+|-------------------------------------------------------------------------|
+|-0-----------0---------------0----------0--------------------------------|
+
+
+Main chord progression ("She changes everytime you look...", final solo)
+
+Em   Cmaj7   D   Cmaj7        x2
+
+
+Interlude ("Shesmovedon....Shesmovedon...")
+
+A   C          x2
+
+Em*   G        x2
+
+D*   D#   Em
+
+* - Second position (high)
+
+

@@ -1,0 +1,72 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+
+
+
+From: "Richard A. Stopyra" <rstopyra@bellatlantic.net>
+Subject: POSTING SONG
+Date: Sun, 22 Feb 1998 00:38:15 -0500
+
+
+
+*I recently accessed the OLGA for chords to "Eleanor Rigby" 
+*and found that they were wrong.
+*My friend instructed me on the correct chords and I found 
+*that this way here sounds much better than the way it was 
+*previously posted.  Just thought I'd throw this out there for everyone.
+
+Song:  "Eleanor Rigby"
+Author:  Paul McCartney/John Lennon
+Album:  "Revolver"
+
+define:
+[C]:	032010
+[C/G]:  	332010
+[Em]:	022000
+[Em6]:	022020
+[Em7]:	022030
+
+[C/G]Ah, look at all the lonely [Em]people!
+[C/G]Ah, look at all the lonely [Em]people!
+
+[Em]Eleanor Rigby,
+Picks up the rice in a church where a wedding has been,
+Lives in a dream.
+[C]Waits at the window,
+Wearing the face that she keeps in a jar by the door,
+Who is it f[Em]or?
+
+     [Em7]All the lonely [Em6]people,
+     Where [C]do they all come [Em]from?
+     [Em7]All the lonely [Em6]people,
+     Where [C]do they all bel[Em]ong?
+
+Father McKenzie,
+Writing the words of a sermon that no one will hear,
+No one comes near.
+Look at him working,
+Darning his socks in the night when there's nobody there,
+What does he care?
+
+     All the lonely people,
+     Where do they all come from?
+     All the lonely people,
+     Where do they all belong?
+
+Eleanor Rigby,
+Died in the church and was buried along with her name,
+Nobody came.
+Father McKenzie,
+Wiping the dirt from his hands as he walks from the grave,
+No one was saved.
+
+     All the lonely people,
+     Where do they all come from?
+     All the lonely people,
+     Where do they all belong?
+
+POSTED BY:	Liam ----> "SAOIRSE" 
+

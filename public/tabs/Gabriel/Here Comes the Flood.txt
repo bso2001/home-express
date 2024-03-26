@@ -1,0 +1,205 @@
+Here Comes the FloodHere Comes the Flood
+by Peter Gabriel
+
+
+
+This is my best guess of the lyrics and chords to 
+'Here Comes the Flood' by Peter Gabriel.  
+I arranged it for guitar, whereas it is played on piano on the 
+album. Most of the piece, therefore, is fingerpicked.
+
+The reference is the version on Robert Fripp's  Exposure .  Errata 
+(and simple stupid mistakes) can be brought to my attention at 
+markjx@aol.com.
+
+Chords:
+1,2,3,4 Refer to Finger used
+T Refers to Thumb
+0 Refers to open string
+x Refers to muted string
+# at top refers to Fret Position
+
+
+5 Dm(5)      0 Dm(0)      2  Dm/C      1 Bb        0  C 
+1 - - -      - 1 - - -    - 1 - -      1 - - -     0 - - - -
+1 2 - -      - - - 3 -    - - - 3      1 - 3 -     - 1 - - - 
+1 - 4 -      - - 2 - -    - - 2 -      1 - 3 -     0 - - - - 
+1 - 3 -      0 - - - -    x - - -      1 - 3 -     - - 2 - - 
+1 - - -      0 - - - -    - - - 4      1 - - -     - - - 3 - 
+1 - - -      x - - - -    x - - -      1 - - -     x - - - - 
+
+0 C/A        1  Bbm       0  G/B         3 C(3)      4  C#dim* 
+0 - - - -    1 - - - -    x - - - - -    1 - - -     x - - - -
+- 1 - - -    - 2 - - -    - - - 2 - -    - - 3 -     - 2 - - - 
+0 - - - -    - - 4 - -    - - - - 3 -    0 - 3 -     - 2 3 - - 
+- - 2 - -    - - 3 - -    - - - - - 4    0 - 3 -     - 2 - - - 
+0 - - - -    1 - - - -    - - 1 - - -    1 - - -     1 - - - - 
+x - - - -    1 - - - -    x - - - - -    1 - - -     x- - - - - 
+
+
+7 D5(addC)/A  7 D5(addC)   0 Bb/D         0 Bb/C      0 F     
+- 3 - - -     - 3 - - -    1 - - - - -    1 - - -     1 - - - -
+- - 4 - -     - - 4 - -    - - 3 - - -    - - 3 -     1 - - - - 
+2 - - - -     1 - - - -    - - 2 - - -    - - 2 -     - 2 - - - 
+1 - - - -     0 - - - -    0 - - - - -    x - - -     - - 4 - - 
+x - - - -     x - - - -    x - - - - -    - - 4 -     - - 3 - - 
+x - - - -     x - - - -    x - - - - -    x - - -     1 - - - - 
+
+
+0 Dsus2      0 C#dim      0 C#dim/B      0 C#dim/A   0 Bbm/C 
+0 - - - -    0 - - - -    0 - - - - -    0 - - -     1 - - - -
+- - 3 - -    - 1 - - -    - 1 - - - -    - 1 - -     - 2 - - - 
+- 2 - - -    0 - - - -    0 - - - - -    0 - - -     - - 3 - - 
+- - - - -    x - - - -    x - - - - -    x - - -     x - - - - 
+- - - - -    - - - 3 -    - 2 - - - -    0 - - -     - - 4 - - 
+- - - - -    x - - - -    x - - - - -    x - - -     -- - - - - 
+
+
+0 Bbm/C#     0 Bbm/Eb     0              0           0       
+1 - - - -    1 - - - -    - - - - - -    - - - -     - - - - -
+- 2 - - -    - 2 - - -    - - - - - -    - - - -     - - - - - 
+- - 3 - -    - - 3 - -    - - - - - -    - - - -     - - - - - 
+x - - - -    1 - - - -    - - - - - -    - - - -     - - - - - 
+- - - 4 -    x - - - -    - - - - - -    - - - -     - - - - - 
+x - - - -    x - - - -    - - - - - -    - - - -     -- - - - - 
+
+
+
+LEGEND:
+/ => Beat. Strum here
+z => Rest. Silent here
+A => Uppercase. Chords
+a => Lowercase. Note
+
+
+Here Comes the Flood by Peter Gabriel
+
+Intro:
+
+This is basically a finger-picked Dm in 5th position with a flourish at the end.
+
+INTRO: (2x)
+Dm(5)           Dmsus4            
+- - - - 5 - - - 8p5 - - 8p5 - -  
+- - - 6 - 6 - - - - 8p6 - - 8p6  
+- - 7 - - - 7 - - - - - - - - -  
+- 7 - - - - - 7 - - - - - - - - 
+5 - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - -
+
+
+VERSE:
+Dm(0)        /      D/C         Bb              /       bb-h-c  
+    When the night  shows   and signals grow on radios  
+
+Dm(0)        /      D/C         Bb             /         
+    All the strange things that come and go as early warnings
+
+C(0)               C/A     Bb 
+Stranded starfish  have no place to hide
+
+      Bb       G/B     C(3)    C#dim* Dm 
+Still waiting  for the swollen Easter tide
+
+       D5(addC)/A            D5(addC)    Bb/D   Bb/C   Bb       F         
+Theres no point in direction,         we cannot even   choose a side
+
+
+F   E     
+- - - - 
+- - - - 
+- 2 - 0 
+3 - 1 - 
+- - - - 
+- - - - 
+
+VERSE:
+I took the old track, the hollow shoulder, across the water,
+On the tall cliffs, they were getting older, sons and daughters,
+The jaded underworld was riding high,
+And waves of steel hurled metal at the sky,
+And as the nails sunk in the cloud,
+The rain was warm and soaked the crowd.
+
+CHORUS:
+F     /    /        C         Dm  
+Lord,          here comes the flood
+
+      C             C#dim              Dm          Dsus2   Dm 
+We'll say goodbye         to flesh and blood
+
+   C#dim     c#   d   e d        e d  c#    d e    Dsus2 Dm
+If again the seas are silent and a-ny still a-live
+
+C#dim    C#dim/B   C#dim/A    C#dim/G  Bb 
+It'll be those who gave their island   to survive
+
+      Bbm   Bbm/C  Bbm/C#       Bbm/Eb      F      
+Drink up           dreamers     you're      running dry
+
+
+F   E     
+- - - - 
+- - - - 
+- 2 - 0 
+3 - 1 - 
+- - - - 
+- - - - 
+
+VERSE: 
+When the flood call, you have no home, you have no walls,
+In the thundercrash, you're a thousand minds within a flash,
+Don't be afraid to cry at what you see,
+The actor's gone, there's only you and me,
+And if we break before the dawn, they'll use up what we used to be.
+
+CHORUS:
+
+Back to the Guitar Page 
+Last Updated: 03/16/2004 02:14:02
+
+
+{t:Here Comes The Flood}
+{st:Peter Gabriel}
+
+{c:intro:}
+[Dbsus4]  [Dbm]    [E/B]  [A]
+
+[Dbm]  When the night  [Abm/B]shows   and [A]signals grow on radios
+
+[D]  All the strange [Abm/B]things that [A]come and go as early warnings
+
+[B]Stranded starfish [B/Ab]have no [A]place to hide
+
+Still [A]waiting  [Gb/Bb]for the [B]swollen [Ab/C]Easter [Dbm]tide
+
+Theres [Dbm7/B]no point in direction, we [Gb/Bb]cannot [Gbm/A]even  [A]choose a [E]side
+
+
+I took the old track, the hollow shoulder, across the water,
+On the tall cliffs, they were getting older, sons and daughters,
+The jaded underworld was riding high,
+And waves of steel hurled metal at the sky,
+And as the nails sunk in the cloud,
+The rain was warm and soaked the crowd.
+
+{c:chorus:}
+{soc}
+[E]Lord, here [B/Eb]comes the [Dbm]flood
+
+We'll [B]say goodbye,[Ab/C]     to flesh and [Dbm]blood
+
+If [Ab/C]again the seas are silent in [Dbm]any still alive
+
+[Ab/C]It'll be [Ab/Bb]those who [Ab]gave their [Ab/Gb]island [A]to survive
+
+Drink [Am]up,[Bm]   [C]dreamers,[D]  you're [E]running dry
+{eoc}
+
+When the flood call, you have no home, you have no walls,
+In the thundercrash, you're a thousand minds within a flash,
+Don't be afraid to cry at what you see,
+The actor's gone, there's only you and me,
+And if we break before the dawn, they'll use up what we used to be.
+
+{c:chorus}

@@ -1,0 +1,87 @@
+Black Napkins Tab
+
+
+Black Napkins Chords and End Lick :)~~
+
+
+
+
+
+Black Napkins is a phrygian mode tune where the iii and iV chord of the
+major scale are played repeatedly.  In this case c#m7 and DMaj7 chord of A
+major, Frank plays C# blues scale in a brilliant way over these chords,
+notice how he ends many of the phrases on the fourth degree (F#) of the c#
+blues scale when landing on the Dmaj7 chord, its third ...
+
+If you're playing rhythm for yourself or somebody else there are voicings
+I've found which are particulary pleasing.  In particular the straight
+Maj7 drop-2 chordshape (1 5 7 3) doesn't fit in so well, seems like Maj9
+fits much better ...
+
+C#min7 related voicings:           Dmaj7 related voicings:
+
+   x     x     x                    x     x
+   5     5     4                    5     2
+   4     4     4                    6     2      (no 5th)
+   6     4     2                    4     2
+   4     4     4                    5     5
+   x     x     x                    x     x
+
+   m7    m11   m11w9                Dmaj9 Dmaj6/9
+
+(these chords are meant to be mixed, or whatever ...)
+
+... after miles of non-boring surprises he disses the harmonic construct
+for a move to an unrelated dominant C7 lick which modulates to "Torture"
+on the album Zoot Allures or ends on it as in the Baby Snake version which
+reminds me of things Thelonious Monk did in lots of his tunes ... that is,
+end a phrase on an unrelated Dominant chord pause :
+
+C7
+                                                                    ^
+-------------8-12-8-------------------------------------------------------
+-------8-11---------11--8---------------------------------------5---5-----
+--9-10--------------------10-9--------------------------------------5-----
+-------------------------------10-8---------------------------------5-----
+-------------------------------------10-8-7------------5-8-7-5------5-----
+---------------------------------------------8-6-5-6-8--------------6-----
+
+                                                                  C9/Bb rubbit!
+
+btw, Frank does something similar to this phrygian thing in this one tune
+on 200Motels (can't remember name) except he only moves the bass note:
+
+      x     x
+      9     9
+      9     9
+      9     9
+      x     x
+      9     10
+
+the orchestra plays this musical bit, and it's always stuck to the inside
+walls of my head as being "a profound sound" ... (sigh*)
+
+that is,
+
+in contradistinction to
+
+      x     x
+      9     10
+      9     9
+      9     9
+      x     x
+      9     10
+
+
+
+
+
+jc@lynx.bc.ca
+
+
+
+
+
+
+
+ 

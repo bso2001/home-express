@@ -1,0 +1,647 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Date: Tue, 3 Mar 1998 16:51:51 +1100 (EST)
+From: The Loan Arranger <c9609436@alinga.newcastle.edu.au>
+Subject: m/mclean_don/american_pie.crd
+
+
+    American Pie
+
+Don McLean
+"American Pie"
+
+
+    Performance Notes:
+  Acoustic guitar, with open position chords.
+
+  Chords
+G   320033
+D   xx0232
+Em7 022030
+Am  x02210
+C   x32010
+Em  022000
+D7  xx0212
+Am7 x02010 or x02213
+A7  x02020 or x02223
+
+
+    Prologue  (Strum Freely / Slowly  usu. only the once per chord) 
+   G      D    Em7       Am               C
+A | long, long time ago | I can still remember how that | 
+
+ Em                      D                G         D      Em7     (G)
+| music used to make me smile |      And | I knew if I had my chance that |
+ 
+ Am       (G)        C                 Em               C
+| I could make those people dance and | maybe they'd be happy for a |
+
+ D         Em             Am             Em                    Am  
+| while   | But February made me shiver | with every newspaper I'd deliver |
+
+ C        G      Am           C                  D
+| Bad news on the doorstep I | couldn't take one more step I |
+
+                                    (C)             (D7)
+ G        D            Em   (G)     Am7             D
+| can't remember if I cried when I | read about his widowed bride, But |
+
+                                                
+ G            D        Em                C  (Am7) D7      G    C    G  (D7)
+| something touched me deep in-side the | day the music | died    |        |
+                                                           Del Segna al Coda
+                    (Play from Segna till it says to go to the Coda)
+
+    Chorus ( in a slightly faster tempo )
+   (SEGNA)
+   
+   |*G    C            G           D                G        C
+So |* bye-bye, Miss A_|_merican Pie Drove my Chevy | to the levee but the |
+
+ G           D         G           C                G             D  TO CODA
+| levee was dry. Them |good ole boys were drinking |whiskey and rye Singing |
+
+  Em                         A7       Em                          D7
+| this'll be the day that I | die    | This'll be the day that I | die |    |  
+
+
+    Verses 1,2,3,4.
+
+|G   |Am  |C    |Am   |Em    |D    |  %  |G  D  |Em   |Am7   |C   |Em    |     
+
+|A7  |D   |  %  |Em   |D     |Em   |D    |C  G  |A7   |C     |D7  |G  D  | 
+                                                 _______
+                                                | 1.2.3.
+                                                       *|
+|Em  |Am  |C    |G  D |Em    |C    |D7   |G  C  |G  D7 *|       
+ ______
+| 4.
+
+|G       D       |D   C   |G   D   |G   C   |G   D   |G   C   |G   D   |
+| He was singing | etc.
+
+|Em     |A7     |Em     |D7     |       
+
+    For the 5th verse, play the prologue, adding the chords in (x) in and
+substituting a chord for a previousey written one when you see   (C)
+                                                                 Am7
+(Ie: play a C instaid of, not as well as, the Am7)
+
+Also remember to go back to the slow strumming for the 5th verse.
+
+    Coda
+
+ C                  D7           G    C     G
+| This'll be the day that I die |              |
+
+Verse Lyrics
+2.
+Now for ten years we've been on our own and moss grows fat on a rolling stone
+But that's not how it used to be when the jester sang for the king and queen
+In a coat he borrowed from James Dean and a voice that come form you and me
+Oh and while the king was looking down the jester stole his thorny crown
+The courtroom was adjourned, no verdict was returned
+And while Lennon read a book on Marx the quartet practised in the park
+And we sang dirges in the dark
+The day the music died
+
+3.
+Helter Skelter in the summer swelter the birds flew off with a fallout 
+    shelter
+Eight miles high and falling fast, it lounded foul on the grass
+The players tried for a forward pass, with the jester on the sidelines 
+    in a cast
+Now the half-time air was sweet perfume while the Sergeants played a marching
+    tune
+We all got up to dance but we never got the chance
+'Cause the players tried to take the field, the marching band refused to 
+    yield
+Do you recall what was revealed
+The day the music died
+
+4.
+And there we were all in one place, a generation lost in space
+With no time left to start again
+So come on, Jack be nimble, Jack be quick, Jack Flash sat on a candlestick
+'Cause fire id the devil's only friend
+And as I watched him on the stage my hands were clenched in fists of rage
+No angel born in hell could break that Satan's spell
+And as the flames climbed higher into the night to light the sacrificial rite
+I saw Satan laughing with delight
+The day the music died
+
+5.
+I met a girl who sang the blues and I asked her for some happy news
+But she just smile and turned away
+I went down to the sacred store where I heard the music years before
+But the man there said the music wouldn't play
+And in the streets the children screamed the lovers cried and the poets 
+    dreamed
+But not a word was spoken the church bells all were broken
+And the three men I admire most, the Father, Son and the Hoy Ghost
+They caught the last train for the coast
+The day the music died.
+
+
+Written out by The Loan Arranger       c9609436@alinga.newcastle.edu.au
+20/11/96 (rev 11/97)
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+
+From: Vincent Vega <dwaite@uoguelph.ca>
+
+                       AMERICAN PIE                          submitted by:
+                     Don McLean                            Dave Waite
+INTRO:
+  G     D/F#  Em7      Am            C
+A long, long time ago, I can still remember how that 
+Em                    D
+music used to make me smile.
+G          D/F#  Em7           Am                 C
+I knew if I had my chance that I could make those people dance and
+Em              C           D
+maybe they'd be happy for a while.
+Em            Am             Em               Am
+But February made me shiver, with every paper I'd deliver.
+C        G/B    Am          C                  D
+Bad news on the doorstep, I couldn't take one more step.
+  G        D/F#       Em           Am7              D
+I can't remember if I cried when I read about his widowed bride,
+G         D/F#       Em               C        D7     G     C   G
+Something touched me deep inside, the day, the music, died.
+   G     C          G       D
+So bye - bye, Miss American Pie, 
+         G            C             G         D
+Drove my chevy to the levee but the levee was dry,
+     G         C                  G           D
+Them good ole' boys were drinkin' whiskey and rye, singin'
+Em                        A7   Em                        D7
+This'll be the day that I die, This'll be the day that I die.
+
+VERSE:
+G                 Am                    C               Am
+Did you write the book of love and do you have faith in God above?
+Em              D
+If the Bible tells you so.
+G            D/F#     Em
+Now do you believe in rock and roll
+    Am7             C
+Can music save your mortal soul and
+Em                      A7    D
+Can you teach me how to dance real slow?
+Em                          D
+Well, I know that you're in love with him,
+        Em              D
+Cause I saw you dancing in the gym, 
+    C           G               A7
+You both kicked off your shoes, 
+      C                    D7
+Man I dig those rhythm and blues.
+        G      D/F#    Em       
+I was a lonely teenage broncin' buck with a
+Am                    C
+Pink carnation and a pick up truck,
+    G     D/F#     Em              C       D7       G     C
+But I knew I was out of luck the day, the music, died.
+G              D7                         D7
+    I started singing, Bye - bye..........die
+
+VERSE:2
+Now for ten years we've been on our own,
+And moss grows fat on a rollin' stone
+But that's not how it used to be.
+When the jester sang for the King and Queen
+In a coat he borrowed from James Dean
+And a voice that came from you and me.
+Oh and while the King was looking down, 
+The jester stole his thorny crown.
+The courtroom was adjourned,
+No verdict was returned.
+And while Lenin read a book on Marx
+The quartet practiced in the park
+And we sang dirges in the dark
+The day, the music, died.     We were singin'   Bye - bye.....die.
+
+VERSE:3
+Helter-skelter in the summer swelter,
+The birds flew off with a fallout shelter.
+Eight miles high and fallin' fast,
+It landed foul on the grass.
+The players tried for a forward pass,
+With the jester on the sidelines in a cast.
+Now that halftime air was sweet perfume,
+While the sergeants played a marching tune.
+We all got up to dance, but we
+Never got the chance
+Cause the players tried to take the field,
+The marching band refused to yield,
+Do you recall what was revealed,
+The day, the music, died. We started singin'...........die.
+
+VERSE:4
+And there we were all in one place,
+A generation lost in space.
+So come on, Jack be nimble, Jack be quick,
+Jack Flash sat on a candlestick.
+Cause fire is the devil's only friend.
+And as I watched him on the stage my
+Hands were clenched in fists of rage.
+No angel born in hell,
+Could break that Satan's spell
+And as the flames climbed high into the night
+To light the sacrificial rite
+I saw Satan laughing with delight
+The day, the music, died.
+He was singin'....................die.
+
+OUTRO:
+G        D/F#     Em        
+ I met a girl who sang the blues and I
+Am                 C
+Asked her for some happy news, 
+    Em                   D
+But she just smiled and turned away.
+G      D/F#        Em          G
+I went down to the sacred store where I
+Am        G/B    C
+Heard the music years before, but the
+Em                 C              D
+man there said the music wouldn't play.
+    Em                 Am 
+And in the streets the children screamed,
+    Em                   Am
+The lovers cried and the poets dreamed.
+    C     G/B       Am
+But not a word was spoken,
+     C                     D
+The church bells all were broken.
+        G        D/F#  Em  G/B
+And the three men I admire most, 
+    C                    D7
+The Father, Son and the Holy Ghost, 
+     G          D/F#       Em
+They caught the last train for the coast,
+    C       Am7 D7  G
+The day, the music, died.
+              D7
+And they were singin'...............
+                                    
+C                D7          G        C        G
+This'll be the day that I die________.
+
+END (finally!)
+
+
+I'm _not_ going back through that to check the spelling, so I hope it's 
+okay. If you're a beginner, try playing the D/F# as just a D for now,
+but that's the only chord that could possibly be a problem. Other than
+that, a pretty easy song! enjoy!
+
+--
+***************************************************************************
+DAVE S. WAITE           #  "Watch out where the huskies go 
+dwaite@uoguelph.ca      #   And don't you eat that yellow snow."
+GO LEAFS                #      Frank Zappa
+***************************************************************************
+ 
+                          
+
+--
+***************************************************************************
+DAVE S. WAITE           #  "Watch out where the huskies go 
+dwaite@uoguelph.ca      #   And don't you eat that yellow snow."
+GO LEAFS                #      Frank Zappa
+***************************************************************************
+ 
+                          
+
+
+From: jthuang@eniac.seas.upenn.edu (Justin T Huang)
+
+
+
+Please note that even when I used your lines, I shuffled some of them around!
+I included the chords as I know them... there are three sets... the one for
+the first and last verses, the one for the others, and the one for the chorus.
+The chords aren't definitive, but the lyrics pretty much are.
+I also interspersed the references that I know of, and included some commentary
+on the lyric content at the end.  Have fun!
+
+
+>A long, long time ago
+G D Em
+>I can still remember
+C Am
+>How that music used to make me smile
+Em D
+>And I knew if I had my chance
+G D Em
+>I could make those people dance, and
+C Am
+>maybe they'd be happy for awhile
+Em A7 D
+
+>But February made me shiver
+Em Am
+>with every paper I'd deliver
+Em Am
+>bad news on the doorstep
+C G Am
+>I couldn't take one more step
+C D
+>I can't remember if I cried when I 
+G D Em
+>read about his widowed bride   [buddy holly]
+C D
+>but something touched me deep inside
+G D Em
+>the day the music died.
+C D GCG
+
+>(Chorus) 
+GCGD GCGD GCGD EmAm EmDDDDCDGDCD (some other verses  Em D D7)
+>So bye bye, Miss American Pie
+>Drove my Chevy to the levy but the levy was dry
+>and them good ol' boys was drinkin' whiskey and rye
+>singing "This'll be the day that I die,
+>This'll be the day that I die"
+
+>Did you write the book of love?
+G Am
+>and do you have faith in God above
+C Am
+>If the Bible tells you so?
+Em D
+>Now do you believe in rock and roll
+G D Em
+>can music save your (im)mortal soul  [sounds like mortal, but I've seen lyrics
+C Am					with immortal, and makes sense if you 
+					catch the drift of the song.  You can
+					also hear it once you know it.]
+>and can you teach me how to dance real slow?
+Em A7 D
+
+>Well I know that you're in love with him
+Em D
+>cause I saw you dancing in the gym
+Em D
+>You both kicked off your shoes
+C G Am
+>Lord I dig them rhythm and blues, Ooo
+Em D
+>I was a lonely teenage bronkin' buck
+G D Em
+>with a pink carnation and a pickup truck
+C Am
+>but I knew I was out of luck 
+G D Em
+>the day the music died
+C D G
+>I started singing
+>(Chorus)
+
+>Now for ten years we've been on our own, and 
+>moss grows fat on a rolling stone              [Rolling stones...]
+>but that's not how it used to be
+>When The Jester played for the King and Queen  [Dylan, Elvis?]
+>in a coat he borrowed from James Dean     [in Rebel without a Cause]
+>and a voice that came from you and me
+>And while the King was looking down
+>the Jester stole his thorny crown
+>The courtroom was adjourned
+>No verdict was returned
+And while Lenin (Lennon?) read a book on Marx [possible "Imagine" reference]
+The quartet practiced in the parks [Beatles]
+And we sang dirges in the dark
+The day the music died
+We were singing
+
+>Helter Skelter in a summer swelter  [Manson]
+the birds[Byrds] flew off for the fallout shelter
+>eight miles high and falling fast    [and when you touch down...]
+to land foul on the grass
+>The players tried for a forward pass
+>with the Jester on the sidelines in cast  [Dylan's cycle crash]
+
+Now the halftime air was sweet perfume   [Summer of Love]
+>while the sergeants played a marchin tune  [Pepper/Beatles done practicing]
+>We all got up to dance
+>Oh but we never got the chance    [well, "good morning" rocked a little...]
+
+>The players tried to take the field 
+>The marching band refused to yield
+>Do you recall what was the deal the day
+>the music died?
+They were singing...
+(chorus)
+
+And there we were all in one place
+a g-g-generation lost in space     [Who song -- TV show with robot]
+with no time left to start again
+So come on >Jack be nimble, Jack be quick
+>Jack flash sat on candle stick    [Stones --- in fact it's a gas]
+>Cause fire is the devil's only friend
+
+>And while I watched him on the stage
+>My hands were clenched in fists of rage 
+>No angel born in hell
+>could break that Satan's spell
+And as the flames climbed high into the night
+to light the sacrificial rite 
+I saw Satan laughing with delight
+The day the music died
+and he was singing
+(chorus)
+
+>I met a girl who sang the blues
+>and I asked her for some happy news
+but >she just smiled and turned away
+>I went down to the sacred store
+>where I'd heard the music years before
+>but the man there said the music wouldn't play
+>And in the streets the children screamed,
+>the lovers cried and the poets dreamed
+>But not a word was spoken
+>The church bells all were broken
+>And the three men I admired the most
+>the Father, Son and Holy Ghost
+>They caught the last plane for the coast
+>the day the Music Died
+
+>and they were singin' (Chorus)
+
+
+As far as I can get it, this is a fairly conservative song about 
+how music used to be great in the fifties, then some interesting stuff
+started happening, but musicians got out of line -- preaching morality
+(Dylan with the thorny crown)  preaching politics (the Beatles refusing
+to yeild the field to the "players" -- who, the politicians?) and 
+preaching immorality (the Stones, who he REALLY rags on).  All this 
+religous stuff is not just allegorical, I got one of his albums and he's
+majorly religous.  I don't know, I went to all the trouble learning this
+song then I found out it made a point I didn't agree with --- music shouldn't
+have serious content.  As if the sixties started that trend anyway; only
+a baby boomer could have written this song!  Still, it's a good song,
+and it's fun at parties.
+
+Joanna
+
+=====            Things are only impossible until they're not.           =====
+joanna@gargoyle.uchicago.edu         =====     Star Trek: the Next Generation
+
+
+-------------------------------------------------------------------------
+Justin T. Huang                         |    jthuang@eniac.seas.upenn.edu
+University of Pennsylvania              |    Kennett Track rules.
+Moore School of Electrical Engineering  |    "America first."
+Electrical Engineering '94              |    S. O. D. elite
+-------------------------------------------------------------------------
+
+From: LionGirl@aol.com
+Date: Mon, 20 Nov 1995 13:00:58 -0500
+Subject: CRD: American Pie - Don McClean
+
+AMERICAN PIE
+
+  G     Bm   Em
+A long, long time ago
+C             D
+I can still remember how that 
+Em                    D
+Music used to make me smile
+G      Bm       Em
+And I knew if I had my chance
+C                       D
+That I could make those people dance
+    Em              C         D
+And maybe they'd be happy for awhile
+
+Em           C
+But February made me shiver
+Em               C
+With every paper I'd deliver
+C        Bm     Am
+Bad news on the doorstep
+  C                      D
+I couldn't take one more step
+      G       Bm     Em
+And I can't remember if I cried 
+       C              D
+When I read about his widowed bride
+G             Bm         Em
+But something touched me deep inside
+    C       D     G
+The day the music died
+
+CHORUS:
+   G    C        G        D
+So bye, bye Miss American Pie
+         G            C            G        D
+Drove my chevy to the levy but the levy was dry
+     G        C                G           D
+Them good ol' boys was drinkin whiskey and rye
+            Em                        A
+And singin' this'll be the day that I die
+Em                        D
+This'll be the day that I die.
+
+
+Did you write the book of love 
+And do you have faith in God above?
+If the Bible tells you so
+Now do you believe in rock and roll
+Can music save your mortal soul
+And cay you teach me how to dance real slow?
+Well I know that you're in love with him
+'Cause I saw you dancing in the gym.
+You both kicked off your shoes.
+Well I dig those rhythm and blues.
+I was a lonely teenage bronkin' buck
+With a pink Carnation and a pickup truck
+But I knew that I was out of luck
+The day the music died.  And I was singin'
+
+CHORUS
+
+Now for ten years we've been on our own
+And moss grows fat on a rolling stone, but
+That's not how it used to be.
+When the jester sang for the king and queen
+In a coat he borrowed from James Dean
+and a voice that came from you and me.
+Oh and while the king was looking down, 
+The jester stole his thorny crown
+The courtroom was adjourned
+No verdict was returned.
+And while Lennin read a book on Marx
+The quartet practiced in the park
+And we sang dirges in the dark
+The day the music died.
+And we were singin'
+
+CHORUS
+
+Helter skelter in the summer swelter
+The birds flew off the fallout shelter
+Eight miles high and fallin' fast
+It landed foul on the grass
+The players tried for a forward pass
+With the jester on the sidelines in a cast
+Now the halftime air was sweet perfume
+While the sergents played a marching tune
+We all got up to dance
+But we never got the chance.
+'Cause the players tried to take the field,
+The marching band refused to yield
+Do you recall what was revealed
+The day the music died.
+And we were singin'
+
+Chorus
+
+And in there we were all in one place
+A generation Lost in Space 
+With no time left to start again.
+So come on Jack be nimble
+Jack be quick
+Jack flash sat on a candlestick because
+Fire is the devil's only friend
+Oh and as I watched him on the stage
+My hands were clenched in fists of rage
+No angel born in hell
+Could break that Satan's spell
+And as the flames climed high into the night
+To light the sacrificial rite
+I saw Satan laughing with delight
+The day the music died.
+And he was singin'
+
+CHORUS
+
+I met a girl who sang the blues
+And I asked her for some happy news.
+She just smiled and turned away.
+So I went down to the sacred store
+Where I'd heard the music once before
+But the man there said the music wouldn't play
+And in the streets the children screamed.
+The lovers cried and the poets dreamed.
+but not a word was spoken.
+The church bells all were broken.
+And the three men I admire the most--
+The Father, Son, and Holy Ghost--
+Well they took the last train for the coast
+The day the music died.
+And they were singin'
+
+CHORUS (slowly)
+CHORUS (build up to full speed)
+

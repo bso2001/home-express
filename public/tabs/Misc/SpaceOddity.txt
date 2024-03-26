@@ -1,0 +1,139 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+
+Date: Wed, 5 Aug 92 11:33:44 EDT
+From: Glen Macon <crunch!macon@cbmvax.cbm.commodore.com>
+                                                                       157
+Title:                          Space Oddity                 (David Bowie)
+
+       C                       Em  C                       Em
+       Ground control to Major Tom Ground control to Major Tom:
+       Am        Am7/G             D7
+       Take your protein pills and put your helmet on
+       C                       Em   C                             Em
+       Ground control to Major Tom: Commencing countdown engine's on
+       Am       Am7/G          D7
+       Check ig-nition and may God's love be with you
+       C                               E7                          F
+       This is ground control to Major Tom, you've really made the grade!
+               Fm             C/E                   F     
+       And the papers want to know whose shirts you wear, 
+                Fm                C/E            F
+       now it's time to leave the capsule if you dare
+       C                               E7                             F
+       This is Major Tom to ground con-trol, I'm stepping through the door
+               Fm              C/E           F   
+       And I'm floating in the most peculiar way 
+               Fm              C/E         F
+       and the stars look very difeerent today
+       
+           Fmaj7     Em7                   Fmaj7         Em7
+       For here am I sitting in a tin can, far above the world
+       Bbmaj7          Am               G             F
+       Planet Earth is blue and there's nothing I can do
+
+       C            F            G            A   A
+       C            F            G            A   A
+       Fmaj7        Em7          A       C       D       E
+
+       C                                      E7                      F
+       Though I'm passed one hundred thousand miles, I'm feeling very still
+             Fm                 C/E                F
+       And I think my spaceship knows which way to go, 
+               Fm              C             F
+       tell my wife I love her very much she knows
+       G                 E7
+       Ground control to Major Tom: 
+            Am                      Am7/G
+       Your circuit's dead, there's something wong.
+               D7                
+       Can you hear me Major Tom? 
+               C/G
+       Can you hear me Major Tom? 
+               G
+       Can you hear me Major Tom? Can you ...
+       
+       Fmaj7     Em7                        Fmaj7         Em7
+       Here am I floating round my tin can, far above the moon
+       Bbmaj7          Am               G             F
+       Planet Earth is blue and there's nothing I can do
+
+       C            F            G            A   A
+       C            F            G            A   A
+
+       CHORDS:  Fmaj7   x 3 3 2 1 0      C/E   0 3 2 0 1 0
+                Am7/G   x 0 3 0 2 1      C/G   3 3 2 0 1 0
+                Bbmaj7  x 2 3 2 3 1
+
+
+
+Date: Sun, 06 Apr 1997 11:09:48 -0700
+From: DANIEL GRATTON <daniel.gratton@videotron.ca>
+
+Titre:       Space Oddity
+Auteur:      David Bowie
+Arrangement: Daniel Gratton
+Accords:
+F7:    XX3210    F:  133211  Bbmaj7: XX3231
+Em:    022100    Fm: 133111  G7    : 320001
+C:     032010    Em7:011030
+Am:    002210    C4: 032013
+C6:    032210    C/G:332010
+D7:    000212    C7: 032310
+E7:    022130    C/E:002010
+
+Intro:
+[F7]  [Em]  [F7]  [Em] [F7]  [Em]
+
+[C]      Ground control to major [Em] Tom
+[C]      Ground control to major [Em] Tom
+[Am]     Take your protein pills [C6] and put your helmet [D7] on
+
+[C]      Ground control to major [Em] Tom 
+[C]      Commencing countdown, engines [Em] on
+[Am]     Check ignition and may [C6] God's love be with [D7] you
+
+[C]      This is ground control [E7] to major Tom 
+         You've really made the grade [F]
+         And the [Fm] papers want to [C/E] know whose shirts you [F] wear
+         Now it's time to leave [Fm] the capsule if you [C/E] dare
+
+[E7]     This is major Tom to ground control [F]
+[E7]     I'm stepping  through the door  [F]
+         And I'm [C] floating in a most [Fm] peculiar [C/E] way
+[F]      And the stars look [Fm] different [C4] today
+
+[F7]     For here
+         And I'm sitting [E7] in a tin can
+[Em7]    Far above the [F7] world
+[Bbmaj7] Planet earth is [Am] blue
+         And there's [G] nothing I can [F] do
+
+Middle bridge:
+[C] [G] [A] - [C] [G] [A]
+
+[F7] [Em7] [A] [C] [D] [E]
+
+[E7]     Though I'm past one hundred thousand [F] miles
+[E7]     I'm feeling very [F] scared
+         And I [C] think my spaceship knows [Fm] which way to [C/E] go
+[F]      Tell my wife I love her [Fm] very much [C7] she knows
+
+[G7]     Ground control to major [E7] Tom 
+         Your circuit's [Am] dead, there's [C6] something [D7] wrong
+[C/G]    Can you hear me major [C6] Tom?
+[C/G]    Can you hear me major [C6] Tom?
+[C/G]    Can you hear me major [C6] Tom?
+[Am]     Can you...
+
+[F7]     Here, am I floating round [E7] my tin can?
+[Em7]    Far above the [F7] moon
+[Bbmaj7] Planet earth is [Am] blue
+         And there's [G] nothing I can [F] do
+
+Final:
+[C] [G] [A] - [C] [G] [A]
+

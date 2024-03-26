@@ -1,0 +1,112 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+Date: Mon, 17 Nov 1997 04:45:02 -0500
+From: Steve Demkin <SDEMKIN@dcccnet.dccc.edu>
+Subject: Chords: Maybe I'n Amazed (McCartney)
+
+
+Maybe I'm Amazed (Paul McCartney)
+
+
+Note to archivist:  This file is a variation 
+of a version previously submitted by
+Glen Macon (macon@cbmvax.commodore.com) in 1992.
+This version reflects the way I've played the
+song since 1986 -- it contains additional chords,
+outright chord changes and a (basic) tabbed intro 
+and solo. - Stephen (sdemkin@dcccnet.dccc.edu)
+
+
+Intro (riff):
+
+  no chord                 Bb etc....
+e--------------------------------- 
+B---------------------------------
+G----------------0-1-2------------
+D------0-1-2-3-4------------------
+A--3-4----------------------------
+E---------------------------------
+   1 + 2 + 3 + 4 + 1 +     "Maybe I'm.....
+
+
+Verse 1
+
+
+Bb          F                    C               G
+Maybe I'm a-mazed at the way you love me all the time,
+Bb          F/A(bass)          C(tacet)
+Maybe I'm a-fraid of the way I love you (intro riff).
+Bb          F                    C                G
+Maybe I'm a-mazed at the way you pulled me out of time,
+Bb           F/A(bass)
+Hung me on a line, 
+Ab                       Eb/G(bass)   C        C / / /
+Maybe I'm a-mazed at the way I really need you.
+
+
+Chorus
+
+
+D          Dmaj7              D7
+Maybe I'm a man,  maybe I'm a lonely man 
+(D7)   D6                   
+In the middle of something, 
+G               Gmaj7  G     D(tacet) D Dm D D D Dm D
+That he doesn't really under-stand.   1  2 + 3 + 4  +
+D          Dmaj7                  D7
+Maybe I'm a man, maybe you're the only woman
+(D7)      D6
+Who could ever help me,
+G              Gmaj7   G     D(tacet)Dm(tacet)Gm7(tacet)A7(tacet)
+Baby won't you help me under-stand?
+
+
+
+
+Solo
+
+  Bb        F            C      G
+
+e----1---1--3--1---------0-1-0---------| 
+B--3---3----------3--1----------3-0----| 
+G-----------------------------------0--| 
+D--------------------------------------|  PART I
+A--------------------------------------| 
+E--------------------------------------| 
+
+  Bb        F           C (tacet)intro riff
+
+e----1---1--3--1---------0-------------| 
+B--3---3----------3--1-----1-----------| 
+G----------------------------0---------| 
+D------------------------------2-------|  PART II    (repeat PART I 
+A--------------------------------------|         then go to PART III below)
+E--------------------------------------| 
+
+  Bb      F/A(bass)   Ab     Eb/G(bass) C
+
+e-----------------------------------------------------5-3-| 
+B--3-4-3---1----------1-2-1-----------------------3-5-----| 
+G-------------2---------------3-0-------------3-5---------| 
+D----------------3----------------1-------3-5-------------| PART III
+A---------------------------------------3-----------------| 
+E---------------------------------------------------------| 
+
+return to chorus after solo
+
+Verse 2 (rhythm guitar should scrape or mute strings during this verse).
+
+Bb          F                       C               G
+Maybe I'm a-mazed at the way you're with me all the time.
+Bb          F/A(bass)          C (tacet)
+Maybe I'm a-fraid of the way I leave you. (intro riff)
+Bb          F                    C               G
+Maybe I'm a-mazed at the way you help me sing my song,
+Bb                F/A(bass)
+Right me when I'm wrong,
+Ab                    Eb/G(bass)     C
+Maybe I'm amazed at the way I really need you. (fade over chorus chords
+                                                and vocal ad lib).

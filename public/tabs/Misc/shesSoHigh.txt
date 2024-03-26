@@ -1,0 +1,217 @@
+
+
+She's So High
+Tal Bachman
+
+12b14     play 12th fret, then bend to 14th fret
+12b14r12  play 12th fret, bend to the 14th fret, then release bend
+14p12     play 14th fret, then pull off to the 12th fret
+14b       play 14th fret, then bend up to an undefined note
+10~~~~    play 10th fret, then hold note 
+
+
+
+Key signature:  A major
+Time signature: 4/4 time
+
+OK. Here's the order in which It goes:
+
+Intro/verse Riff     x6
+Prechorus            x1
+Intro/verse Riff     x1
+Prechorus            x1
+Chorus               x2
+Elec. Org. part      x1
+Chorus               x1
+Intro/verse Riff     x5
+PreChorus            x1
+Intro/verse Riff     x1
+PreChorus            x1
+Chorus               x2
+Elec. Org part       x1
+Chorus               x1
+SOLO                 x1
+Intro/verse Riff     x6
+PreChorus            x1
+Intro/verse Riff     x1
+Prechorus            x1
+Chorus               x2
+Elec. Org. part      x1
+Chorus               x1
+Intro/verse Riff     x1
+
+and then end on an A Chord
+
+***********************************************************************
+Here's the intro/verse riff
+
+e|----------------------------------9----------------------------------
+b|-------10--12----10----10--12-------12-10----------------------------
+g|----9---------------9------------------------------------------------
+d|--7------------------------------------------------------------------
+a|---------------------------------------------------------------------
+e|---------------------------------------------------------------------
+
+On this riff, it's a little hard to play 4th string 7th fret if you bar 
+
+the 9th fret like a D chord (cause, you would need to bar it with your 
+
+middle finger, and THAT'S REALLY HARD!!!).  
+Instead, I recommend this fingering:
+ 
+index finger  on 4th string  7th fret
+Middle finger on 3rd string  9th fret
+Ring finger   on 2nd string 10tth fret
+
+Position#1
+e---------
+b-10--(12)--
+g--9------
+d--7------
+
+and stretch your pinky to reach the 2nd string 12th fret the first time.
+The SECOND TIME YOU PLAY 2nd string 12th fret, THEN bar your index finger 
+
+like a D chord on 9th fret:
+like this:
+
+Position#2
+
+       pinky
+         v
+e----9------
+b--(10)-12--
+g----9------
+
+And then back to Position#1, and play the notes.
+I don't know the chord part that plays over the riff, so if anybody does, 
+
+please submit it!
+Keep playing the riff until PreChorus
+
+
+
+
+
+***********************************************************************
+PreChorus
+
+  some how I  can't  be - lieve
+e|---------------------------------------------------------------------
+b|--9--9---9---9-----9-----7~~~~~~~~-----------------------------------
+g|--9--9---9---9-----9-----7~~~~~~~~-----------------------------------
+d|---------------------------------------------------------------------
+a|---------------------------------------------------------------------
+e|---------------------------------------------------------------------
+
+
+
+***********************************************************************
+Here's the Chorus harmony
+
+.. she's so   HIIIIIIIIIIGGGGGHHHHH
+e|----------------------------------------------------------------------
+b|-------------12----12b14rb12-10~~~------------------------------------
+g|----------------------------------------------------------------------
+d|----------------------------------------------------------------------
+a|----------------------------------------------------------------------
+e|----------------------------------------------------------------------
+
+
+
+
+************************************************************************
+Electric organ part (Elec. Org. part):
+                                             (da da da da da)
+e|----------------------------------------------------------------------
+b|--12--14--12--10--12--14--12--10------------10-10-10-10~-9------------
+g|----------------------------------9~~---------------------------------
+d|----------------------------------------------------------------------
+a|----------------------------------------------------------------------
+e|----------------------------------------------------------------------
+
+
+
+
+************************************************************************
+Saving the best for last, here's the Solo
+
+During the first few bends at 16th fret, what you do is bend to the 18th 
+
+fret,
+and then hit that note (the one bended at 18th fret) twice more before 
+
+bending
+back to the 16th fret.
+
+e|-------------------------|------------------------
+b|-------------------------|------------------------
+g|--16b-16b-16br--14-12~~--|-16b-16b-16br--14-11~~--
+d|-------------------------|------------------------
+a|-------------------------|------------------------
+e|-------------------------|------------------------
+
+e|-------------------------------|-------------------------|
+b|-------------------------------|--14~~~-------14---------|
+g|-16b-16b-16br--14-11-13-14-16--|--------14-16-----16-----|
+d|-------------------------------|----------------------14-|
+a|-------------------------------|-------------------------|
+e|-------------------------------|-------------------------|
+
+
+                                                            
+e|-17b19r17-17~~~~~~~-----|-12-14-14b16r14--12------------|------------|
+b|------------------------|---------------------12--14p12-|------------|
+g|------------------------|-------------------------------|-14~~~~~~~--|
+d|------------------------|-------------------------------|------------|
+a|------------------------|-------------------------------|------------|
+e|------------------------|-------------------------------|------------|
+                                                             ^
+                                                       intro/verse 
+                                                       riff restarts
+
+
+I think that's about it.
+Any suggestions, comments, additions, corrections or improvements, please 
+Email Me at sitar5@unm.edu
+
+
+Lyrics
+
+She's fly, flesh and bone 
+No tucks or silicone 
+She's touch smell sight taste and sound 
+But somehow I can't believe that anything should happen 
+I know we're right below and nothing's gonna happen, yeah 
+Cause she's so high 
+High above me, she's so lovely 
+She's so high 
+Like Cleopatra, Joan of Arc, or Aphrodite 
+She's so high 
+High above me 
+
+First class, fancy free, she's high society 
+She's got the best of everything 
+Why could a guy like me ever really offer? 
+She's perfect as she can be, why should I even bother, ah ha 
+
+Cause she's so high 
+High above me, she's so lovely 
+She's so high 
+Like Cleopatra, Joan of Arc, or Aphrodite 
+She's so high 
+High above me 
+
+She comes to speak to me 
+I freeze immediately 
+Cause what she says sounds so unreal 
+Cause somehow I can't believe that anything should happen 
+I know we're right below and nothing's gonna happen 
+
+Cause she's so high 
+High above me, she's so lovely 
+She's so high 
+Like Cleopatra, Joan of Arc, or Aphrodite 
+She's so high 
+High above me 
+

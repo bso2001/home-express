@@ -1,0 +1,173 @@
+Midnight Sun - The Strawbs
+
+
+Most of the chords use some open strings, so they have notes that
+are usually outside the conventional major and minor triads added 
+to them. To make it easier to write the chords out, I will use the 
+simple names, like D, Bm and so on. In fact the real names are :
+
+Bmadd6add4  C  Dadd4add2  Em  F#m7-9  G6
+
+(All the chord shapes are given at the end)
+
+
+Intro:
+--------
+
+ Dmadd2                              
+
+E---------0------------0------------
+B-------10----10-----10-----10------
+G-----10----10-----10-----10--------
+D---12-----------12-----------------
+A-----------------------------------
+E-----------------------------------
+
+
+Repeat this a few times, then continue the same pattern with
+the following chords:
+
+
+Em (x x 14 12 12 0)        Bmadd4 (xx9770)       C (x x 10 9 8 0)
+
+
+Now the strumming starts with the following chords (they all use very 
+similar shapes that are moved up and down the neck, with the G and top 
+E strings open):
+
+Em  F#m  G  D  Bm  C  Bm  C  D
+Em  F#m  G  D  Bm  C  Bm  C  D
+
+
+Verse 1:
+----------
+
+At the end of the first two lines, on the Bm, there is a short
+riff played on another guitar, which goes as follows:
+
+E----------------------------------------------
+B------------------------0-1-3-0---------------
+G--------------------0-2-----------------------
+D--------------0-2-4---------------------------
+A--------0-2-3---------------------------------
+E--0-2-3---------------------------------------
+
+
+
+Em                 Bm    C   Bm
+I have seen the midnight sun shining    (riff)
+
+Em           Bm C  Bm
+I saw you fly away smiling        (riff)
+
+    C                   D 
+The dark night sheds no light
+
+   Em           Bm C
+It merely serves a warning
+
+  C            D             Em   Bm  C         
+I pray for one single ray of hope
+
+Bm          C
+Oh midnight sun
+
+
+Em  F#m  G  D  Bm  C  Bm  C  D
+
+
+
+Verse 2:
+----------
+
+Em                 Bm    C   Bm
+I have seen the midnight sun shining  (riff)
+
+Em                  Bm C  Bm
+Watched her rays steadily dying      (riff)
+
+    C             D
+The candles are alight
+
+  Em        Bm C
+I sit alone in mourning
+
+  C               D           Em   Bm  C
+I wonder is there death after life
+
+Bm          C
+Oh midnight sun
+
+
+
+
+D   Bm  C
+Bm  Am7  Am7/G  D*  D/C
+G*   C*
+
+
+
+
+Middle 8:
+----------
+
+Bm          C  
+While in my life
+
+       D            Em  
+I have loved I have lost
+
+
+Bm        C                D
+I feel no warmth from your days
+
+
+
+
+Verse 3:
+----------
+
+    Em                 Bm    C   Bm
+Yet I have seen the midnight sun shining    (riff)
+
+Em              Bm  C    Bm
+Welcomed her full golden lining        (riff)
+
+    C              D
+For when I have to fight
+
+   Em         Bm  C   
+To wake up in the morning
+
+       
+I look to her
+
+D            Em    Bm  C
+For her open arms
+
+Bm          C
+Oh midnight sun
+
+Bm  Em
+
+
+
+Chord shapes:
+--------------
+
+EADGBE      E  A  D  G  B  E        E  A  D  G  B  E      EADGBE
+079080      x  9  11 0  10 0        x  10 12 0  12 0      x57070    
+
+  Em            F#m(7-9)                   G(6)          D(add4add2)
+
+
+EADGBE          EADGBE        EADGBE     EADGBE     EADGBE    EADGBE
+x24030          x35050        x02010     3x2010     xx0232    x3x232
+
+ Bm(add6add4)     C            Am7        Am7/G        D*      D/C
+
+
+EADGBE      EADGBE       
+320003      x32010
+
+  G*           C*

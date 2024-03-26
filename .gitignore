@@ -1,7 +1,8 @@
-.home.pid
-.home.log
+.run.pid
+.run.log
 node_modules
 homepage.service
 homestart.sh
 homestop.sh
 package-lock.json
+public/charts

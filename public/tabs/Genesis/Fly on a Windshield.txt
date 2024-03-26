@@ -1,0 +1,42 @@
+Fly on A Windshield
+
+[Em] [Am]  [Em] 
+[Am] [Em] 
+[C]  [Em]  
+[Am] [Em] 
+[B/G]  [G] 
+[D/G] [Em/G] 
+[B/G] [G] 
+[D/G]  [Em/G] 
+[Em(XII)] [Em/maj7] 
+[Em7] [Em/maj7] 
+
+{Instrumental interlude on Em, concluding with the chords:}
+F# G F# G
+B C B C D Eb D Eb 
+
+Broadway Melody of 1974
+
+[F] [Faug]
+[Bbm] [Eb]  [F] 
+[F]  [Faug] 
+[Bbm] [Eb] [F] 
+[F7] [Bbm] [Eb]
+[F] [F7] 
+[Bbm] [Eb] [F]
+
+Second stanza like first except for last line:
+[Bb] [C]  [D] 
+ 
+Outro:
+D(X) C(VIII) Bb(VI) C(VIII) D(X)
+
+Some chord definitions:
+B/G: {xxx042}
+G: {xxx033}
+D/G: {xxx035}
+Em/G: {xxx078}
+Em(XII): {xxxccc}
+Em/maj7: {xxxccb}
+Em7: (xxxcca}
+Faug: {xx3221}

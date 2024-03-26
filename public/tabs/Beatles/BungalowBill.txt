@@ -1,0 +1,31 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA04572>; Mon, 6 Sep 1993 01:05:18 -0700
+Received: from inet-gw-2.pa.dec.com by animal-farm.nevada.edu id <AA05600@animal-farm.nevada.edu>; Mon, 6 Sep 1993 01:05:12 -0700
+Received: by inet-gw-2.pa.dec.com; id AA28878; Mon, 6 Sep 93 01:05:04 -0700
+Received: by vbormc.vbo.dec.com; id AA29409; Mon, 6 Sep 93 10:04:20 +0200
+Message-Id: <9309060804.AA29409@vbormc.vbo.dec.com>
+Received: from untvc2.enet; by vbormc.enet; Mon, 6 Sep 93 10:04:27 MET DST
+Date: Mon, 6 Sep 93 10:04:27 MET DST
+From: Ludwig Alberter <ludwig@untvc2.enet.dec.com>
+To: 51.310.."jamesb@nevada.edu"@vbormc.vbo.dec.com@animal-farm.nevada.edu
+Apparently-To: jamesb@animal-farm.nevada.edu
+Subject: Beatles/TheContinuingStoryOfBungalowBill.chopro
+
+{title:The Continuing Story of Bungalow Bill}
+{subtitle:Lennon/McCartney}
+
+{soc}
+H[C]ey bu[G]ngalow b[C]ill  w[Fm]hat did you k[C]ill bu[Fm]ngalow bi[G]ll
+H[A]ey bu[E7]ngalow b[A]ill  w[Dm]hat did you k[A]ill b[Dm]ungalow b[E7]ill
+{eoc}
+
+He w[Am]ent out tiger hu[C]nting with his elep[F]hant and gun  [G]   [Am]
+In case of acci[C]dents he alw[F]ays took his mom
+He's the [Em]all american bu[G]llet he[Am]aded saxon mother's [Fm]son
+
+{c:Chorus}
+

@@ -1,0 +1,41 @@
+Title:         Feel So Low
+Album:         Porcupine Tree - Lightbulb Sun
+Author:        Steven Wilson
+Transcription: Giancarlo Erra <rofus@mindless.com>
+               Modified by Mark Botta
+
+NOTE: Really clean sound, a bit of reverb and chorus.
+
+"/"=bend up to                                
+"\"=bend down to
+"^"=hammer on, pull off
+"="=gliss
+
+    EADGBe
+A   002220
+C#m x46654
+E   022100
+
+MAIN APREGGIO
+
+|----0--0--0-------0--0--0------0--0--0------0--0--0-----------|
+|---0--0--0--0---0--0--0--0---0--0--0--0---0--0--0--0----------|
+|--------------------------------------------------------------|
+|-2------------2------------0-------------0--------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+
+SECOND APREGGIO
+
+|-----0--0--0--------------------------0--0--0-------0--0--0---|
+|---0--0--0--0--------5---5---5-------0--0--0--0----0--0--0--0-|
+|---------------------6---6---6--------------------------------|
+|-2-----------------6---6---6---6------------------------------|
+|-----------------4-------------------0------------0-----------|
+|--------------------------------------------------------------|
+
+NOTE: In the second half of the second there is an additional acoustic guitar
+      that made the same chords of the arpeggios.  There are manily four
+      down-picks without the E high, with a compressed acoustic sound. 
+
+

@@ -1,0 +1,140 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA29121>; Sat, 9 Jan 1993 15:09:20 -0800
+Received: from student.tc.umn.edu by animal-farm.nevada.edu id <AA03475@animal-farm.nevada.edu>; Sat, 9 Jan 1993 15:09:18 -0800
+Received: by student.tc.umn.edu; Sat, 9 Jan 93 17:09:03 -0600
+Date: Sat, 9 Jan 1993 16:38:03 -0600 (CST)
+From: "Steven J Schablitsky-1" <scha0118@student.tc.umn.edu>
+Sender: scha0118@student.tc.umn.edu
+Reply-To: scha0118@student.tc.umn.edu
+Subject: Guitar Tab
+To: jamesb@nevada.edu
+Message-Id: <Pine.3.05.9301072136.A7291-d100000@student.tc.umn.edu>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+
+From: Steve Schablitsky (scha0118@student.tc.umn.) U of Minnesota
+To: jamesb@nevada.edu
+January 9, 1993
+
+Here's one of my favorites from early Floyd. Enjoy!!      
+  
+        
+                         Wots...uh the Deal
+                  from the albumn Obscured by Clouds              
+                           by Pink Floyd
+
+The intro and verses of this song consist mainly of eighth notes played on
+the first four strings over a descending baseline going from (G, F#, F, E,
+D#, D.)
+
+                                                                      
+Intro and verses
+
+|-------3---------|-------2---------|-------1---------|-------0---------|--------------------------------------------------
+|-----3---3-------|-----3---3-------|-----3---3-------|-----3---3-------|----------------
+|---4-------4---4-|---0-------0---0-|---0-------0---0-|---0-------0---0-|-----------------------------------------------------------------------------------------------------------------------------------------------------------
+|-5-----------5---|-4-----------4---|-3-----------3---|-2-----------2---|-----------------------------------------------------------------------------------------------------------
+|-----------------|-----------------|-----------------|-----------------|------------
+|-----------------|-----------------|-----------------|-----------------|-------------------
+    
+   
+|-------0---------|-----------------|-------2---------|-2---0-0-0-0-----|
+|-----0---0-------|-----------------|-----1---1-------|-1---1-1-1-1-0---|
+|---0-------0---0-|---0---0---0---0-|---2-------2---2-|-----2-2-2-2-0---|
+|-1-----------1---|-0---1---2---1---|-0-----------0---|---0-0-0-0-0-0---|
+|-----------------|-----------------|-----------------|-----------------|
+|-----------------|-----------------|-----------------|-----------------|
+                                                                             
+Verses:   
+Heaven sent the promised land                                                 
+Looks alright from where I stand   
+'Cause I'm the man on the outside looking in   
+   
+Waitin' on the first step   
+Show me where the key is kept   
+Point me down the right line because it's time    
+To let me in                                                                 
+   
+Chorus I 
+                                                                         
+Flash the red is - wots...uh the deal?                                    
+Got to make it to the next meal   
+Try to keep up with the turnin' of the wheel   
+   
+Mile after mile  stone after stone   
+You turn to speak but you're alone   
+Million mile from home you're on your own     
+So let me in   
+                                                                       
+Chorus I  
+                                                                          
+Fly bright by candle light  with her by my side                              
+And if she prefers we never stir again   
+Someone sent the promised land  and I grabbed it with both hands          
+Now I'm the man on the inside looking out
+   
+Chorus II                                                                     
+                                                                          
+   
+   
+   
+                                                                            
+   I don't know exactly how the chorus is played, but I do know the basic
+chords used. Here they are: 
+
+       G     G7(no 3rd)    C        Em        Am        D7      D7sus4      
+
+    ---3---   ---1---   ---0---   ---0---   ---0---   ---2---   ---3---    
+    ---3---   ---3---   ---1---   ---0---   ---1---   ---1---   ---1---    
+    ---0---   ---0---   ---0---   ---0---   ---2---   ---2---   ---2---     
+    ---0---   ---3---   ---2---   ---2---   ---2---   ---0---   ---0---
+    ---2---   ---x---   ---3---   ---2---   ---0---   ---x---   ---x---
+    ---3---   ---x---   ---x---   ---0---   ---x---   ---x---   ---x--- 
+
+
+      D9
+
+    ---0---
+    ---1---
+    ---2---
+    ---0---
+    ---x---
+    ---x---
+
+Chorus I
+                 
+             G            G7           C      E  Am
+...So let me in from the cold  Turn my lead into gold
+
+                 G                        G7                           
+'Cause there's a chill wind blowin' in my soul and I think I`m        
+                                                                      
+         D7  D9                                                           
+ growing old
+
+
+Chorus II
+ 
+        G             G7             C             Em   Am                
+Hear me shout come on in  What's the news, where've you been 
+
+               G                  G7                  D7  D9  
+'Cause there's no wind left in my soul and I've grown old
+
+
+ 
+
+Sometimes, the last chords in the chorus go something like this:
+    
+ D7 D7sus4 D7 D9 D7
+
+
+
+                                               - Steve Schablitsky
+                                              
+                                                             
+

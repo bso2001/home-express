@@ -1,0 +1,66 @@
+Title:         The Sound of Muzak
+Album:         Porcupine Tree - In Absentia
+Author:        Steven Wilson
+Transcription: Modified by Mark Botta
+
+Uses drop D tuning (low E down a tone), as do Blackest Eyes and Strip The Soul.
+
+
+INTRO
+
+The intro/verse is shaped by this riff in that amazingly weird and wonderful
+7/4 Steven and Gavin have created:
+
+E|----------------------------|
+B|----------------------------|
+G|-------------------0--------|
+D|-----0----0------0---0--1-0-|
+A|---0-----3-----1------1-----|
+D|0------03---1---------------|
+
+
+CHORUS
+
+Chorus is a loop of Dsus9, Dm7+E, C+G, Bb6add9.
+
+        EADGBe
+Dsus9   xx0230
+Dm7+E   xx0560
+C+G     x32013
+Bb6add9 x10011
+
+Dsus9      Dm7+E
+One of the wonders of the world is going
+
+C+G             Bb6add9
+down, it's going down I know
+
+etc.
+
+
+SOLO 
+
+The only bit differing to that is the guitar solo which is similar timing
+to the 7/4 verse, but:
+
+The intro (just gtr on its own) is 2 repeats of:
+
+E|-------------------3--10----|
+B|-----3----3------3---3--3---|
+G|---2-----2-----0----------0-|
+D|0------03-------------------|
+A|------------3---------------|
+D|----------------------------|
+
+...then the main solo loop (with all instruments in) is loops of:
+
+E|-------------------3--10----|-------------------3--10----|
+B|-----3----3------3---3--3---|-----------------3---3--3---|
+G|---2-----2-----0----------0-|-----0----0----3----------0-|
+D|0------03-------------------|---0-----0------------------|
+A|------------3---------------|------------1---------------|
+D|----------------------------|5------5--------------------|
+
+...then back to the chorus, etc.
+
+

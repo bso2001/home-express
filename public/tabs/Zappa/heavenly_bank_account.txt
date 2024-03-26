@@ -1,0 +1,51 @@
+Heavenly Bank Account
+
+
+*The 7th bar of the VERSE (E) is in 2/4.
+The D#mi7b5 chord is played as follows:
+6 5 4 3 2 1	<-string (1=high/thin)
+x 6 7 6 7 x	<-fret
+Play this pattern on the 8th fret (x8989x) for the Fmi7b5 in the intro.
+
+
+
+INTRO
+|A	|	|C#mi	|	|D	|	|D#mi7b5|	|
+
+|A	|	|Fmi7b5	|F#mi	|B	|	|D	|E	||...
+
+
+VERSE
+|A	|	|C#mi	|	|D	|D#m7b5	|E*   |F#mi    |
+
+|B	|E	|A	|E	|	||
+
+
+
+BRIDGE
+|2	|3	 |10		|
+|4 DDAA	|4 DDAAAA| 8 DAAAAGADAG	|
+-----------------------------------------------------------------
+|7				|3		|		|
+|4				|4 A	D/F#	|A		|
+
+
+|4		|7		|
+|4 DDAADDAA	|8 DDAADAG	|
+-----------------------------------------------------------------
+|5				|3		|		|
+|4				|4		|		|
+
+
+|2	|3	 |7		|
+|4 DDAA	|4 DDAAAA|8 DDAADAG	|
+-----------------------------------------------------------------
+|6				|3		|		|
+|4				|4		|		|
+
+
+|4		|7		|
+|4 DDAADDAA	|8 DDAADAG	|
+-----------------------------------------------------------------
+|5				|3		|		|
+|4				|4		|		|

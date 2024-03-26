@@ -1,0 +1,283 @@
+From att.com!David.D.Nason Fri Jun 17 13:59:18 1994
+From: David.D.Nasoc@att.com
+Return-Path: <ddn@cbncp51.cb.att.com>
+Date: Fri, 17 Jun 94 13:59:18 EDT
+Original-From: ddn@cbncp51.cb.att.com
+To: guitar@nevada.edu
+Subject: /j/Jethro.Tull/ThickAsABrick.tab
+Status: OR
+
+
+Here's how I learned Tull's Thick as a Brick Edit #1.  I notice
+the archive contains something I posted on netnews many moons ago
+with only about half of it - here's the whole thing.
+There's a couple of parts where the guitar is pretty low in the
+mix and I'm not real sure I got it right, but it sounds pretty
+dang close to me.
+
+Couple of notes - there's a capo at the 3rd fret, which is why the
+strings at the left of the tab are noted the way they are.
+So, what I designated as an open string is actually fretted at
+the 3rd fret by the capo.  Secondly, one should use liberal
+interpretation of the tab - I wasn't too careful in some of the
+chordal sections about specifying exactly which notes of the chord
+are hit and which aren't.  Nor did I attempt to tab the exact
+strumming patterns.  As always, use tab as a guide, listen to
+it yourself, and make it sound right!
+
+The lyrics are here for reference only.  I placed them close to
+where they occur but I certainly didn't try to get all the nuances
+and rhythm for the vocals in there, nor did I make a great attempt
+to make sure I got all the words right.
+
+I should also note this is only the Ian Anderson acoustic part.
+There's a few small Martin Barre parts which I will leave as as
+exercise for the reader.
+
+Now that I got all the disclaimers out of the way, go for it.
+
+david nason
+ddn@cb.att.com
+
+==========
+
+INTRO:
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----5-----5-------------0-|
+ F:|---0-----0---------0-0-0---|---7-----7---------0---0---|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----7-----0-(5)---3-----|
+ G:|-------------------3-3-3---|---------------------------|
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----5-----5-----0-----0---|
+ F:|---0-----0---------0-0-0---|---7-----7-----0-----0-----|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----7-----5-----3-------|
+ G:|-------------------3-3-3---|---------------------------|
+
+VERSE:
+
+     Really don't mind if you sit this one
+     My word's but a whisper, your deafness a
+     I may make you feel, but I can't make you
+     Your sperm's in the gutter, your love's in the
+
+ g:|-2-----------0-------------|---------------------------|
+ D:|-3-----------1-------------|---------------------------|
+Bb:|-2-----------2-------------|-------0-0-0---------------|
+ F:|-0-----------2-------------|-------0-0-0---------------|
+ C:|-------------0-------------|-0-(2)-2-2-2---------------|
+ G:|---------------------------|-------3-3-3---------------|
+    ^            ^
+    |            |
+    ------------------ Just Dmaj and Amin chords - listen to the song
+                       for the strumming pattern.
+
+     out ...
+     shout ...
+     think ...
+     sink ...                                     So you
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----2-----2-------0-0-0---|
+ F:|---0-----0---------0-0-0---|---0-----0---------0-0-0---|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----4-----0-(2)-2-2-2---|
+ G:|-------------------3-3-3---|-------------------3-3-3---|
+
+                <repeat last four bars 4 times, once for each line of verse>
+
+CHORUS:
+
+     ride yourselves over the    field              as you
+     make all your animal        deals              and your
+     wisemen don't know how it   feels ...
+
+ g:|-3-----------0------0------|-2-0-2-0-2-3-2------2-0----|
+ D:|-3-----------2------0------|-3-3-3-3-3-3-3------3-3----|
+Bb:|-0-----------2------2------|-2-0-2-0-2-0-2------2-0----|
+ F:|-0-----------2------2------|-0-0-0-0-0-0-0------0-0----|
+ C:|-2-----------0------0------|---------------------------|
+ G:|-3-------------------------|---------------------------|
+    ^            ^      ^        ^  ^
+    |            |      |        |  |
+    ---------------------------------- Just Gmaj, Amaj, and Dmaj chords
+                                        with a little variation thrown 
+                                        in - listen to the song for the
+                                        strumming pattern.
+
+                <repeat last two bars 3 times, once for each line of chorus, th
+en>
+
+                                          to be thick as a
+
+ g:|-0-0-0-0-0-0-0---0-0-0--0--|-0-0-0--0------------------|
+ D:|-2-0-2-0-2-3-2---2-2-0-(2)-|-2-2-0-(2)-----------------|
+Bb:|-2-2-2-2-2-2-2---2-2-2--2--|-2-2-2--2------------------|
+ F:|-2-2-2-2-2-2-2---2-2-2--2--|-2-2-2--2------------------|
+ C:|-0-0-0-0-0-0-0---0-0-0--0--|-0-0-0--0------------------|
+ G:|---------------------------|---------------------------|
+
+
+BRIDGE:
+
+     brick
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----2-----2-------0-0-0---|    <both times>
+ F:|---0-----0---------0-0-0---|---0-----0---------0-0-0---|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----4-----0-(2)-2-2-2---|
+ G:|-------------------3-3-3---|-------------------3-3-3---|
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----2-----2-------0-0-0---|    <1st time only)
+ F:|---0-----0---------0-0-0---|---0-----0---------0-0-0---|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----4-----0-(2)-2-2-2---|
+ G:|-------------------3-3-3---|-------------------3-3-3---|
+
+        <now go back and do the second verse/chorus the same way>
+        <except replace these last two measures of the bridge>
+        <with the two measures below on the second pass>
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----5-----5-------0-----0-|-----5-----5-----0-----0---|    <2nd time only>
+ F:|---7-----7-------------0---|---7-----7-----0-----0-----|
+ C:|-0-----7-----0-(3)---5-----|-0-----7-----5-----3-------|
+ G:|---------------------------|---------------------------|
+
+        <and now onto what I'll call the 2nd bridge>
+
+BRIDGE 2:
+
+        And the love that I      feel
+
+ g:|-2-------------------------|-0-----------0-0-0---------|
+ D:|-3-------------------------|-1-----------0-1-0---------|
+Bb:|-2-------------------------|-2-----------2-2-2---------|
+ F:|-0-------------------------|-2-----------2-2-2---------|
+ C:|---------------------------|-0-----------0-0-0---------|
+ G:|---------------------------|---------------------------|
+    ^                            ^           ^ ^ ^
+    |                            |           | | |
+    ------------------ Just Dmaj and Amin chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+               is so far       away
+
+ g:|-0------------0------------|-0-------------------------|
+ D:|-1------------1------------|-0-------------------------|
+Bb:|-0------------0------------|-0-------------------------|
+ F:|-2------------0-(2)--------|-2-------0-(2)-------------|
+ C:|-3------------3------------|-2-------------0-(2)-------|
+ G:|---------------------------|-0-------------------0-(3)-|
+    ^             ^              ^
+    |             |              |
+    ------------------ Just Cmaj and Emin chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+        I'm a bad dream that I   just ha-a-a-a-a-d to-
+
+ g:|-3-------------------------|-2-0-2-0-2-0-2-0-----------|
+ D:|-3-------------------------|-2-2-2-2-2-2-2-2-----------|
+Bb:|-0-------------------------|-3-3-3-3-3-3-3-3-----------|
+ F:|-0-------------------------|-4-------------------------|
+ C:|-2-------------------------|-4-------------------------|
+ G:|-3-------------------------|---------------------------|
+    ^                            ^
+    |                            |
+    ------------------ Just Gmaj and F#maj chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+     da-a-a-a-a-a-y
+
+ g:|-2-0-2-0-2-0-2-0-----------|-2-0-2-0-2-----------------|
+ D:|-3-3-3-3-3-3-3-3-----------|-2-2-2-2-2-----------------|
+Bb:|-2-2-2-2-2-2-2-2-----------|-3-3-3-3-3-----------------|
+ F:|-0-------------------------|-4-------------------------|
+ C:|---------------------------|-4-------------------------|
+ G:|---------------------------|-2-------------------------|
+    ^                            ^
+    |                            |
+    ------------------ Just Dmaj and F#maj chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+           and you shake your    head             you say it's a
+
+ g:|-3-------------------------|-0-0-0-0-0-0-0-------------|
+ D:|-3-------------------------|-2-2-2-0-0-0-0-(2)---------|
+Bb:|-0-------------------------|-2-2-2-2-2-2-2-------------|
+ F:|-0-------------------------|-2-2-2-2-2-2-2-------------|
+ C:|-2-------------------------|-0-0-0-0-0-0-0-------------|
+ G:|-3-------------------------|---------------------------|
+    ^                            ^
+    |                            |
+    ------------------ Just Gmaj and Amaj chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+        <back to the intro part>
+
+     shame
+
+ g:|---------------------------|---------------------------|
+ D:|---------------------------|---------------------------|
+Bb:|-----2-----2-------0-0-0---|-----2-----2-------0-0-0---|
+ F:|---0-----0---------0-0-0---|---0-----0---------0-0-0---|
+ C:|-0-----4-----0-(2)-2-2-2---|-0-----4-----0-(2)-2-2-2---|
+ G:|-------------------3-3-3---|-------------------3-3-3---|
+
+        <now we'll segue into another verse>
+
+ g:|---------------------------|---------------------------|
+ D:|-------------------6-6-6---|-------------------6-6-6---|
+Bb:|-----5-----5-------7-7-7---|-----5-----5-------7-7-7---|
+ F:|---7-----7---------7-7-7---|---7-----7---------7-7-7---|
+ C:|-0-----7-----0-(5)-5-5-5---|-0-----7-----0-(5)-5-5-5---|
+ G:|---------------------------|---------------------------|
+
+VERSE:
+       Spin me back down the    years             and the
+     days of my                 youth
+       Draw the lace and black  curtain           and shut
+     out the whole                  truth
+     Spin me down the long ages let them sing the song
+
+ g:|---------------------------|---------------------------|
+ D:|-------------------6-6-6---|-------------------6-6-6---|
+Bb:|-----5-----5-------7-7-7---|-----5-----5-------7-7-7---|
+ F:|---7-----7---------7-7-7---|---7-----7---------7-7-7---|
+ C:|-0-----7-----0-(5)-5-5-5---|-0-----7-----0-(5)-5-5-5---|
+ G:|---------------------------|---------------------------|
+                       ^
+                       |
+                       Note that there's a subtle, but important change
+                       in the rhythm used for the Dmin at this point
+                       (as opposed to the previous two measures).
+
+        <repeat the above throughout the whole last verse then>
+        <one more time without the verse (12 measures total)>
+        <then ...>
+
+ g:|-5-------------------------|-2-------0-(2)-------------|
+ D:|-6-------------------------|-3-------3--3--------------|
+Bb:|-5-------------------------|-2-------0-(2)-------------|
+ F:|-0-------------------------|-0-------0--0--------------|
+ C:|---------------------------|---------------------------|
+ G:|---------------------------|---------------------------|
+    ^                            ^
+    |                            |
+    ------------------ Just Fmaj and Dmaj chords with a little spice
+                       thrown in - listen to the song for the strumming
+                       pattern.
+
+        <at which point my CD goes right into Bungle in the Jungle>
+

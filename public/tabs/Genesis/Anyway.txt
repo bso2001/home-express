@@ -1,0 +1,155 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+#
+
+Date: Fri, 10 Oct 1997 17:45:20 +0200
+From: "Raphael.Chaise@ceram.fr" <Raphael.Chaise@ceram.fr>
+Subject: Anyway
+
+Band : GENESIS
+Song : ANYWAY
+Album : THE LAMB LIES DOWN ON BROADWAY (Side 2)
+Transcription : for Piano, Two electric guitars and Bass
+
+Transcripted by Rapha=EBl Chaize, student in Nice, France
+
+
+NOTES :
+
+1- the "| |" symbolises the measures
+
+2- the notes put between "( )" are chords
+
+3- when a "/" is placed in a chord, it means that the bass differs from
+the fundamental note of the chord, for instance, (Fmadd9/Ab) the bass
+plays an [Ab]
+
+4- |Cm6+7(No Bass) // Cm6+7/D| means that the chord (Cm6+7/D) is played
+on the last time of the measure, if there are 2 chords, these 2 chords
+are played on the two last times of the measure (sorry but transcription
+is limited with the mail, anyway listen to the record, it's rather
+simple but hard to transcribe)
+
+5- the notes put between "[ ]" are single notes (played by the bass)
+
+6- "*" symbolises a bend, the tension of this bend is put between a "[
+]"
+for instance : *[1] bend one tone higher
+
+7- a tabbed note put in a "( )" results from the release of a bend, the
+note is not picked
+
+8- a "." put upon a tabbed note symbolises a staccato
+
+9- "~~~~" are vibratos
+
+
+I have tried to be the more precise I could with the tools of the mail.
+Therefore, I ask you to use this transcription while listening to the
+record for a better understanding.
+
+			~~~~~~~~~~~~~~~~~~~~~~~
+				ANYWAY
+			~~~~~~~~~~~~~~~~~~~~~~~
+				Genesis
+			~~~~~~~~~~~~~~~~~~~~~~~
+		   from The Lamb Lies Down On Broadway
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+INTRO : |Gmadd2|Cm6+7|C6+7|Bbmaj7|Gmadd2+6|Ebsus4|Ddim6|
+
+(Ddim6)All the pumping's nearly over for my (Gmadd2)sweet heart,
+(Cm6+7)This is the one for (C6+7)me,
+(Bbmaj7)Time to meet the chef,
+(Gmadd2+6)O boy! (Ebsus4)running man is out of (Ddim6)death.
+Feel cold and old, it's getting hard to (Fsus2)catch my breath.
+It's (Cadd4+7)back to ash, (Fsus2)'now, you've had your flash boy'
+(Cadd4+7)The rocks, in time, compress
+Your (Bbm6)blood to oil,
+Your (Fmadd9/Ab)flesh to coal,
+En(Bbm6)rich the soil,
+Not (Fmadd9)everybody's goal.
+
+(Gmadd2)Anyway, they (Cm6+7)say she comes on a (C6+7)pale horse,
+But I'm (Bbmaj7)sure I hear a train.
+(Gmadd2+6)O boy! I (Ebsus4)don't even feel no (Ddim6)pain -
+I guess I must be driving my(Fsus2)self insane.
+(Cadd4+7)Damn it all! does (Fsus2)earth plug a hole in heaven,
+(Cadd4+7)Or heaven plug a hole in (Bbm6)earth
+- 'How wonderful to be (Fmadd9/Ab)so profound,
+When (Bbm6)everything you are is dying (Fmadd9)underground.'
+
+INTERLUDE (Time/2):
+|Gmadd2|Cm6+7(No Bass) // Cm6+7/D|
+|Gmadd2|Cm6+7JD // Cm6+7 // Cm6+7/A|
+|Gmadd2|Cm6+7(with [D] [C#] [A] [C])|
+
+(|Gmadd2|Cm6+7|) with [D] [C#] [A] [C] [Bb] [G] [A] [G] [D] [G] [F] [C]
+[Eb] [D] 				 [C] [Eb]	[E]
+
+|Dmin6|
+
+ DOUBLE GUITAR SOLO :
+(Gmadd2)	                     .  (Cm6+7)                .
+|-------------------------------------------------------------14----
+|--13*[1]---11-13-(13)*[1]*(13)-11--11----15*[=BD]--------15*[=BD]------
+|---------------------------------14-----------------------------12-
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|	                             .                         .
+|-------------------------------------------------------------10----
+|-------------------------------------------------------11*[1]------
+|--14*[=BD]---12-14-(14)*[=BD]*(14)-12--12----12---------------------10-
+|---------------------------------15--------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+
+
+  (C6+7)	  .	    (Bbmaj7)  .	                .
+|----------------13------------16-15-16---18~~---16-15-16-----------
+|--15*[1]--15---------------------------------------------15~~~~----
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|               .                     .                 .
+|-------------------------------------------------------------------
+|--11*[1]--11--13--------------15-13-15---16~~---15-13-15-----------
+|---------------------------------------------------------12~~~~----
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+
+
+ (Gmadd2+6)	      (Ebsus4)	                   (Dmin6)
+|------------------------------------------------------17~~~~~------
+|--13*[1]--13--11---10-11--11--10~~~~-------------------------------
+|------------------------12-----------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+|
+|-------------------------------------------------------------------
+|-------------------------------------------------------15~~~~~-----
+|--14*[=BD]--14--12---10-12-------------------------------------------
+|------------------------13-10--12~~~~------------------------------
+|-------------------------------------------------------------------
+|-------------------------------------------------------------------
+
+
+INTRO : |Gmadd2|Cm6+7|C6+7|Bbmaj7|Gmadd2+6|Ebsus4|Ddim6|
+
+(Ddim6)I feel the pull on the rope, let me off at the (Gmadd2)rainbow.
+I (Cm6+7)could have been exploding in (C6+7)space
+Different (Bbmaj7)orbits for my bones
+(Gmadd2+6)Not me, just (Ebsus4)quietly buried in (Ddim6)stones,
+Keep the deadline open with my (Fsus2)maker!
+(Cadd4+7JG)See me stretch(Cadd4+7); for (Fsus2)God's elastic acre
+(Cadd4+7JG)The doorbell (Cadd4+7)rings and it's :
+"Good (Bbm6)morning Rael
+So (Fmadd9/Ab)sorry you had to wait.
+It won't be (Bbm6)long, yeh!
+She's (Fmadd9)very rarely late."

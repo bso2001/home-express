@@ -1,0 +1,167 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Rush - The Enemy Within
+
+        From the CD 'Grace Under Pressure'
+                Written by Lee/Lifeson/Peart
+                Mercury/Polygram Records 818476-2
+
+        This song is in D. The guitar is chorused. This tab is not
+entirely correct as there are many picking nuances throughout the song
+and I didn't tab out each and every one. I just tabbed the main ones and
+you are free to experiment with them.
+
+Jimmy Pena - jimmy@walrus.com
+
+| = not a standard bar line; just used to separate music
+~ = vibrato or held note
+s = slide
+/ = slide up from infinity
+\ = slide down into infinity
+[x35553] = fret box; this is a C chord - this is the same as standard
+  tablature, only turned on its side. Tilt your head clockwise to read.
+PM = Palm Mute; lightly touch the strings at the bridge with the edge of
+        the fret hand
+
+Chord legend:
+
+A : [x0222x]
+
+
+[Riff 1] - Let each note ring out
+    Bm               some kind of D    Bm?             Asus4 addD?
+e:-------------------|------------0---|------2--------|--------------|
+B:--------0----3-----|------0--3------|----3----------|------3---2---|
+G:------4---------0--|----2---------0-|--4------2-----|----2-------4-|
+D:----0--------------|-0--------------|2------------2-|--0-----------|
+A:--2----------------|----------------|-----------0---|0-------------|
+E:-------------------|----------------|---------------|--------------|
+
+[Riff 2]
+    Bm                               G                A
+e:--------------7---------------7\---------------3----------------5--|
+B:--------------7---------------7\---------------3----------------5--|
+G:--------------7---------------7\---------------4----------------6--|
+D:--------------9---------------9\-----------------------------------|
+A:--9--9-9-9-9------9--9-9-9-9-------5--5-5-5-5-------7--7-7-7-7-----|
+E:--7--7-7-7-7------7--7-7-7-7-------3--3-3-3-3-------5--5-5-5-5-----|
+ PM ----------|  PM ----------|   PM ----------|   PM ----------|
+
+[Riff 3]
+     Bm                             D            A              A/C#
+e:-------7~--------7~--------7~---------------|----------------------|
+B:-------7~--------7~--------7~-----10~-------|----------------------|
+G:-------7~--------7~--------7~-----11~-11----|--2--2-2-2--2-2--2----|
+D:-------9~--------9~--------9~-----12~-12----|--2--2-2-2--2-2--2----|
+A:--9-9-----9-9-9-----9-9-9-----9---12~-12----|--0--0-0-0--0-0--4----|
+E:--7-7-----7-7-7-----7-7-7-----7---10~-10s12-|----------------------|
+
+e:----------------------------|
+B:-------------------2--------|
+G:-----2-------------2--------|
+D:-----2--2----0-----2--------|
+A:--4--4--4------0---0---0----|
+E:----------------------------|
+
+[Riff 4]
+     Bm                          G          A
+e:-------------------------------------------------------------------|
+B:--------------------7----------------------------------------------|
+G:---------7--------7------------------4----------6------------------|
+D:-----------9----9------------------5----------7--------------------|
+A:------9--------------------------5----------7----------------------|
+E:---7---------------------------3----------5------------------------|
+  PM ----------------------------------------------|
+
+Progression:
+
+[Riff 1] x2
+
+[Riff 2] x4
+
+[Riff 2] x8 /w lyrics:
+
+Things crawl in the darkness that imagination spins.
+Needles at your nerve ends crawl like spiders on your skin.
+Pou - pou - pou - pounding in your temples, and a surge of adrenalin.
+Every muscle tense to fence the enemy within.
+
+[Riff 3] x1
+
+[Riff 3] x2 /w lyrics:
+
+I'm not not giving in to security under pressure,
+I'm not missing out on the promise of adventure,
+I'm not giving up on implausible dreams,
+Experience to extremes, experience to extremes...
+
+[Guitar tacet] while keyboard and bass imply [Riff 2] x4
+
+[Riff 2] x8 /w lyrics:
+
+Suspicious looking stranger flashes you a dangerous grin.
+Shadows across your window, was it only trees in the wind?
+Every breath a static charge, a tongue that tastes like tin.
+Steely-eyed outside to hide the enemy within.
+
+[Riff 3] x1
+
+[Riff 3] x2 /w lyrics:
+
+I'm not not giving in to security under pressure,
+I'm not missing out on the promise of adventure,
+I'm not giving up on implausible dreams,
+Experience to extremes, experience to extremes...
+
+[Riff 4] x8
+
+[Riff 1] x3
+
+To you is it movement or is it action? Is it contact or just reaction?
+And you, revolution, just resistance? Is it living or just existence?
+Yeah you, it takes a little more persistance to get up and go the
+
+ A  A
+distance.
+
+[Riff 3] x2 /w lyrics:
+
+I'm not not giving in -
+I'm not missing out -
+I'm not giving up on implausible dreams,
+Experience to extremes...
+
+[Riff 3] x2 /w lyrics:
+
+I'm not not giving in to security under pressure,
+I'm not missing out on the promise of adventure,
+I'm not giving up on implausible dreams,
+                                        ___(some kind of weird chord here
+                                       \/   can't make it out)
+Experience to extremes, experience to extremes...
+
+[Riff 4] x5
+
+e:-------------------------------------------------------------------|
+B:----------------------7--------------------------------------------|
+G:---------7----------7----------------------------------------------|
+D:------------9-----9----------------5-5-5-5---7-7-7-7---------------|
+A:------9----------------------------5-5-5-5---7-7-7-7---------------|
+E:---7-------------------------------3-3-3-3---5-5-5-5---------------|
+  PM -------------------------|
+                                     Hey hey hey yeah!
+
+
+Until fadeout:
+
+    Bm                             G               A
+e:-----7--7-----7--7-----7-----7-------3-------3------5-5-----5------|
+B:-----7--7-----7--7-----7-----7-------3-------3------5-5-----5------|
+G:-----7--7-----7--7-----7-----7-------4-------4------6-6-----6------|
+D:-----9--9-----9--9-----9-----9-------------------------------------|
+A:--9--------9--------9-----9------5--------5------7-------7---------|
+E:--7--------7--------7-----7------3--------3------5-------5---------|
+

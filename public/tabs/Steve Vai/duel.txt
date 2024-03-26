@@ -1,0 +1,84 @@
+the_duel.tab#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+Date: Sun, 01 Dec 1996 15:40:14 +0000
+From: CYBERIA ealing 7 
+Subject: TAB:  The Duel by Steve Vai
+
+
+                       The Duel - Steve Vai
+           -------------------------------------------
+                     Transcribed by Jeff Young 
+            [Laboriously typed up by Mardi Gras(TNT)]  
+
+
+    Notes:  Okay, this is not my work, but I heard someone wanted it and I had it lying around the house so I thought I'd do someone a favour.  I've taken this from the June '95 edition of "Guitar" magazine.  This is the riff that Vai plays when he has a guitar duel with actor Ralph Macchio (The Karate Kid) in the film, "Crossroads". 
+    Vai performs a series of arpeggios in a reprise of an etude by William Kanengiser (who apparently played all the classical parts in the movie).  This study in arpeggios is comprised almost entirely of notes from the A harmonic minor scale (A B C D E F G#).  The only nondiatonic series of notes would be found in measure 3, an arpeggio, which in this case functions as a secondary dominant to the Dm in measure 4.
+
+
+
+ 
+E|                        8  12^8                     |
+B|                    10           10                 |
+G|              5  9                   9  5           |
+D|           7                               7        |
+A|        7                                     5     |
+E|  5  6                                           8  |  
+
+
+
+E|                          7                       |
+B|                       9     9                    | 
+G|                 7  9           9  7              |
+D|           6  9                       9  6        |
+A|     5  7                                   7  5  |
+E|  7                                               |
+
+
+
+E|                                    5                              |
+B|                            5   8       8   5                      |
+G|                       6                        6                  |
+D|               5 ^ 7                                7   5          |
+A|          7                                                 7      |
+E|  5 ^ 9                                                         9  |
+
+
+
+E|                         10  13^10                      |
+B|                     10             10                  |
+G|              7  10                     10  7           |
+D|           7                                   7        |
+A|     5  6                                               |
+E|  5                                               10^8  |
+
+
+
+E|                                                       |
+B|                          9  12  9                     |
+G|                      10            10  7              |
+D|               9  12                       9  6        |
+A|         8^11                                    8     |
+E|  7  10                                             7  |
+
+
+
+E|                                      5       8        12   8 / | / 16
+B|                              5           5       10            |
+G|                      5           5                             |
+D|              7           7                                     |
+A|      7           7                                             |
+E|  5       8                                                     |    O
+
+
+
+    What more can I say?  This is just a truly cool riff.  It might be a little tough to start on if you are a beginner, but never-the-less, would be a nice riff to learn and use as a warming up exercise.
+
