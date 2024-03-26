@@ -7,7 +7,7 @@ fi
 
 cd $HOMEDIR
 
-pidfile=.home.pid
+pidfile=.run.pid
 
 if [ -f $pidfile ]
 then

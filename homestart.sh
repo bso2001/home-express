@@ -2,7 +2,7 @@
 
 if [ -z "$HOMEDIR" ]
 then
-	HOMEDIR=/var/www/html/home-prod
+	HOMEDIR=/var/www/bertolsson.com
 fi
 
 cd $HOMEDIR
@@ -10,6 +10,6 @@ cd $HOMEDIR
 DEBUG=home:*
 export DEBUG
 
-nohup node www.js $* > .home.log 2>&1 &
+nohup node www.js $* > .run.log 2>&1 &
 
-echo $! > .home.pid
+echo $! > .run.pid

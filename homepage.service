@@ -2,7 +2,7 @@
 Description=bertolsson.com
 
 [Service]
-ExecStart=/var/www/html/home-prod/homestart.sh
+ExecStart=/var/www/bertolsson.com/homestart.sh
 
 [Install]
 WantedBy=multi-user.target

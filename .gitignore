@@ -4,3 +4,4 @@ node_modules
 homepage.service
 homestart.sh
 homestop.sh
+package-lock.json
