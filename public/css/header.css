@@ -1,24 +1,20 @@
 header {
-	padding: 1vh 0 1vh 0;
-	height: 70px;
+	padding: 1.3vh 0 1.3vh 0;
 	display: flex !important;
 	align-items: center;
-	font-size: 191%;
 	width: 100%;
 	z-index: 100;
 	background-color: #00699f;
+	font-size: 107%;
 }
 
 @media (min-width: 999px) {
 	header {
-		padding: .5vh 0 .5vh 0;
-		height: 50px;
 	}
 }
 
-@media (max-width: 600px) {
+@media (max-width: 669px) {
 	header {
-		padding: 2vh 0 2vh 0;
 	}
 }
 
@@ -26,8 +22,7 @@ header .title {
 	font-family: "Helvetica Neue", sans-serif;
 	letter-spacing: 1px; text-transform: uppercase;
 	margin-left: 4vw;
-	flex: 1;
-	font-size: 131%;
+	flex: 1.25;
 }
 
 header .title a { color: #ffca45; }
@@ -47,6 +42,7 @@ header .menu {
 header .menu .menuitem a {
 	font-family: "Open Sans", "HelveticaNeue-Medium", "Lucida Sans", Arial;
 	letter-spacing: 1px;
+	font-size: 77%;
 	color: #e0e0e0;
 	text-transform: uppercase;
 }

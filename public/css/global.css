@@ -1,8 +1,10 @@
 
+html { font-size: 101%; }
+
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #544803;
+	background-color: #2f3245;
 }
 
 a { text-decoration: none; }
@@ -25,8 +27,6 @@ a:visited { color: inherit; }
 {
 	padding: 5%;
 	background-color: #f3f3f3;
-	font-size: 155%;
-	line-height: 125%;
 }
 
 .home-bg
